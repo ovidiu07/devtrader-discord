@@ -1,0 +1,52 @@
+{
+  "name": "devtrader-discord-provisioner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local infrastructure-as-code provisioner for the Learn to win Discord server.",
+  "scripts": {
+    "validate": "tsx src/cli.ts validate",
+    "plan": "tsx src/cli.ts plan",
+    "apply": "tsx src/cli.ts apply",
+    "export": "tsx src/cli.ts export",
+    "seed:validate": "tsx src/cli.ts seed:validate",
+    "seed:plan": "tsx src/cli.ts seed:plan",
+    "seed:apply": "tsx src/cli.ts seed:apply",
+    "seed:export": "tsx src/cli.ts seed:export",
+    "education:validate": "tsx src/cli.ts education:validate",
+    "education:plan": "tsx src/cli.ts education:plan",
+    "education:run": "tsx src/cli.ts education:run",
+    "education:preview": "tsx src/cli.ts education:preview",
+    "education:generate-calendar": "tsx src/cli.ts education:generate-calendar",
+    "daily-reports:validate": "tsx src/cli.ts daily-reports:validate",
+    "daily-reports:run": "tsx src/cli.ts daily-reports:run",
+    "generate-stiri-importante": "tsx src/cli.ts generate-stiri-importante",
+    "reuters-markets-report": "tsx src/cli.ts reuters-markets-report",
+    "daily-market-news": "tsx src/cli.ts daily-market-news",
+    "generate-calendar-economic": "tsx src/cli.ts generate-calendar-economic",
+    "generate-daily-reports": "tsx src/cli.ts generate-daily-reports",
+    "generate-all": "tsx src/cli.ts generate-all",
+    "scheduler:start": "tsx src/cli.ts scheduler:start",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "commander": "^14.0.2",
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3",
+    "fast-xml-parser": "^5.9.1",
+    "yaml": "^2.8.2",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.14"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

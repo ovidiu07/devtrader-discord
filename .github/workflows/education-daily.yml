@@ -1,0 +1,24 @@
+name: DevTrader daily education posts
+
+on:
+  workflow_dispatch:
+  # Uncomment only after repository secrets are configured.
+  # schedule:
+  #   - cron: "0 5 * * *"
+
+jobs:
+  education-daily:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+      - run: npm ci
+      - run: npm run education:validate
+      - run: npm run education:run
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}

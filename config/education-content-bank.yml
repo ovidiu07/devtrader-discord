@@ -1,0 +1,2206 @@
+posts:
+  - key: bazele_001
+    category: bazele_tradingului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: ce înseamnă un setup"
+    body: Un setup este un plan clar, nu doar o idee apărută pe grafic. El include contextul pieței, zona de interes, confirmarea, invalidarea și riscul acceptat.
+    practical: Alege un grafic și notează zona, confirmarea și invalidarea înainte să te gândești la execuție.
+    question: Cum ai descrie un setup complet în două fraze?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_002
+    category: bazele_tradingului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: confirmarea"
+    body: Confirmarea apare când piața începe să susțină scenariul urmărit. O zonă interesantă nu este suficientă fără reacție, structură sau alt semn coerent.
+    practical: "Compară două grafice: unul cu reacție clară și unul fără reacție. Notează diferența."
+    question: Tu ai tendința să aștepți confirmarea sau să anticipezi prea devreme?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_003
+    category: bazele_tradingului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: invalidarea"
+    body: Invalidarea este condiția care îți spune că ideea analizată nu mai este validă. Ea te ajută să rămâi disciplinat și să nu transformi o analiză într-o speranță.
+    practical: Scrie pentru un scenariu simplu ce anume l-ar invalida.
+    question: Îți este clară invalidarea înainte de fiecare analiză?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_004
+    category: bazele_tradingului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: suport și rezistență"
+    body: Suportul și rezistența sunt zone unde prețul a reacționat înainte. Ele nu sunt ziduri fixe, ci zone de interes care trebuie observate în context.
+    practical: Marchează trei zone și verifică dacă reacțiile au fost clare sau doar zgomot.
+    question: Cum diferențiezi o zonă importantă de una desenată forțat?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_005
+    category: bazele_tradingului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: trendul"
+    body: Un trend este o succesiune de maxime și minime care arată direcția dominantă. Începătorii greșesc des când ignoră direcția generală pentru o reacție mică.
+    practical: Identifică pe un grafic dacă piața face maxime și minime crescătoare sau descrescătoare.
+    question: Ce timeframe folosești ca să înțelegi trendul principal?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_006
+    category: bazele_tradingului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: lumânarea japoneză"
+    body: O lumânare arată deschiderea, închiderea, maximul și minimul unei perioade. Forma ei poate sugera presiune, respingere sau indecizie.
+    practical: Alege cinci lumânări mari și notează ce informație oferă fiecare.
+    question: "Ce observi prima dată la o lumânare: corpul sau umbrele?"
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_007
+    category: bazele_tradingului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: timeframe-ul"
+    body: Timeframe-ul schimbă perspectiva. Un grafic de 5 minute poate arăta haotic, în timp ce unul de 4 ore poate arăta o structură clară.
+    practical: Uită-te la același activ pe trei timeframe-uri și notează diferențele.
+    question: Pe ce timeframe înțelegi cel mai bine structura?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_008
+    category: bazele_tradingului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: lichiditatea"
+    body: Lichiditatea reprezintă zonele unde există interes și ordine. Prețul se poate mișca rapid către aceste zone, mai ales când mulți participanți urmăresc aceleași niveluri.
+    practical: Marchează maxime și minime evidente și observă reacția prețului în jurul lor.
+    question: Unde vezi de obicei lichiditate pe un grafic simplu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_009
+    category: bazele_tradingului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: volatilitatea"
+    body: Volatilitatea arată cât de mult și cât de repede se mișcă piața. Volatilitatea mare poate crea oportunități de studiu, dar și risc mai mare.
+    practical: Compară o zi calmă cu o zi volatilă și notează cum se schimbă lumânările.
+    question: Cum îți dai seama că piața este prea agitată pentru nivelul tău?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_010
+    category: bazele_tradingului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: volumul"
+    body: Volumul arată activitatea din piață. Nu oferă răspunsuri singur, dar poate ajuta la înțelegerea interesului din jurul unor zone.
+    practical: Observă ce se întâmplă cu volumul când prețul sparge o zonă importantă.
+    question: Folosești volumul ca filtru sau doar observi prețul?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_011
+    category: bazele_tradingului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: trading față de investiții"
+    body: Tradingul urmărește mișcări pe perioade mai scurte, în timp ce investițiile au de obicei orizont mai lung. Confuzia dintre ele poate duce la decizii dezordonate.
+    practical: Scrie diferența dintre o analiză de trade și o decizie de investiție.
+    question: Ce abordare ți se potrivește mai bine acum și de ce?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_012
+    category: bazele_tradingului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: contextul pieței"
+    body: "Contextul este imaginea de ansamblu: trend, zone, volatilitate și evenimente relevante. Fără context, o intrare poate părea bună doar pentru că este izolată."
+    practical: Înainte de orice grafic mic, descrie contextul pe timeframe mai mare.
+    question: Ce element de context omiți cel mai des?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_013
+    category: bazele_tradingului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: structura pieței"
+    body: Structura pieței arată cum se formează maximele, minimele și reacțiile. Ea te ajută să nu privești fiecare lumânare ca pe un semnal separat.
+    practical: Desenează ultimele trei maxime și minime relevante.
+    question: Piața analizată acum are structură clară sau este laterală?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_014
+    category: bazele_tradingului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: zona de interes"
+    body: O zonă de interes este un loc unde merită să observi reacția pieței. Nu orice zonă devine automat motiv de execuție.
+    practical: Alege o singură zonă pe grafic și explică de ce contează.
+    question: Ce criteriu folosești ca să alegi o zonă de interes?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_015
+    category: bazele_tradingului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: breakout-ul"
+    body: Un breakout apare când prețul trece peste o zonă importantă. Pentru studiu, contează dacă mișcarea este susținută sau revine rapid în interval.
+    practical: Caută un breakout reușit și unul eșuat pe un grafic istoric.
+    question: Ce diferență observi între cele două exemple?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_016
+    category: bazele_tradingului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: range-ul"
+    body: Un range apare când piața se mișcă între zone relativ clare, fără direcție dominantă. În range, răbdarea și filtrarea sunt foarte importante.
+    practical: Marchează limita superioară și inferioară a unui range recent.
+    question: Îți este mai ușor să studiezi trendul sau range-ul?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_017
+    category: bazele_tradingului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: retestul"
+    body: Un retest este revenirea prețului către o zonă depășită. El poate ajuta la observarea reacției, dar nu trebuie tratat automat ca motiv de intrare.
+    practical: Găsește trei retesturi și notează care au avut reacție clară.
+    question: Ce confirmare ai vrea să vezi la un retest?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_018
+    category: bazele_tradingului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: impuls și corecție"
+    body: Un impuls este o mișcare puternică, iar corecția este pauza sau retragerea ulterioară. Înțelegerea lor ajută la citirea ritmului pieței.
+    practical: Separă pe grafic mișcările impulsive de corecții.
+    question: Te atrag mai mult impulsurile sau aștepți corecții?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_019
+    category: bazele_tradingului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: confluența"
+    body: "Confluența înseamnă că mai multe elemente susțin aceeași idee: zonă, trend, reacție, volum sau context. Nu înseamnă certitudine."
+    practical: Notează două elemente care se aliniază într-o analiză simplă.
+    question: Câte criterii ai nevoie ca să consideri o idee suficient de clară?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_020
+    category: bazele_tradingului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: planul înainte de grafic mic"
+    body: Un plan bun începe cu imaginea mare. Dacă sari direct pe timeframe mic, poți confunda zgomotul cu o oportunitate reală.
+    practical: Începe analiza de azi cu timeframe mare și coboară treptat.
+    question: Ce se schimbă când pornești de la imaginea mare?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_021
+    category: bazele_tradingului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: prețul față de indicatori"
+    body: Indicatorii pot ajuta, dar prețul rămâne sursa principală de informație. Prea mulți indicatori pot crea confuzie pentru începători.
+    practical: Ascunde indicatorii pentru zece minute și descrie doar structura prețului.
+    question: Ce indicator folosești și ce problemă concretă rezolvă?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_022
+    category: bazele_tradingului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: zona laterală"
+    body: O piață laterală poate obosi traderii pentru că oferă multe mișcări false. În astfel de perioade, observația poate fi mai valoroasă decât acțiunea.
+    practical: Identifică dacă prețul are direcție sau doar oscilează într-un interval.
+    question: Cum te comporți când piața nu are direcție clară?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_023
+    category: bazele_tradingului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: nivelul rotund"
+    body: Nivelurile rotunde atrag atenția multor participanți. Ele pot deveni zone de reacție, dar trebuie analizate împreună cu structura.
+    practical: Urmărește un nivel rotund și notează dacă prețul reacționează în jurul lui.
+    question: Ai observat reacții mai clare în jurul nivelurilor rotunde?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_024
+    category: bazele_tradingului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: închiderea lumânării"
+    body: Închiderea lumânării oferă mai mult context decât mișcarea din timpul formării ei. Mulți începători reacționează prea repede înainte ca lumânarea să se închidă.
+    practical: Compară ce părea să se întâmple în timpul lumânării cu ce a rămas după închidere.
+    question: Aștepți închiderea lumânării în analizele tale?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_025
+    category: bazele_tradingului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: scenariul alternativ"
+    body: O analiză matură include și scenariul alternativ. Dacă piața nu confirmă ideea principală, trebuie să știi ce urmărești în continuare.
+    practical: Scrie scenariul principal și scenariul alternativ pentru același grafic.
+    question: Îți pregătești și scenarii opuse sau urmărești o singură direcție?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_026
+    category: bazele_tradingului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: zgomotul de piață"
+    body: Zgomotul este mișcarea care pare importantă pe termen foarte scurt, dar nu schimbă structura. Filtrarea zgomotului se învață prin observație.
+    practical: Compară mișcarea de pe 1 minut cu cea de pe 1 oră.
+    question: Ce timeframe te ajută să reduci zgomotul?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_027
+    category: bazele_tradingului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: jurnalul de observații"
+    body: Un jurnal de observații nu este doar pentru trade-uri. Poți nota ce vezi, ce ai aștepta și unde analiza devine invalidă.
+    practical: Scrie trei observații despre un grafic fără să formulezi o decizie de execuție.
+    question: Ce ai descoperit când ai analizat fără presiune?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_028
+    category: bazele_tradingului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: răbdarea în analiză"
+    body: Răbdarea înseamnă să lași piața să ofere informații suficiente. O analiză grăbită poate transforma orice mișcare într-un motiv imaginar.
+    practical: Alege o zonă și așteaptă reacția înainte să tragi concluzii.
+    question: Ce te face să grăbești cel mai des analiza?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_029
+    category: bazele_tradingului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: claritatea setup-ului"
+    body: Un setup clar poate fi explicat simplu. Dacă ai nevoie de multe scuze ca să îl justifici, probabil analiza nu este suficient de curată.
+    practical: Explică un setup în maximum cinci rânduri.
+    question: Când ai simțit ultima dată că forțezi o explicație?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_030
+    category: bazele_tradingului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: lecția săptămânii"
+    body: La final de săptămână, cel mai util lucru este să vezi ce concepte ai înțeles mai bine și ce rămâne neclar. Progresul vine din repetiție.
+    practical: Alege trei concepte din săptămână și notează câte un exemplu pentru fiecare.
+    question: Ce concept vrei să repeți săptămâna viitoare?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: risc_001
+    category: managementul_riscului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: riscul se stabilește înainte"
+    body: Riscul trebuie decis înainte de execuție. Dacă îl calculezi după ce piața se mișcă, decizia devine emoțională și greu de controlat.
+    practical: Scrie înainte de analiză cât ai accepta să pierzi într-un scenariu de studiu.
+    question: Ai o regulă clară de risc pentru fiecare idee?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_002
+    category: managementul_riscului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: risk per trade"
+    body: Risk per trade înseamnă cât din cont accepți să riști pe o singură idee. O valoare mică ajută la continuitate și reduce presiunea emoțională.
+    practical: Calculează cât înseamnă 1% dintr-un cont ipotetic de 1.000 de lei.
+    question: Ce procent ți se pare realist pentru un începător?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_003
+    category: managementul_riscului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: position sizing"
+    body: Position sizing leagă distanța până la invalidare de suma riscată. Fără acest calcul, aceeași idee poate avea risc foarte diferit.
+    practical: Construiește un exemplu simplu cu risc fix și stop mai larg versus stop mai strâns.
+    question: Calculezi mărimea poziției înainte de scenariu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_004
+    category: managementul_riscului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: stop loss logic"
+    body: Stop loss-ul are sens când este legat de invalidare, nu de o sumă aleasă la întâmplare. El protejează disciplina și capitalul.
+    practical: Alege o idee și marchează unde structura nu ar mai susține scenariul.
+    question: Pui stop-ul după structură sau după confort emoțional?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_005
+    category: managementul_riscului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: drawdown-ul"
+    body: Drawdown-ul este scăderea contului față de un punct anterior. El face parte din trading, dar trebuie controlat prin risc mic și reguli clare.
+    practical: Simulează cinci pierderi consecutive cu risc de 1% și apoi cu risc de 5%.
+    question: Ce observi despre diferența dintre cele două simulări?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_006
+    category: managementul_riscului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: raportul risk-reward"
+    body: Raportul risk-reward compară riscul asumat cu potențialul scenariului. Nu garantează rezultatul, dar ajută la evaluarea ideii.
+    practical: Desenează un exemplu cu risc de 1R și potențial de 2R.
+    question: Urmărești raportul înainte sau după ce îți place ideea?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_007
+    category: managementul_riscului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pierderile consecutive"
+    body: Pierderile consecutive sunt normale într-un proces cu incertitudine. Problema apare când fiecare pierdere schimbă regula următoarei decizii.
+    practical: Scrie ce ai face după trei pierderi ipotetice la rând.
+    question: Ai o regulă pentru pauză după o serie dificilă?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_008
+    category: managementul_riscului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: max daily loss"
+    body: O limită zilnică de pierdere protejează traderul de decizii impulsive. Când limita este atinsă, ziua devine una de analiză, nu de execuție.
+    practical: Definește o limită zilnică ipotetică și ce faci după atingerea ei.
+    question: Ți-ar fi greu să te oprești pentru restul zilei?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_009
+    category: managementul_riscului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: un trade nu te definește"
+    body: O singură idee nu spune nimic definitiv despre valoarea ta ca trader. Procesul se evaluează pe serii de decizii, nu pe un rezultat izolat.
+    practical: Notează trei criterii de proces care contează mai mult decât rezultatul unei idei.
+    question: "Ce te afectează mai tare: pierderea sau faptul că ai încălcat planul?"
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_010
+    category: managementul_riscului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: nu muta invalidarea"
+    body: Mutarea invalidării după ce piața merge împotriva scenariului transformă riscul planificat în risc emoțional. Regula trebuie stabilită înainte.
+    practical: Găsește un exemplu istoric unde mutarea invalidării ar fi agravat pierderea.
+    question: Ce emoție apare când vrei să muți stop-ul?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_011
+    category: managementul_riscului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: nu adăuga la pierdere"
+    body: Adăugarea la o idee care merge împotriva planului poate mări riscul rapid. Pentru începători, protejarea capitalului este mai importantă decât recuperarea.
+    practical: Simulează cum crește riscul dacă dublezi poziția fără un plan nou.
+    question: Ai simțit vreodată tentația să repari o idee prin mărirea poziției?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_012
+    category: managementul_riscului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: R-multiple"
+    body: R-multiple exprimă rezultatul în unități de risc. Dacă riști 1R, un rezultat de 2R înseamnă de două ori riscul inițial, indiferent de sumă.
+    practical: "Transformă trei rezultate ipotetice în R: minus 1R, plus 1.5R, plus 2R."
+    question: Ți se pare mai clar să gândești în R decât în bani?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_013
+    category: managementul_riscului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: capitalul ca instrument"
+    body: Capitalul este instrumentul care îți permite să continui să înveți. Dacă îl expui excesiv, pierzi și resursa, și claritatea mentală.
+    practical: Scrie o regulă prin care protejezi capitalul într-o zi volatilă.
+    question: Ce înseamnă pentru tine protejarea capitalului?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_014
+    category: managementul_riscului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: riscul și timeframe-ul"
+    body: Un timeframe mai mare poate avea invalidare mai largă. Asta cere poziție mai mică dacă vrei să păstrezi același risc total.
+    practical: Compară aceeași zonă pe 15 minute și pe 4 ore.
+    question: Cum ajustezi riscul când stop-ul este mai larg?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_015
+    category: managementul_riscului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: riscul înainte de știri"
+    body: Înainte de știri importante, volatilitatea poate crește rapid. Pentru mulți începători, reducerea expunerii sau observația este o alegere responsabilă.
+    practical: Notează ce evenimente ai evita până înțelegi mai bine reacția pieței.
+    question: Cum verifici calendarul înainte de o sesiune?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_016
+    category: managementul_riscului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: riscul emoțional"
+    body: Riscul nu este doar matematic. Dacă o pierdere mică te face să încalci planul, acea mărime poate fi prea mare pentru disciplina ta actuală.
+    practical: Evaluează pe o scară de la 1 la 5 cât de calm rămâi după o pierdere.
+    question: Ce mărime de risc te ajută să gândești clar?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_017
+    category: managementul_riscului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: planul de ieșire"
+    body: Ieșirea trebuie gândită înainte, nu improvizată sub presiune. Include invalidare, zone de management și condiții în care nu mai are sens să continui.
+    practical: Scrie un plan simplu de ieșire pentru o analiză istorică.
+    question: Ai mai multă claritate la intrare sau la ieșire?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_018
+    category: managementul_riscului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: riscul într-o piață laterală"
+    body: Într-o piață laterală, mișcările false pot fi frecvente. Un risc mai mic și filtre mai stricte pot ajuta la protejarea procesului.
+    practical: Găsește un range și numără câte mișcări au revenit rapid în interior.
+    question: Ce regulă ai folosi într-o piață fără direcție?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_019
+    category: managementul_riscului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: jurnalul de risc"
+    body: Un jurnal de risc notează cât ai planificat să riști, ce ai respectat și ce ai schimbat. El arată dacă problema este analiza sau execuția.
+    practical: "Creează trei coloane: risc planificat, risc real, lecție."
+    question: Ai urmărit vreodată diferența dintre risc planificat și risc real?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_020
+    category: managementul_riscului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: recuperarea forțată"
+    body: Dorința de recuperare rapidă poate duce la decizii slabe. După o pierdere, obiectivul este revenirea la proces, nu compensarea emoției.
+    practical: Scrie o regulă de pauză după o pierdere care te afectează.
+    question: Ce faci ca să nu transformi o pierdere în mai multe greșeli?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_021
+    category: managementul_riscului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: risc fix versus risc variabil"
+    body: Riscul fix ajută începătorii să compare decizii mai ușor. Riscul variabil cere experiență și reguli clare, altfel devine impulsiv.
+    practical: Compară un jurnal cu risc fix și unul cu risc schimbat la fiecare idee.
+    question: Care variantă te-ar ajuta să fii mai disciplinat?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_022
+    category: managementul_riscului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: mărimea contului și presiunea"
+    body: Un cont prea mare pentru nivelul tău poate crește presiunea. Educația și simularea pot fi mai utile decât expunerea mare la început.
+    practical: Scrie ce ai vrea să demonstrezi într-un cont demo înainte de bani reali.
+    question: Ce te-ar ajuta să reduci presiunea deciziilor?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_023
+    category: managementul_riscului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: riscul pe zi față de risc pe trade"
+    body: Riscul pe trade controlează o idee. Riscul pe zi controlează comportamentul într-o sesiune întreagă. Ambele reguli au rol diferit.
+    practical: Definește un exemplu cu 1R pe trade și 3R limită zilnică.
+    question: Care limită ți se pare mai greu de respectat?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_024
+    category: managementul_riscului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: seria de rezultate"
+    body: O strategie sau un proces se evaluează pe o serie, nu pe un rezultat izolat. De aceea, riscul trebuie să permită suficiente observații.
+    practical: Imaginează zece decizii și notează cum ar arăta o serie mixtă.
+    question: Ai răbdare să evaluezi o serie sau judeci după prima idee?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_025
+    category: managementul_riscului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: costurile mici"
+    body: Spread-ul, comisioanele și alunecarea pot afecta rezultatul, mai ales pe timeframe-uri mici. Ele trebuie incluse în gândirea de risc.
+    practical: Notează ce costuri există pe piața pe care o studiezi.
+    question: Ai inclus costurile în exemplele tale de risc?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_026
+    category: managementul_riscului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: riscul în perioade volatile"
+    body: Când lumânările devin mari și rapide, aceeași poziție poate deveni prea agresivă. Adaptarea riscului este parte din disciplină.
+    practical: Compară dimensiunea lumânărilor într-o zi calmă și una agitată.
+    question: Ce semn îți spune că trebuie să reduci ritmul?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_027
+    category: managementul_riscului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: greșeala stop-ului prea strâns"
+    body: Un stop prea strâns poate fi atins de zgomot normal. Un stop prea larg poate mări riscul. Echilibrul vine din structură și calcul.
+    practical: Găsește un exemplu unde invalidarea reală era mai departe decât părea inițial.
+    question: Cum alegi între stop strâns și stop logic?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_028
+    category: managementul_riscului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: regula pauzei"
+    body: Pauza este o unealtă de risk management. Când observi impuls, oboseală sau frustrare, pauza poate preveni decizii costisitoare.
+    practical: Scrie trei semne personale care îți arată că ai nevoie de pauză.
+    question: Ce semn ignori cel mai des?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_029
+    category: managementul_riscului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: lecția de risc a săptămânii"
+    body: La final de săptămână, întreabă-te dacă ai protejat procesul. Nu contează doar ce ai analizat, ci și cum ai controlat expunerea.
+    practical: Revizuiește trei idei și notează dacă riscul era clar înainte.
+    question: Care a fost cea mai importantă lecție de risc din săptămână?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_030
+    category: managementul_riscului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: checklist de risc pentru luni"
+    body: "O săptămână bună începe cu reguli scrise: risc pe idee, limită zilnică, evenimente importante și condiții în care stai deoparte."
+    practical: Pregătește o listă de cinci reguli de risc pentru săptămâna următoare.
+    question: Ce regulă vrei să respecți mai strict săptămâna viitoare?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: macro_001
+    category: macroeconomie
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: de ce contează CPI"
+    body: CPI măsoară evoluția prețurilor pentru consumatori. O surpriză față de așteptări poate schimba percepția despre dobânzi și volatilitate.
+    practical: Urmărește la următoarea publicare cifra, așteptarea și reacția inițială a pieței.
+    question: "Ce urmărești prima dată după CPI: cifra sau reacția pieței?"
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_002
+    category: macroeconomie
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: PPI pe înțeles simplu"
+    body: PPI urmărește prețurile la nivel de producător. Poate oferi indicii despre presiunile inflaționiste care ajung ulterior la consumatori.
+    practical: Compară o publicare PPI cu reacția dolarului și a randamentelor.
+    question: Ți se pare PPI la fel de important ca CPI?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_003
+    category: macroeconomie
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: Fed și dobânzile"
+    body: Fed influențează costul banilor în economia americană. Așteptările despre dobânzi pot mișca acțiuni, obligațiuni, dolar și aur.
+    practical: Notează ce spune piața înainte și după o decizie de dobândă.
+    question: Te uiți mai mult la decizie sau la tonul comunicării?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_004
+    category: macroeconomie
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: BCE și zona euro"
+    body: BCE urmărește inflația și condițiile economice din zona euro. Mesajele sale pot influența euro, obligațiunile și sentimentul regional.
+    practical: Citește rezumatul unei decizii BCE și extrage trei idei principale.
+    question: Ce activ crezi că reacționează cel mai vizibil la BCE?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_005
+    category: macroeconomie
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: randamentele Treasury"
+    body: Randamentele Treasury arată costul finanțării și așteptările pieței. Mișcările lor pot influența acțiunile, dolarul și aurul.
+    practical: Observă relația dintre randamentul la 10 ani și aur într-o zi cu știri.
+    question: Ai urmărit vreodată randamentele înainte de graficul principal?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_006
+    category: macroeconomie
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: NFP pe scurt"
+    body: NFP arată schimbarea locurilor de muncă din SUA. Publicarea poate aduce volatilitate mare, mai ales când rezultatul diferă mult de așteptări.
+    practical: Urmărește ora publicării și compară prima reacție cu închiderea lumânării după 30 de minute.
+    question: Ce te ajută să nu tragi concluzii prea repede după NFP?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_007
+    category: macroeconomie
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: șomajul"
+    body: Rata șomajului arată o parte din sănătatea pieței muncii. O piață a muncii puternică poate influența așteptările despre dobânzi.
+    practical: Notează cum se schimbă interpretarea când șomajul și NFP transmit mesaje diferite.
+    question: Ce indicator ai analiza împreună cu șomajul?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_008
+    category: macroeconomie
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: PIB-ul"
+    body: PIB-ul măsoară activitatea economică. Creșterea sau încetinirea poate schimba sentimentul investitorilor, dar reacția depinde de context.
+    practical: Caută o zi cu publicare PIB și vezi dacă piața a reacționat durabil sau scurt.
+    question: De ce crezi că uneori o cifră bună nu duce la reacție pozitivă?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_009
+    category: macroeconomie
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: inflația"
+    body: Inflația influențează puterea de cumpărare și deciziile băncilor centrale. Pentru traderi, contează atât cifra, cât și așteptările pieței.
+    practical: Scrie diferența dintre inflație ridicată și inflație peste așteptări.
+    question: Care diferență ți se pare mai importantă pentru reacția pieței?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_010
+    category: macroeconomie
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: dolarul"
+    body: Dolarul poate reacționa la dobânzi, risc global și date macro. Pentru multe piețe, direcția dolarului oferă context important.
+    practical: Compară dolarul cu aurul într-o zi cu volatilitate macro.
+    question: Ce observi când dolarul se întărește rapid?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_011
+    category: macroeconomie
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: aurul"
+    body: Aurul este influențat de dolar, randamente, inflație și sentiment. Nu reacționează mereu la fel, de aceea contextul este esențial.
+    practical: Urmărește aurul lângă randamente și dolar, nu izolat.
+    question: Ce factor pare să conteze cel mai mult pentru aur în ultima perioadă studiată?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_012
+    category: macroeconomie
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: petrolul"
+    body: Petrolul poate reacționa la ofertă, cerere, geopolitică și date economice. Mișcările lui pot influența inflația și sentimentul pieței.
+    practical: Notează o știre despre petrol și observă dacă reacția a fost imediată sau treptată.
+    question: Ce legătură vezi între petrol și inflație?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_013
+    category: macroeconomie
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: risk-on și risk-off"
+    body: Risk-on descrie perioade când investitorii caută active mai riscante. Risk-off apare când protecția capitalului devine prioritară.
+    practical: Alege o zi volatilă și notează ce active au crescut și ce active au scăzut.
+    question: Cum recunoști un sentiment de risk-off?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_014
+    category: macroeconomie
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: așteptările pieței"
+    body: Piețele reacționează des la diferența dintre date și așteptări, nu doar la cifra brută. De aceea calendarul economic include estimări.
+    practical: Pentru o știre, notează valoarea precedentă, estimarea și rezultatul.
+    question: Care dintre cele trei valori ți se pare cel mai ușor de ignorat?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_015
+    category: macroeconomie
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: reacția inițială"
+    body: Prima reacție după o știre poate fi zgomotoasă. Uneori direcția reală se clarifică după ce piața absoarbe informația.
+    practical: Compară prima lumânare de după știre cu următoarele trei.
+    question: Ai văzut exemple în care prima reacție a fost inversată?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_016
+    category: macroeconomie
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: conferințele băncilor centrale"
+    body: Conferințele pot conta la fel de mult ca decizia de dobândă. Tonul, nuanțele și întrebările pot schimba așteptările pieței.
+    practical: Ascultă sau citește un rezumat și notează trei cuvinte-cheie repetate.
+    question: "Ce contează mai mult pentru tine: cifra sau mesajul?"
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_017
+    category: macroeconomie
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: PMI"
+    body: PMI oferă indicii despre activitatea din industrie și servicii. Poate arăta dacă economia accelerează sau încetinește.
+    practical: Compară PMI manufacturier cu PMI servicii și notează diferența.
+    question: Ce sector pare mai important în economia urmărită?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_018
+    category: macroeconomie
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: vânzările retail"
+    body: Vânzările retail arată comportamentul consumatorilor. Ele pot influența așteptările despre creștere economică și presiuni inflaționiste.
+    practical: Urmărește reacția dolarului după o publicare importantă.
+    question: Ce ar putea însemna consum puternic pentru dobânzi?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_019
+    category: macroeconomie
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: calendarul economic"
+    body: Calendarul economic te ajută să știi când pot apărea mișcări rapide. Nu este o listă de idei, ci o hartă a riscului de volatilitate.
+    practical: Verifică evenimentele cu impact ridicat înainte de sesiunea de analiză.
+    question: Care eveniment preferi să îl urmărești doar ca observator?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_020
+    category: macroeconomie
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: datele revizuite"
+    body: Uneori datele macro anterioare sunt revizuite. Piața poate reacționa nu doar la cifra nouă, ci și la schimbarea datelor precedente.
+    practical: Caută într-un calendar unde apare valoarea revizuită și notează diferența.
+    question: Ai observat revizuiri care au schimbat interpretarea?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_021
+    category: macroeconomie
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: core CPI"
+    body: Core CPI exclude elemente volatile precum alimentele și energia. Mulți participanți îl urmăresc pentru a înțelege presiunea inflaționistă de bază.
+    practical: Compară CPI general cu Core CPI într-o publicare recentă.
+    question: Care cifră a influențat mai mult reacția pieței?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_022
+    category: macroeconomie
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: politica monetară"
+    body: Politica monetară include dobânzi, mesaje și alte instrumente ale băncilor centrale. Ea schimbă costul capitalului și apetitul pentru risc.
+    practical: Scrie în trei rânduri cum dobânzile ridicate pot influența acțiunile.
+    question: Ce legătură vezi între dobânzi și evaluările companiilor?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_023
+    category: macroeconomie
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: corelațiile macro"
+    body: Corelațiile dintre active se pot schimba. Dolarul, aurul, randamentele și indicii nu se mișcă mereu în relații perfecte.
+    practical: Alege două active și verifică dacă relația lor a fost stabilă în ultimele zile.
+    question: Ce faci când o corelație obișnuită nu mai funcționează?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_024
+    category: macroeconomie
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: geopolitica"
+    body: Evenimentele geopolitice pot crește incertitudinea și volatilitatea. Reacția depinde de activele afectate și de durata evenimentului.
+    practical: Notează ce piețe reacționează primele la o știre geopolitică majoră.
+    question: Cum separi informația relevantă de zgomotul de știri?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_025
+    category: macroeconomie
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: sezonul de raportări"
+    body: Raportările companiilor pot schimba sentimentul pentru acțiuni și indici. Rezultatele contează, dar și perspectivele comunicate.
+    practical: Alege o companie mare și urmărește reacția indicelui după raportare.
+    question: "Ce contează mai mult: rezultatul trecut sau ghidajul viitor?"
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_026
+    category: macroeconomie
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: lichiditatea în jurul știrilor"
+    body: În jurul știrilor, lichiditatea se poate modifica, iar spread-urile pot deveni mai dificile. Pentru începători, observația este deseori mai utilă.
+    practical: Notează cum arată lumânările cu cinci minute înainte și după o știre.
+    question: Ce semne îți arată că piața este greu de citit?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_027
+    category: macroeconomie
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: interpretarea datelor mixte"
+    body: Datele macro pot transmite mesaje diferite. O cifră bună și una slabă în aceeași zi cer răbdare, nu concluzii grăbite.
+    practical: Găsește o zi cu două date importante și notează care a dominat reacția.
+    question: Cum eviți să alegi doar cifra care îți confirmă ideea?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_028
+    category: macroeconomie
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: macro și grafic"
+    body: Macro oferă context, graficul arată reacția. Un trader disciplinat nu ghicește direcția doar din titlul știrii.
+    practical: După o știre, așteaptă să vezi dacă graficul confirmă sau respinge contextul.
+    question: Ce te ajută să ai răbdare după o știre importantă?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_029
+    category: macroeconomie
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: recap macro săptămânal"
+    body: "Recapitularea săptămânală ajută la înțelegerea temelor dominante: inflație, dobânzi, creștere, risc sau sentiment."
+    practical: Scrie trei teme macro care au influențat piețele săptămâna aceasta.
+    question: Care temă crezi că merită urmărită și săptămâna viitoare?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_030
+    category: macroeconomie
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: pregătirea macro pentru luni"
+    body: Înainte de o săptămână nouă, verifică evenimentele majore, zilele cu risc și activele sensibile la știri. Scopul este orientarea, nu predicția.
+    practical: Notează cele mai importante trei evenimente din calendarul următor.
+    question: Ce zi pare cea mai importantă pentru observat?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: psiho_001
+    category: psihologie_si_disciplina
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: nu orice mișcare trebuie tranzacționată"
+    body: Una dintre capcanele începutului este senzația că trebuie să participi la fiecare mișcare. Disciplina înseamnă să alegi când observi și când stai deoparte.
+    practical: Alege o sesiune în care notezi doar observații, fără decizii de execuție.
+    question: Când ai simțit ultima dată presiunea de a participa la piață?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_002
+    category: psihologie_si_disciplina
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: FOMO"
+    body: FOMO apare când te temi că pierzi o mișcare importantă. De multe ori, această teamă te împinge să ignori planul și contextul.
+    practical: Scrie ce semne apar la tine când simți FOMO.
+    question: Ce regulă te-ar ajuta să încetinești în acel moment?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_003
+    category: psihologie_si_disciplina
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: revenge trading"
+    body: Revenge trading apare când vrei să repari emoțional o pierdere. Problema este că următoarea decizie nu mai pornește din analiză, ci din frustrare.
+    practical: Definește o pauză obligatorie după o decizie care te afectează.
+    question: Ce faci ca să revii la proces după o pierdere?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_004
+    category: psihologie_si_disciplina
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: overtrading"
+    body: Overtrading înseamnă să iei prea multe decizii fără calitate suficientă. De obicei apare din plictiseală, presiune sau dorința de validare.
+    practical: Numără câte idei ai analizat într-o zi și câte respectau planul.
+    question: Ce te împinge cel mai des spre prea multe decizii?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_005
+    category: psihologie_si_disciplina
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: răbdarea"
+    body: Răbdarea nu înseamnă pasivitate. În trading, răbdarea înseamnă să aștepți condițiile definite înainte, nu să reacționezi la fiecare lumânare.
+    practical: Alege o zonă și urmărește-o fără să tragi concluzii până la reacție.
+    question: Ce parte a așteptării ți se pare cea mai grea?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_006
+    category: psihologie_si_disciplina
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: planul scris"
+    body: Un plan nescris este ușor de schimbat sub presiune. Când regulile sunt clare pe hârtie, devine mai simplu să observi abaterile.
+    practical: Scrie trei reguli simple pentru sesiunea următoare.
+    question: Care regulă ai încălcat cel mai des în trecut?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_007
+    category: psihologie_si_disciplina
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: controlul emoțional"
+    body: Controlul emoțional nu înseamnă să nu simți nimic. Înseamnă să nu lași emoția să decidă în locul planului.
+    practical: Notează emoția dominantă înainte, în timpul și după o analiză.
+    question: Ce emoție îți influențează cel mai mult deciziile?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_008
+    category: psihologie_si_disciplina
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: acceptarea pierderilor"
+    body: Pierderile fac parte dintr-un proces cu incertitudine. Acceptarea lor devine mai ușoară când riscul este mic și scenariul era clar.
+    practical: Scrie cum arată o pierdere acceptabilă din punct de vedere al procesului.
+    question: Ce diferență vezi între pierdere planificată și greșeală?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_009
+    category: psihologie_si_disciplina
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: jurnalul emoțional"
+    body: "Un jurnal emoțional arată tiparele invizibile: grabă, frustrare, ezitare sau încredere excesivă. Aceste tipare pot fi corectate doar dacă le vezi."
+    practical: Adaugă în jurnal o coloană numită emoția principală.
+    question: Ce ai descoperi dacă ai nota emoțiile timp de o săptămână?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_010
+    category: psihologie_si_disciplina
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: încrederea excesivă"
+    body: După câteva rezultate bune, încrederea excesivă poate slăbi disciplina. Procesul trebuie respectat și când lucrurile par ușoare.
+    practical: Scrie ce reguli rămân neschimbate după o zi bună.
+    question: Ai observat că devii mai relaxat cu regulile după rezultate bune?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_011
+    category: psihologie_si_disciplina
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: frica de a greși"
+    body: Frica de a greși poate bloca învățarea. Într-un mediu educațional, scopul este să înțelegi decizia, nu să pari perfect.
+    practical: Alege o greșeală trecută și extrage o lecție concretă.
+    question: Ce greșeală te-a învățat cel mai mult?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_012
+    category: psihologie_si_disciplina
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: ezitarea"
+    body: Ezitarea apare când planul nu este clar sau când riscul pare prea mare. Claritatea înainte de scenariu reduce presiunea în momentul deciziei.
+    practical: Verifică dacă ezitarea vine din lipsă de plan sau din emoție.
+    question: Când eziți, ce informație îți lipsește de obicei?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_013
+    category: psihologie_si_disciplina
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: rutina"
+    body: Rutina reduce deciziile impulsive. Când ai aceiași pași înainte de analiză, mintea se concentrează mai bine pe proces.
+    practical: Construiește o rutină de cinci minute înainte de grafic.
+    question: Ce pas ai vrea să devină automat în rutina ta?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_014
+    category: psihologie_si_disciplina
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pauza"
+    body: Pauza este o decizie activă. Ea protejează claritatea atunci când oboseala sau frustrarea cresc.
+    practical: Definește trei situații în care oprești analiza pentru cel puțin 15 minute.
+    question: Îți este greu să iei pauză când piața se mișcă?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_015
+    category: psihologie_si_disciplina
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: comparația cu alții"
+    body: Comparația cu alți traderi poate crea presiune inutilă. Fiecare persoană are ritm, experiență și toleranță la risc diferite.
+    practical: Scrie ce măsurători personale contează pentru progresul tău.
+    question: Cu ce criteriu intern ai înlocui comparația cu alții?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_016
+    category: psihologie_si_disciplina
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: disciplina după o zi slabă"
+    body: O zi slabă nu trebuie să definească săptămâna. Important este să oprești deteriorarea comportamentului și să revii la reguli.
+    practical: Scrie un plan de revenire după o zi în care nu ai fost disciplinat.
+    question: Ce te ajută să nu cari frustrarea în ziua următoare?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_017
+    category: psihologie_si_disciplina
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: disciplina după o zi bună"
+    body: O zi bună poate fi periculoasă dacă te face să crezi că regulile nu mai contează. Consistența cere aceeași seriozitate în ambele situații.
+    practical: Notează ce reguli păstrezi după o zi reușită.
+    question: Cum te asiguri că nu devii neatent după o zi bună?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_018
+    category: psihologie_si_disciplina
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: claritatea mentală"
+    body: Claritatea mentală scade când ești obosit, grăbit sau distras. Uneori cea mai bună decizie educațională este să studiezi mai târziu.
+    practical: Evaluează nivelul de energie înainte de o sesiune de analiză.
+    question: Ce semn îți arată că nu ești în cea mai bună stare?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_019
+    category: psihologie_si_disciplina
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: impulsul de a demonstra"
+    body: Dorința de a demonstra ceva poate transforma tradingul într-o luptă cu propria imagine. Piața nu cere demonstrații, ci proces.
+    practical: Scrie ce vrei să demonstrezi și cum poți transforma asta într-o regulă sănătoasă.
+    question: Cui simți uneori că trebuie să îi dovedești ceva?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_020
+    category: psihologie_si_disciplina
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: răbdarea cu învățarea"
+    body: Tradingul responsabil se învață treptat. Dacă vrei rezultate rapide în înțelegere, riști să sari peste bazele care susțin disciplina.
+    practical: Alege un singur concept de repetat azi, nu cinci.
+    question: Ce concept merită mai multă răbdare din partea ta?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_021
+    category: psihologie_si_disciplina
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: atenția selectivă"
+    body: Când ai deja o idee, poți observa doar informațiile care o susțin. Disciplina cere să cauți și motivele pentru care ideea ar putea fi greșită.
+    practical: Scrie două argumente contra propriei analize.
+    question: Îți este ușor să cauți invalidarea ideii tale?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_022
+    category: psihologie_si_disciplina
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: calmul înainte de decizie"
+    body: Deciziile luate în grabă tind să ignore detalii. Un moment scurt de calm poate preveni multe abateri de la plan.
+    practical: Înainte de orice concluzie, respiră și verifică trei criterii scrise.
+    question: Ce criteriu uiți când te grăbești?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_023
+    category: psihologie_si_disciplina
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: învățarea din observație"
+    body: Nu trebuie să ai o decizie activă ca să înveți. Observarea structurii, reacțiilor și emoțiilor construiește experiență fără presiune.
+    practical: Urmărește o sesiune și notează doar ce ai învățat.
+    question: Ce ai observat ultima dată când nu ai forțat nimic?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_024
+    category: psihologie_si_disciplina
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: perfecționismul"
+    body: Perfecționismul poate bloca progresul dacă aștepți analiza perfectă. Scopul este să construiești un proces suficient de clar și repetabil.
+    practical: Scrie ce înseamnă pentru tine o analiză suficient de bună pentru studiu.
+    question: Unde confunzi claritatea cu perfecțiunea?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_025
+    category: psihologie_si_disciplina
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: responsabilitatea"
+    body: Responsabilitatea înseamnă să îți asumi deciziile fără să dai vina pe piață, știri sau alți oameni. Așa începe progresul real.
+    practical: Alege o decizie trecută și scrie ce era sub controlul tău.
+    question: Ce parte din proces poți controla mai bine?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_026
+    category: psihologie_si_disciplina
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: limitele personale"
+    body: Fiecare trader are limite de energie, atenție și toleranță emoțională. Cunoașterea acestor limite este parte din disciplină.
+    practical: Notează când în zi ai cea mai bună claritate pentru studiu.
+    question: Care este limita ta cea mai importantă acum?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_027
+    category: psihologie_si_disciplina
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: revizuirea săptămânii"
+    body: Revizuirea săptămânală ajută la identificarea tiparelor. Nu căuta perfecțiune, ci semnale despre ce trebuie repetat.
+    practical: Scrie trei comportamente bune și trei comportamente de îmbunătățit.
+    question: Ce tipar ai observat cel mai des săptămâna aceasta?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_028
+    category: psihologie_si_disciplina
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pregătirea mentală pentru luni"
+    body: "Înainte de o săptămână nouă, stabilește o intenție simplă: ce comportament vrei să îmbunătățești, nu ce rezultat vrei să vezi."
+    practical: Alege o singură regulă mentală pentru următoarele cinci zile.
+    question: Ce comportament vrei să urmărești săptămâna viitoare?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_029
+    category: psihologie_si_disciplina
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: discuția cu tine însuți"
+    body: Felul în care îți vorbești după greșeli contează. Critica dură poate crește impulsul, în timp ce analiza clară construiește corecție.
+    practical: Rescrie o greșeală sub forma unei lecții concrete.
+    question: Cum poți fi sincer cu tine fără să devii distructiv?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_030
+    category: psihologie_si_disciplina
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: starea de observator"
+    body: Starea de observator te ajută să vezi piața fără să simți că trebuie să reacționezi imediat. Pentru începători, acesta este un antrenament valoros.
+    practical: Stai 20 de minute pe un grafic și notează doar reacții, nu concluzii.
+    question: Ce se schimbă când îți dai voie doar să observi?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: resurse_001
+    category: resurse_educationale
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: fișa de setup"
+    body: "O fișă de setup te obligă să gândești structurat: context, zonă, confirmare, invalidare, risc și concluzie. Ea reduce deciziile impulsive."
+    practical: Completează o fișă pentru un grafic istoric, fără să cauți perfecțiunea.
+    question: Ce rubrică ți se pare cel mai greu de completat?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_002
+    category: resurse_educationale
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: checklist înainte de analiză"
+    body: Un checklist simplu reduce haosul. Înainte de grafic, verifică timeframe-ul, calendarul economic, trendul și zonele importante.
+    practical: Scrie un checklist de cinci puncte și folosește-l la următoarea analiză.
+    question: Ce punct ar trebui să fie primul pe lista ta?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_003
+    category: resurse_educationale
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: plan de studiu pe o săptămână"
+    body: Un plan bun de studiu este realist. Mai bine repeți zilnic un concept decât să consumi multe materiale fără aplicare.
+    practical: Alege cinci zile și câte un subiect scurt pentru fiecare.
+    question: Ce subiect vrei să studiezi primul?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_004
+    category: resurse_educationale
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: întrebări de auto-review"
+    body: "Auto-review-ul transformă experiența în lecție. Întrebările bune sunt simple: ce am văzut, ce am presupus, ce a confirmat piața, ce am învățat."
+    practical: Răspunde la aceste patru întrebări pentru un grafic de azi.
+    question: Care întrebare îți oferă cea mai mare claritate?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_005
+    category: resurse_educationale
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: template de jurnal"
+    body: Un jurnal util nu trebuie să fie complicat. Include data, activul, contextul, scenariul, emoția, regula respectată și lecția.
+    practical: Creează un template cu șapte coloane și testează-l trei zile.
+    question: Ce coloană lipsește din jurnalul tău actual?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_006
+    category: resurse_educationale
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: exercițiu de suport și rezistență"
+    body: Exercițiul de azi este să marchezi zone, nu linii perfecte. Caută zone unde prețul a reacționat clar de mai multe ori.
+    practical: Marchează maximum trei zone ca să eviți aglomerarea graficului.
+    question: Cum îți dai seama că ai desenat prea multe niveluri?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_007
+    category: resurse_educationale
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: exercițiu de lumânări"
+    body: "Alege zece lumânări relevante și descrie-le simplu: impuls, respingere, indecizie sau continuare. Scopul este vocabularul vizual."
+    practical: Fă capturi cu trei lumânări și scrie o propoziție pentru fiecare.
+    question: Ce tip de lumânare recunoști cel mai ușor?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_008
+    category: resurse_educationale
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: recap de știri"
+    body: "Pentru recap, alege o știre macro și separă informația în trei părți: ce s-a publicat, ce aștepta piața, cum a reacționat graficul."
+    practical: Completează cele trei puncte pentru o știre recentă.
+    question: Care parte este cel mai greu de interpretat?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_009
+    category: resurse_educationale
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: biblioteca personală"
+    body: O bibliotecă bună nu înseamnă multe resurse, ci resurse verificate și recitite. Începătorii au nevoie de claritate, nu de acumulare fără practică.
+    practical: Alege trei materiale de bază și notează ce problemă rezolvă fiecare.
+    question: Ce resursă ai reciti în loc să cauți una nouă?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_010
+    category: resurse_educationale
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: exercițiu de trend"
+    body: Scopul exercițiului este să identifici direcția fără indicatori. Uită-te la maxime, minime și reacții.
+    practical: Pe trei grafice diferite, scrie dacă vezi trend, range sau structură mixtă.
+    question: Care grafic a fost cel mai greu de clasificat?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_011
+    category: resurse_educationale
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: exercițiu de invalidare"
+    body: În loc să cauți doar motive pentru o idee, caută punctul în care ideea nu mai are sens. Aceasta construiește disciplină.
+    practical: Pentru trei scenarii, scrie invalidarea înainte de orice concluzie.
+    question: Ce ai observat când ai început cu invalidarea?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_012
+    category: resurse_educationale
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: harta săptămânii"
+    body: O hartă de studiu săptămânală te ajută să nu sari haotic între subiecte. Alege concepte, exerciții și recapitulări.
+    practical: "Împarte săptămâna în trei: concepte, practică, recap."
+    question: Ce zi ai rezerva pentru recapitulare?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_013
+    category: resurse_educationale
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: întrebări pentru grafic"
+    body: "Înainte să interpretezi un grafic, pune întrebări clare: unde este trendul, unde sunt zonele, ce ar confirma, ce ar invalida?"
+    practical: Răspunde în scris la aceste întrebări pentru un singur activ.
+    question: Ce întrebare schimbă cel mai mult analiza?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_014
+    category: resurse_educationale
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: exercițiu de răbdare"
+    body: Alege o zonă și urmărește cum ajunge prețul acolo. Nu anticipa concluzia; notează doar informațiile noi.
+    practical: Setează un interval de observare de 30 de minute și scrie ce s-a schimbat.
+    question: Ce ai simțit când ai așteptat fără să forțezi?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_015
+    category: resurse_educationale
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: recap de jurnal"
+    body: "La final de săptămână, jurnalul trebuie citit, nu doar completat. Caută tipare: grabă, claritate, confuzie, respectarea regulilor."
+    practical: Marchează cu o culoare greșelile repetate și cu alta deciziile bune.
+    question: Ce tipar apare cel mai des?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_016
+    category: resurse_educationale
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: exercițiu de timeframe"
+    body: Același activ poate arăta diferit pe timeframe-uri diferite. Exercițiul ajută la construirea perspectivei.
+    practical: Analizează întâi 4H, apoi 1H, apoi 15M și notează ce se păstrează.
+    question: Ce timeframe ți-a schimbat cel mai mult interpretarea?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_017
+    category: resurse_educationale
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: listă de greșeli comune"
+    body: O listă de greșeli comune te ajută să le recunoști mai repede. Include graba, lipsa invalidării, risc neclar și analiză după emoție.
+    practical: Alege două greșeli și scrie cum le previi practic.
+    question: Care greșeală apare cel mai des la început?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_018
+    category: resurse_educationale
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: fișa de macro"
+    body: O fișă macro simplă include evenimentul, estimarea, rezultatul, reacția inițială și reacția după calmarea pieței.
+    practical: Completează fișa pentru un eveniment economic recent.
+    question: Ce diferență vezi între reacția inițială și cea ulterioară?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_019
+    category: resurse_educationale
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: exercițiu de volum"
+    body: Volumul poate susține sau contrazice o mișcare. Exercițiul este să observi, nu să cauți reguli rigide.
+    practical: Notează trei momente în care volumul a crescut lângă o zonă importantă.
+    question: Ce ai observat când volumul a crescut?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_020
+    category: resurse_educationale
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: rutina de final de zi"
+    body: O rutină de final de zi consolidează învățarea. Include recap, lecție, emoție dominantă și un lucru de îmbunătățit.
+    practical: Răspunde la patru întrebări după următoarea sesiune de studiu.
+    question: Ce întrebare te ajută cel mai mult seara?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_021
+    category: resurse_educationale
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: exercițiu de scenarii"
+    body: Construirea scenariilor te ajută să nu rămâi blocat într-o singură idee. Scrie un scenariu principal și unul alternativ.
+    practical: Pentru un grafic, notează ce ar susține fiecare scenariu.
+    question: Care scenariu a fost mai greu de formulat?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_022
+    category: resurse_educationale
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: ghid de citire lentă"
+    body: Când citești un material, oprește-te după fiecare idee și caută un exemplu pe grafic. Învățarea crește când aplici imediat.
+    practical: Alege un paragraf educațional și găsește un exemplu vizual.
+    question: Ce idee ai înțeles mai bine după aplicare?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_023
+    category: resurse_educationale
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: exercițiu de curățare a graficului"
+    body: Un grafic prea încărcat poate ascunde structura. Exercițiul este să elimini elementele care nu răspund unei întrebări clare.
+    practical: Lasă pe grafic doar prețul și maximum trei zone importante.
+    question: Ce ai observat după ce ai simplificat graficul?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_024
+    category: resurse_educationale
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: întrebări pentru comunitate"
+    body: Întrebările bune duc la discuții utile. În loc de întrebări scurte, oferă context, ce vezi și ce nu înțelegi.
+    practical: Transformă o întrebare vagă într-una cu context și criterii.
+    question: Ce informație ar trebui să incluzi când ceri feedback?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_025
+    category: resurse_educationale
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: recap de concepte"
+    body: Recapitularea conceptelor ajută la stabilizare. Alege trei concepte și explică-le ca unui prieten complet începător.
+    practical: Scrie explicații de maximum două fraze pentru fiecare concept.
+    question: Ce concept este cel mai greu de explicat simplu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_026
+    category: resurse_educationale
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: exercițiu de risc pe hârtie"
+    body: Înainte de bani reali, calculele pe hârtie pot clarifica multe greșeli. Scopul este să vezi relația dintre risc, stop și mărimea poziției.
+    practical: Fă trei calcule ipotetice cu risc diferit și aceeași invalidare.
+    question: Ce calcul te-a surprins cel mai mult?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_027
+    category: resurse_educationale
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: plan de weekend"
+    body: Weekendul poate fi folosit pentru recapitulare, nu pentru presiune. Alege o lecție, un exercițiu și o întrebare pentru săptămâna următoare.
+    practical: Scrie planul de weekend în maximum cinci puncte.
+    question: Ce vrei să clarifici înainte de luni?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_028
+    category: resurse_educationale
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pregătirea spațiului de lucru"
+    body: Un spațiu de lucru ordonat reduce distragerile. În trading, mediul influențează atenția mai mult decât pare.
+    practical: Închide ferestrele inutile și pregătește doar calendarul, jurnalul și graficul.
+    question: Ce distragere poți elimina azi?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_029
+    category: resurse_educationale
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: exercițiu de comparație"
+    body: "Compară două grafice: unul clar și unul confuz. Scopul este să înveți când merită să studiezi mai departe și când este mai bine să treci peste."
+    practical: Notează trei diferențe între cele două grafice.
+    question: Ce face un grafic să fie clar pentru tine?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_030
+    category: resurse_educationale
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: checklist pentru săptămâna nouă"
+    body: Înainte de săptămâna nouă, pregătește calendarul, conceptele de repetat, rutina și o regulă de disciplină.
+    practical: Scrie checklist-ul de luni și păstrează-l vizibil.
+    question: Care punct din checklist îți poate aduce cea mai multă claritate?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: bazele_031
+    category: bazele_tradingului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: citirea contextului"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre citirea contextului.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_032
+    category: bazele_tradingului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: nivelul de interes"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre nivelul de interes.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_033
+    category: bazele_tradingului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: reacția la zonă"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre reacția la zonă.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_034
+    category: bazele_tradingului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: structura pe timeframe mare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre structura pe timeframe mare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_035
+    category: bazele_tradingului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: diferența dintre reacție și confirmare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre diferența dintre reacție și confirmare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_036
+    category: bazele_tradingului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: zona de indecizie"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre zona de indecizie.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_037
+    category: bazele_tradingului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: mișcarea impulsivă"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre mișcarea impulsivă.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_038
+    category: bazele_tradingului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: retracement-ul"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre retracement-ul.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_039
+    category: bazele_tradingului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: presiunea cumpărătorilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre presiunea cumpărătorilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_040
+    category: bazele_tradingului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: presiunea vânzătorilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre presiunea vânzătorilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_041
+    category: bazele_tradingului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: ordinea pașilor în analiză"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre ordinea pașilor în analiză.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_042
+    category: bazele_tradingului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: când graficul nu este clar"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre când graficul nu este clar.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_043
+    category: bazele_tradingului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: alinierea timeframe-urilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre alinierea timeframe-urilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_044
+    category: bazele_tradingului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: observarea fără concluzie"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre observarea fără concluzie.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_045
+    category: bazele_tradingului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: diferența dintre plan și predicție"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre diferența dintre plan și predicție.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_046
+    category: bazele_tradingului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: simplificarea graficului"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre simplificarea graficului.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_047
+    category: bazele_tradingului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: întrebarea de invalidare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre întrebarea de invalidare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_048
+    category: bazele_tradingului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: contextul înainte de indicatori"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre contextul înainte de indicatori.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: bazele_049
+    category: bazele_tradingului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: recapitularea conceptelor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre recapitularea conceptelor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: risc_031
+    category: managementul_riscului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: riscul total pe săptămână"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre riscul total pe săptămână.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_032
+    category: managementul_riscului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: dimensiunea poziției în zile volatile"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre dimensiunea poziției în zile volatile.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_033
+    category: managementul_riscului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: regula după două greșeli"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre regula după două greșeli.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_034
+    category: managementul_riscului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: scenariul fără execuție"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre scenariul fără execuție.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_035
+    category: managementul_riscului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pierderea acceptată"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre pierderea acceptată.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_036
+    category: managementul_riscului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: riscul și încrederea excesivă"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre riscul și încrederea excesivă.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_037
+    category: managementul_riscului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: limita de expunere"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre limita de expunere.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_038
+    category: managementul_riscului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: calculul înainte de emoție"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre calculul înainte de emoție.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_039
+    category: managementul_riscului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: jurnalul pierderilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre jurnalul pierderilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_040
+    category: managementul_riscului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: riscul pe idei corelate"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre riscul pe idei corelate.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_041
+    category: managementul_riscului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: protecția în jurul știrilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre protecția în jurul știrilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_042
+    category: managementul_riscului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: seria de zece decizii"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre seria de zece decizii.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_043
+    category: managementul_riscului
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: riscul când ești obosit"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre riscul când ești obosit.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_044
+    category: managementul_riscului
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: regula de reducere"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre regula de reducere.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_045
+    category: managementul_riscului
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: greșeala recuperării"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre greșeala recuperării.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_046
+    category: managementul_riscului
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: evaluarea procesului"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre evaluarea procesului.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_047
+    category: managementul_riscului
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: pauza ca protecție"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre pauza ca protecție.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_048
+    category: managementul_riscului
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: risc mic pentru învățare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre risc mic pentru învățare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: risc_049
+    category: managementul_riscului
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: recapitularea regulilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre recapitularea regulilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+  - key: macro_031
+    category: macroeconomie
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: așteptările despre dobânzi"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre așteptările despre dobânzi.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_032
+    category: macroeconomie
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: reacția dolarului"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre reacția dolarului.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_033
+    category: macroeconomie
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: aurul în zile volatile"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre aurul în zile volatile.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_034
+    category: macroeconomie
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: datele de inflație"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre datele de inflație.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_035
+    category: macroeconomie
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: piața muncii"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre piața muncii.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_036
+    category: macroeconomie
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: discursurile Fed"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre discursurile Fed.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_037
+    category: macroeconomie
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: mesajele BCE"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre mesajele BCE.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_038
+    category: macroeconomie
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: sentimentul global"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre sentimentul global.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_039
+    category: macroeconomie
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: calendarul cu impact ridicat"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre calendarul cu impact ridicat.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_040
+    category: macroeconomie
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: randamentele și acțiunile"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre randamentele și acțiunile.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_041
+    category: macroeconomie
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: datele mixte"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre datele mixte.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_042
+    category: macroeconomie
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: reacția după prima lumânare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre reacția după prima lumânare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_043
+    category: macroeconomie
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: volatilitatea de știri"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre volatilitatea de știri.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_044
+    category: macroeconomie
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: contextul pentru indici"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre contextul pentru indici.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_045
+    category: macroeconomie
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: energia și inflația"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre energia și inflația.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_046
+    category: macroeconomie
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: tema dominantă a săptămânii"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre tema dominantă a săptămânii.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_047
+    category: macroeconomie
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: observarea fără predicție"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre observarea fără predicție.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_048
+    category: macroeconomie
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: diferența dintre cifră și reacție"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre diferența dintre cifră și reacție.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: macro_049
+    category: macroeconomie
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pregătirea macro"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre pregătirea macro.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+  - key: psiho_031
+    category: psihologie_si_disciplina
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: răbdarea cu setup-ul"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre răbdarea cu setup-ul.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_032
+    category: psihologie_si_disciplina
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: frica de a rata"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre frica de a rata.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_033
+    category: psihologie_si_disciplina
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: graba după o lumânare mare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre graba după o lumânare mare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_034
+    category: psihologie_si_disciplina
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: atenția după o pierdere"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre atenția după o pierdere.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_035
+    category: psihologie_si_disciplina
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: oboseala decizională"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre oboseala decizională.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_036
+    category: psihologie_si_disciplina
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: presiunea grupului"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre presiunea grupului.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_037
+    category: psihologie_si_disciplina
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: disciplina când piața e lentă"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre disciplina când piața e lentă.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_038
+    category: psihologie_si_disciplina
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: disciplina când piața e rapidă"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre disciplina când piața e rapidă.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_039
+    category: psihologie_si_disciplina
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: pauza după frustrare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre pauza după frustrare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_040
+    category: psihologie_si_disciplina
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: claritatea înainte de sesiune"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre claritatea înainte de sesiune.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_041
+    category: psihologie_si_disciplina
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: o singură regulă pe zi"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre o singură regulă pe zi.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_042
+    category: psihologie_si_disciplina
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: autoobservarea"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre autoobservarea.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_043
+    category: psihologie_si_disciplina
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: încrederea după o analiză bună"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre încrederea după o analiză bună.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_044
+    category: psihologie_si_disciplina
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: acceptarea incertitudinii"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre acceptarea incertitudinii.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_045
+    category: psihologie_si_disciplina
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: limitele personale"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre limitele personale.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_046
+    category: psihologie_si_disciplina
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: calmul în volatilitate"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre calmul în volatilitate.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_047
+    category: psihologie_si_disciplina
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: revizuirea emoțiilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre revizuirea emoțiilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_048
+    category: psihologie_si_disciplina
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: rutina de seară"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre rutina de seară.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: psiho_049
+    category: psihologie_si_disciplina
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pregătirea mentală"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre pregătirea mentală.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+  - key: resurse_031
+    category: resurse_educationale
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: fișa de observație"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre fișa de observație.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_032
+    category: resurse_educationale
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: checklist de volatilitate"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre checklist de volatilitate.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_033
+    category: resurse_educationale
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: jurnalul de emoții"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre jurnalul de emoții.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_034
+    category: resurse_educationale
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: recapitularea graficelor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre recapitularea graficelor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_035
+    category: resurse_educationale
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: planul de 20 de minute"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre planul de 20 de minute.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_036
+    category: resurse_educationale
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: exercițiul de invalidare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre exercițiul de invalidare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_037
+    category: resurse_educationale
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: harta de niveluri"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre harta de niveluri.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_038
+    category: resurse_educationale
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: șablonul de recap"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre șablonul de recap.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_039
+    category: resurse_educationale
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: lista de întrebări bune"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre lista de întrebări bune.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_040
+    category: resurse_educationale
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: exercițiul de simplificare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre exercițiul de simplificare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_041
+    category: resurse_educationale
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: planul pentru știri"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre planul pentru știri.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_042
+    category: resurse_educationale
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: template-ul de risc"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre template-ul de risc.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_043
+    category: resurse_educationale
+    weekdayType: concept
+    difficulty: beginner
+    title: "📘 Conceptul zilei: revizuirea săptămânală"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre revizuirea săptămânală.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_044
+    category: resurse_educationale
+    weekdayType: mistake
+    difficulty: beginner
+    title: "📘 Greșeala zilei: studiul unui singur concept"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre studiul unui singur concept.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_045
+    category: resurse_educationale
+    weekdayType: exercise
+    difficulty: beginner
+    title: "📘 Exercițiul zilei: biblioteca de exemple"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre biblioteca de exemple.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_046
+    category: resurse_educationale
+    weekdayType: reflection
+    difficulty: beginner
+    title: "📘 Întrebarea zilei: compararea timeframe-urilor"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre compararea timeframe-urilor.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_047
+    category: resurse_educationale
+    weekdayType: case_study
+    difficulty: beginner
+    title: "📘 Studiu practic: exercițiul de răbdare"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre exercițiul de răbdare.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_048
+    category: resurse_educationale
+    weekdayType: recap
+    difficulty: beginner
+    title: "📘 Recapitularea săptămânii: fișa de lecții"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre fișa de lecții.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.
+  - key: resurse_049
+    category: resurse_educationale
+    weekdayType: preparation
+    difficulty: beginner
+    title: "📘 Pregătirea săptămânii: pregătirea de luni"
+    body: Acest subiect ajută la construirea unui proces mai clar. Pentru un trader la început, valoarea este să observe contextul, să scrie ce vede și să evite concluziile grăbite.
+    practical: Alege un exemplu pe grafic sau în jurnal și notează trei observații despre pregătirea de luni.
+    question: Cum ai aplica această idee în rutina ta de studiu?
+    disclaimer: Exercițiu educațional pentru studiu și disciplină.

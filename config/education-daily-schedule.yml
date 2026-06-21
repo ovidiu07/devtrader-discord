@@ -1,0 +1,29 @@
+timezone: Europe/Bucharest
+enabled: true
+defaultNoRepeatDays: 45
+
+channels:
+  - channelKey: bazele_tradingului
+    enabled: true
+    dailyTime: "09:00"
+    contentCategory: bazele_tradingului
+
+  - channelKey: managementul_riscului
+    enabled: true
+    dailyTime: "09:00"
+    contentCategory: managementul_riscului
+
+  - channelKey: macroeconomie
+    enabled: true
+    dailyTime: "09:00"
+    contentCategory: macroeconomie
+
+  - channelKey: psihologie_si_disciplina
+    enabled: true
+    dailyTime: "09:00"
+    contentCategory: psihologie_si_disciplina
+
+  - channelKey: resurse_educationale
+    enabled: true
+    dailyTime: "09:00"
+    contentCategory: resurse_educationale

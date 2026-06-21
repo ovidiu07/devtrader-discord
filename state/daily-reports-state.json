@@ -1,0 +1,146 @@
+{
+  "posts": [
+    {
+      "date": "2026-06-17",
+      "reportType": "stiri-importante",
+      "status": "posted",
+      "discordChannelId": "1515443122396725371",
+      "discordMessageIds": [
+        "1516727581758460034"
+      ],
+      "postedAt": "2026-06-17T08:53:55.142Z"
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "calendar-economic",
+      "status": "posted",
+      "discordChannelId": "1515443126582382662",
+      "discordMessageIds": [
+        "1516727584929353819",
+        "1516727586217001091",
+        "1516727587819225139"
+      ],
+      "postedAt": "2026-06-17T08:53:56.521Z"
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "stiri-importante",
+      "status": "skipped",
+      "error": "Report already posted today."
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "calendar-economic",
+      "status": "skipped",
+      "error": "Report already posted today."
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "reuters-markets",
+      "status": "failed",
+      "discordChannelId": "1515443122396725371",
+      "postedAt": "2026-06-17T12:04:37.417Z",
+      "error": "Reuters Markets returned HTTP 401."
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "stiri-importante",
+      "status": "skipped",
+      "error": "Report already posted today."
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "calendar-economic",
+      "status": "skipped",
+      "error": "Report already posted today."
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "reuters-markets",
+      "status": "failed",
+      "discordChannelId": "1515443122396725371",
+      "postedAt": "2026-06-17T12:05:14.642Z",
+      "error": "Reuters Markets returned HTTP 401."
+    },
+    {
+      "date": "2026-06-17",
+      "reportType": "calendar-economic",
+      "status": "posted",
+      "discordChannelId": "1515443126582382662",
+      "discordMessageIds": [
+        "1516776005061185687",
+        "1516776006768267384"
+      ],
+      "postedAt": "2026-06-17T12:06:20.487Z"
+    },
+    {
+      "date": "2026-06-18",
+      "reportType": "stiri-importante",
+      "status": "posted",
+      "discordChannelId": "1515443122396725371",
+      "discordMessageIds": [
+        "1517062277008724049",
+        "1517062278619463802",
+        "1517062280716615820"
+      ],
+      "postedAt": "2026-06-18T07:03:53.572Z"
+    },
+    {
+      "date": "2026-06-18",
+      "reportType": "calendar-economic",
+      "status": "posted",
+      "discordChannelId": "1515443126582382662",
+      "discordMessageIds": [
+        "1517062288660758558",
+        "1517062290468372601"
+      ],
+      "postedAt": "2026-06-18T07:03:56.014Z"
+    },
+    {
+      "date": "2026-06-18",
+      "reportType": "reuters-markets",
+      "status": "posted",
+      "discordChannelId": "1515443122396725371",
+      "discordMessageIds": [
+        "1517062295434297366"
+      ],
+      "articleHashes": [],
+      "articleCount": 0,
+      "postedAt": "2026-06-18T07:03:57.059Z"
+    },
+    {
+      "date": "2026-06-19",
+      "reportType": "stiri-importante",
+      "status": "posted",
+      "discordChannelId": "1515443122396725371",
+      "discordMessageIds": [
+        "1517416342364356650",
+        "1517416343715053738",
+        "1517416345346773084"
+      ],
+      "postedAt": "2026-06-19T06:30:49.082Z"
+    },
+    {
+      "date": "2026-06-19",
+      "reportType": "calendar-economic",
+      "status": "posted",
+      "discordChannelId": "1515443126582382662",
+      "discordMessageIds": [
+        "1517416351294029884"
+      ],
+      "postedAt": "2026-06-19T06:30:50.408Z"
+    },
+    {
+      "date": "2026-06-19",
+      "reportType": "reuters-markets",
+      "status": "posted",
+      "discordChannelId": "1515443122396725371",
+      "discordMessageIds": [
+        "1517416355001929809"
+      ],
+      "articleHashes": [],
+      "articleCount": 0,
+      "postedAt": "2026-06-19T06:30:51.329Z"
+    }
+  ]
+}

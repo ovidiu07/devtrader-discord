@@ -1,0 +1,621 @@
+messages:
+  - key: intro
+    channelKey: bun_venit
+    pin: true
+    mode: embed
+    disclaimers: [educational, not_financial_advice]
+    embed:
+      title: "Bun venit în DevTrader"
+      description: |
+        Bine ai venit în comunitatea DevTrader.
+
+        Această comunitate este creată pentru oamenii care vor să înțeleagă tradingul într-un mod responsabil, clar și realist. Aici nu promovăm ideea de bani rapizi, semnale miraculoase sau rezultate garantate.
+
+        Scopul nostru este să învățăm împreună:
+
+        * cum funcționează piețele;
+        * cum se citește un grafic;
+        * cum se construiește un setup;
+        * cum se gestionează riscul;
+        * cum se dezvoltă disciplina unui trader.
+
+        Dacă ești la început, e normal să ai întrebări. Important este să înveți pas cu pas și să nu forțezi procesul.
+
+        Te rog să începi cu canalele #reguli și #cum-folosesti-comunitatea.
+
+  - key: reguli_comunitate
+    channelKey: reguli
+    pin: true
+    mode: embed
+    embed:
+      title: "Regulile comunității"
+      description: |
+        Pentru ca DevTrader să rămână o comunitate serioasă și utilă, te rog să respecți regulile de mai jos:
+
+        1. Respectă ceilalți membri.
+           Nu atacăm persoane, nu ironizăm întrebările începătorilor și nu transformăm discuțiile în conflicte.
+
+        2. Nu promitem profituri.
+           Tradingul implică risc. Orice afirmație de tip „sigur crește”, „intră acum” sau „profit garantat” nu este acceptată.
+
+        3. Nu oferim sfaturi financiare personalizate.
+           Discuțiile sunt educaționale. Fiecare membru este responsabil pentru propriile decizii.
+
+        4. Nu posta semnale fără context.
+           Dacă menționezi o idee de trade, explică structura, riscul, nivelurile urmărite și motivul pentru care o analizezi.
+
+        5. Nu face spam sau promovare agresivă.
+           Nu promovăm grupuri, brokeri, cursuri, linkuri sau servicii fără acordul administratorilor.
+
+        6. Protejează comunitatea.
+           Dacă vezi comportamente toxice, scam-uri sau promisiuni nerealiste, anunță un moderator.
+
+        7. Fii disciplinat.
+           Scopul aici este educația, progresul și dezvoltarea unui mod de gândire sănătos în trading.
+      footer: "Respectarea regulilor ajută comunitatea să rămână curată, serioasă și utilă."
+
+  - key: anunturi_oficiale
+    channelKey: anunturi
+    pin: true
+    mode: embed
+    embed:
+      title: "Anunțuri oficiale DevTrader"
+      description: |
+        Acest canal este folosit pentru anunțuri importante legate de comunitatea DevTrader.
+
+        Aici pot apărea:
+
+        * actualizări despre comunitate;
+        * sesiuni live;
+        * materiale educaționale noi;
+        * schimbări de structură;
+        * evenimente importante;
+        * informații administrative.
+
+        Canalul este read-only pentru membri, pentru ca informațiile importante să rămână ușor de urmărit.
+
+        Pentru întrebări sau discuții, folosește canalele dedicate din comunitate.
+      footer: "Verifică periodic acest canal pentru actualizări importante."
+
+  - key: ghid_comunitate
+    channelKey: cum_folosesti_comunitatea
+    pin: true
+    mode: embed
+    disclaimers: [educational]
+    embed:
+      title: "Cum folosești comunitatea"
+      description: |
+        Dacă ești nou aici, începe simplu.
+
+        Ordinea recomandată:
+
+        1. Citește #reguli.
+           Înțelege cum funcționează comunitatea și ce comportament este așteptat.
+
+        2. Prezintă-te în #prezentare-membri.
+           Spune pe scurt cine ești, ce experiență ai și ce vrei să înveți.
+
+        3. Începe cu #bazele-tradingului.
+           Nu sări direct la setup-uri dacă nu înțelegi riscul, structura pieței și execuția.
+
+        4. Pune întrebări în #intrebari-incepatori.
+           Nu există întrebări rușinoase când înveți corect.
+
+        5. Folosește #progres-si-jurnal.
+           Notează ce înveți, ce greșeli observi și ce vrei să îmbunătățești.
+
+        6. Urmărește #stiri-importante și #calendar-economic.
+           Știrile pot influența volatilitatea, dar nu trebuie transformate automat în trade-uri.
+
+        Cel mai important: nu te grăbi. Tradingul nu se învață prin presiune, ci prin structură, repetiție și disciplină.
+      footer: "Construiește procesul înainte să te gândești la rezultate."
+
+  - key: prezentare
+    channelKey: prezentare_membri
+    pin: true
+    mode: embed
+    disclaimers: [educational]
+    embed:
+      title: "Prezintă-te comunității"
+      description: |
+        Acesta este locul în care membrii noi se pot prezenta.
+
+        Poți răspunde simplu la aceste întrebări:
+
+        * Cum te numești?
+        * De cât timp ești interesat de trading?
+        * Ce piețe te atrag cel mai mult?
+        * Ești complet începător sau ai deja experiență?
+        * Care este cel mai mare lucru pe care vrei să îl înțelegi mai bine?
+        * Ce aștepți de la comunitatea DevTrader?
+
+        Nu trebuie să impresionezi pe nimeni. Scopul este să ne cunoaștem și să construim un mediu în care oamenii pot învăța serios.
+      footer: "Fiecare trader începe de undeva. Important este să începi corect."
+
+  - key: bazele
+    channelKey: bazele_tradingului
+    pin: true
+    mode: embed
+    disclaimers: [educational]
+    embed:
+      title: "Bazele tradingului"
+      description: |
+        Acest canal este dedicat conceptelor de bază din trading.
+
+        Aici discutăm despre:
+
+        * ce este tradingul;
+        * diferența dintre trading și investiții;
+        * tipuri de piețe;
+        * lumânări japoneze;
+        * suport și rezistență;
+        * trend;
+        * lichiditate;
+        * volatilitate;
+        * timeframe-uri;
+        * diferența dintre analiză și execuție.
+
+        Dacă ești la început, acesta este unul dintre cele mai importante canale pentru tine.
+
+        Înainte să cauți setup-uri complexe, asigură-te că înțelegi lucrurile simple: de ce intri, unde greșești dacă piața nu confirmă și cât riști.
+      footer: "Educația de bază reduce deciziile impulsive."
+
+  - key: risc
+    channelKey: managementul_riscului
+    pin: true
+    mode: embed
+    disclaimers: [not_financial_advice, trading_risk]
+    embed:
+      title: "Managementul riscului"
+      description: |
+        Acest canal este dedicat celui mai important subiect din trading: riscul.
+
+        Aici discutăm despre:
+
+        * risk per trade;
+        * stop loss;
+        * position sizing;
+        * raport risk-reward;
+        * drawdown;
+        * pierderi consecutive;
+        * protejarea capitalului;
+        * când este mai bine să nu tranzacționezi.
+
+        Un trader nu este definit doar de câștiguri, ci de modul în care controlează pierderile.
+
+        O întrebare bună înainte de orice trade este:
+
+        „Dacă greșesc, cât pierd și pot accepta această pierdere fără să îmi afecteze disciplina?”
+
+        Postările din acest canal trebuie să rămână educaționale și orientate către proces.
+      footer: "Protejarea capitalului este prioritară."
+
+  - key: macro
+    channelKey: macroeconomie
+    pin: true
+    mode: embed
+    disclaimers: [educational, trading_risk]
+    embed:
+      title: "Macroeconomie pentru traderi"
+      description: |
+        Acest canal este pentru înțelegerea știrilor și indicatorilor macroeconomici care pot influența piețele.
+
+        Aici putem discuta despre:
+
+        * CPI;
+        * PPI;
+        * dobânzi;
+        * Fed;
+        * BCE;
+        * șomaj;
+        * NFP;
+        * PIB;
+        * inflație;
+        * randamente Treasury;
+        * dolar;
+        * aur;
+        * petrol;
+        * sentiment de piață.
+
+        Scopul nu este să ghicim direcția doar pentru că apare o știre. Scopul este să înțelegem contextul și să observăm cum reacționează piața.
+
+        O știre importantă poate aduce volatilitate mare. Pentru începători, uneori cea mai bună decizie este să observe, nu să intre în trade.
+      footer: "Analiză educațională. Datele macro pot schimba rapid condițiile de piață."
+
+  - key: psihologie
+    channelKey: psihologie_si_disciplina
+    pin: true
+    mode: embed
+    disclaimers: [educational]
+    embed:
+      title: "Psihologie și disciplină"
+      description: |
+        Acest canal este dedicat părții mentale din trading.
+
+        Aici discutăm despre:
+
+        * frica de a pierde;
+        * frica de a rata o mișcare;
+        * revenge trading;
+        * overtrading;
+        * lipsa de răbdare;
+        * respectarea planului;
+        * acceptarea pierderilor;
+        * construirea disciplinei.
+
+        Pentru mulți traderi, problema nu este că nu pot găsi setup-uri. Problema este că nu pot respecta propriile reguli când apare presiunea.
+
+        Folosește acest canal pentru reflecții, întrebări și lecții personale. Fără judecată, dar cu responsabilitate.
+      footer: "Tradingul testează comportamentul, nu doar analiza."
+
+  - key: resurse
+    channelKey: resurse_educationale
+    pin: true
+    mode: embed
+    embed:
+      title: "Resurse educaționale"
+      description: |
+        Acest canal este pentru materiale utile de învățare.
+
+        Poți găsi sau recomanda:
+
+        * explicații despre concepte de trading;
+        * ghiduri pentru începători;
+        * materiale despre risk management;
+        * exemple de analiză;
+        * resurse despre macroeconomie;
+        * cărți, articole sau videoclipuri relevante.
+
+        Te rog să postezi resurse de calitate, nu conținut motivațional gol sau materiale care promit rezultate rapide.
+
+        Dacă recomanzi o resursă, adaugă și o scurtă explicație:
+
+        * pentru cine este utilă;
+        * ce poți învăța din ea;
+        * ce limitări are.
+      footer: "Calitatea informației contează mai mult decât cantitatea."
+
+  - key: stiri
+    channelKey: stiri_importante
+    pin: true
+    mode: embed
+    disclaimers: [news_context]
+    embed:
+      title: "Știri importante"
+      description: |
+        Acest canal este pentru știri importante care pot influența piețele financiare.
+
+        Pot fi discutate:
+
+        * știri macroeconomice;
+        * decizii ale băncilor centrale;
+        * evenimente geopolitice;
+        * știri despre companii mari;
+        * energie, petrol, inflație, dobânzi;
+        * evenimente care pot schimba sentimentul de piață.
+
+        Format recomandat pentru o postare:
+
+        1. Titlul știrii.
+        2. Sursa.
+        3. Ce s-a întâmplat.
+        4. De ce contează.
+        5. Ce active ar putea fi afectate.
+        6. Ce trebuie observat pe grafic.
+
+        Nu transforma automat fiecare știre într-un setup. Uneori o știre creează doar volatilitate și risc mai mare.
+
+  - key: calendar
+    channelKey: calendar_economic
+    pin: true
+    mode: embed
+    disclaimers: [educational, trading_risk]
+    embed:
+      title: "Calendar economic"
+      description: |
+        Acest canal este dedicat evenimentelor economice programate.
+
+        Aici urmărim:
+
+        * CPI;
+        * PPI;
+        * NFP;
+        * decizii de dobândă;
+        * conferințe Fed și BCE;
+        * date despre șomaj;
+        * vânzări retail;
+        * PMI;
+        * PIB;
+        * alte evenimente cu impact ridicat.
+
+        Pentru începători, regula este simplă:
+
+        Dacă nu înțelegi impactul unei știri, nu este obligatoriu să tranzacționezi în timpul ei.
+
+        Înainte de o știre importantă, verifică:
+
+        * ora exactă;
+        * estimarea pieței;
+        * valoarea precedentă;
+        * reacția inițială;
+        * dacă piața confirmă direcția sau doar produce volatilitate.
+      footer: "Volatilitatea din timpul știrilor poate fi agresivă."
+
+  - key: analiza
+    channelKey: analiza_zilei
+    pin: true
+    mode: embed
+    disclaimers: [educational, not_financial_advice]
+    embed:
+      title: "Analiza zilei"
+      description: |
+        Acest canal este pentru analiza zilnică a pieței.
+
+        Scopul este să observăm:
+
+        * contextul general;
+        * nivelurile importante;
+        * zonele de lichiditate;
+        * structura pieței;
+        * scenarii posibile;
+        * ce ar invalida o idee;
+        * unde este mai bine să așteptăm.
+
+        Analiza nu trebuie să forțeze o direcție. Uneori concluzia corectă este: „Nu avem setup clar.”
+
+        Format recomandat:
+
+        1. Piața / activul analizat.
+        2. Contextul vizibil.
+        3. Niveluri importante.
+        4. Scenariu bullish.
+        5. Scenariu bearish.
+        6. Ce confirmare așteptăm.
+        7. Ce ar invalida ideea.
+        8. Concluzie: trade sau no trade.
+      footer: "Analiză educațională. Nu reprezintă recomandare de cumpărare sau vânzare."
+
+  - key: grafice
+    channelKey: discutii_grafice
+    pin: true
+    mode: embed
+    disclaimers: [educational]
+    embed:
+      title: "Discuții grafice"
+      description: |
+        Acest canal este pentru grafice, capturi de ecran și discuții despre market structure.
+
+        Când postezi un grafic, încearcă să incluzi:
+
+        * activul analizat;
+        * timeframe-ul;
+        * nivelurile importante;
+        * ce observi;
+        * unde ai vedea invalidarea;
+        * ce confirmare ai aștepta;
+        * dacă este o analiză sau un trade real.
+
+        Nu posta doar o imagine cu întrebarea „long sau short?”. Încearcă să explici ce vezi. Așa învățăm mai bine împreună.
+
+        Scopul canalului este educația, nu validarea impulsivă a intrărilor.
+      footer: "Graficele discutate sunt pentru studiu și educație."
+
+  - key: general
+    channelKey: discutii_generale
+    pin: true
+    mode: embed
+    embed:
+      title: "Discuții generale"
+      description: |
+        Acesta este canalul pentru discuții generale între membrii comunității.
+
+        Poți discuta despre:
+
+        * progresul tău;
+        * întrebări generale;
+        * experiențe de învățare;
+        * organizarea rutinei;
+        * observații despre piață;
+        * subiecte conexe tradingului.
+
+        Te rog să păstrăm discuțiile curate, respectuoase și utile.
+
+        Pentru întrebări de începător, folosește #intrebari-incepatori.
+        Pentru grafice, folosește #discutii-grafice.
+        Pentru jurnal și progres, folosește #progres-si-jurnal.
+      footer: "O comunitate bună se construiește prin respect și contribuții utile."
+
+  - key: intrebari
+    channelKey: intrebari_incepatori
+    pin: true
+    mode: embed
+    disclaimers: [educational]
+    embed:
+      title: "Întrebări pentru începători"
+      description: |
+        Acest canal este special pentru întrebările celor aflați la început.
+
+        Poți întreba despre:
+
+        * termeni de bază;
+        * cum funcționează o platformă;
+        * ce înseamnă un indicator;
+        * cum se calculează riscul;
+        * ce este un setup;
+        * cum se citește o lumânare;
+        * de ce o știre mișcă piața;
+        * ce înseamnă spread, volum, lichiditate sau volatilitate.
+
+        Nu ezita să întrebi. Este mai bine să clarifici un concept simplu decât să pierzi bani din confuzie.
+
+        Cei care răspund sunt rugați să explice clar, fără aroganță și fără ironii.
+      footer: "Întrebările simple construiesc fundația corectă."
+
+  - key: jurnal
+    channelKey: progres_si_jurnal
+    pin: true
+    mode: embed
+    disclaimers: [educational]
+    embed:
+      title: "Progres și jurnal"
+      description: |
+        Acest canal este pentru jurnal, reflecție și progres personal.
+
+        Poți posta:
+
+        * ce ai învățat azi;
+        * ce greșeală ai observat;
+        * ce regulă vrei să îmbunătățești;
+        * ce setup ai studiat;
+        * ce ai făcut bine;
+        * ce ai face diferit data viitoare.
+
+        Un jurnal bun nu conține doar profit sau pierdere. Conține proces.
+
+        Format recomandat:
+
+        1. Ce am urmărit?
+        2. Ce am făcut?
+        3. Am respectat planul?
+        4. Ce am învățat?
+        5. Ce îmbunătățesc data viitoare?
+
+        Scopul nu este să pari perfect. Scopul este să devii mai conștient și mai disciplinat.
+      footer: "Progresul real vine din observație, repetare și corectare."
+
+  - key: sugestii
+    channelKey: sugestii
+    pin: true
+    mode: embed
+    embed:
+      title: "Sugestii pentru comunitate"
+      description: |
+        Acest canal este pentru idei și sugestii legate de comunitatea DevTrader.
+
+        Poți propune:
+
+        * canale noi;
+        * subiecte pentru materiale educaționale;
+        * idei pentru sesiuni live;
+        * îmbunătățiri ale structurii serverului;
+        * probleme observate;
+        * întrebări care ar merita transformate în lecții.
+
+        Te rog să formulezi sugestiile clar:
+
+        1. Ce propui?
+        2. De ce ar fi util?
+        3. Pentru cine ar ajuta?
+        4. Cum ar putea fi implementat simplu?
+
+        Nu toate sugestiile vor fi aplicate imediat, dar toate pot ajuta comunitatea să devină mai bună.
+      footer: "DevTrader se construiește pas cu pas, împreună cu membrii săi."
+
+  - key: premium
+    channelKey: analize_premium
+    pin: true
+    mode: embed
+    disclaimers: [premium_education]
+    embed:
+      title: "Analize premium"
+      description: |
+        Acest canal este destinat analizelor mai detaliate pentru membrii Premium.
+
+        Aici pot fi publicate:
+
+        * analize de piață mai structurate;
+        * scenarii educaționale;
+        * explicații pe grafice;
+        * recapitulări ale unor mișcări importante;
+        * observații despre contextul macro și tehnic.
+
+        Important:
+        Analizele publicate aici nu sunt semnale garantate și nu reprezintă consultanță financiară. Scopul este să înțelegi procesul din spatele unei analize, nu să copiezi orbește o idee.
+
+        Înainte de orice decizie, gândește în termeni de:
+
+        * context;
+        * confirmare;
+        * invalidare;
+        * risc;
+        * execuție;
+        * disciplină.
+
+  - key: setupuri
+    channelKey: setup_uri_discutate
+    pin: true
+    mode: embed
+    disclaimers: [educational, not_financial_advice]
+    embed:
+      title: "Setup-uri discutate"
+      description: |
+        Acest canal este pentru discutarea setup-urilor într-un mod educațional și structurat.
+
+        Un setup bun nu înseamnă doar „intrare”. Un setup complet trebuie să includă:
+
+        * contextul pieței;
+        * direcția posibilă;
+        * nivelul de interes;
+        * confirmarea așteptată;
+        * invalidarea;
+        * stop loss logic;
+        * potențial target;
+        * raport risk-reward;
+        * motivul pentru care trade-ul merită sau nu merită luat.
+
+        Format recomandat:
+
+        1. Activ:
+        2. Context:
+        3. Setup observat:
+        4. Confirmare:
+        5. Invalidare:
+        6. Risc:
+        7. Concluzie:
+
+        Dacă nu există confirmare, nu forțăm intrarea. Uneori cel mai bun setup este cel pe care alegem să nu îl luăm.
+      footer: "Discuțiile despre setup-uri sunt educaționale și nu reprezintă semnale de tranzacționare."
+
+  - key: live
+    channelKey: sesiuni_live
+    pin: true
+    mode: embed
+    disclaimers: [educational, not_financial_advice]
+    embed:
+      title: "Sesiuni live"
+      description: |
+        Acest canal este pentru informații legate de sesiunile live DevTrader.
+
+        Aici pot fi anunțate:
+
+        * sesiuni de analiză;
+        * recapitulări de piață;
+        * sesiuni de întrebări și răspunsuri;
+        * discuții despre risk management;
+        * explicații pe grafice;
+        * sesiuni dedicate începătorilor.
+
+        În timpul sesiunilor live, scopul este educația și înțelegerea procesului, nu promisiunea unor rezultate.
+
+        Te rog să vii pregătit cu întrebări clare și, dacă postezi grafice, oferă context.
+      footer: "Sesiunile live sunt educaționale. Fiecare membru este responsabil pentru propriile decizii."
+
+  - key: trading_room
+    channelKey: trading_room
+    pin: true
+    mode: embed
+    disclaimers: [educational, not_financial_advice]
+    embed:
+      title: "Trading Room"
+      description: |
+        Trading Room este spațiul pentru discuții live, observații de piață și sesiuni comunitare.
+
+        Reguli importante:
+
+        * nu forțăm intrări;
+        * nu strigăm semnale fără explicație;
+        * nu punem presiune pe alți membri;
+        * discutăm scenarii, nu certitudini;
+        * respectăm riscul și disciplina.
+
+        Dacă ești începător, poți participa doar ca observator la început. Este perfect normal. Învață mai întâi cum se gândește procesul.

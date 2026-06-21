@@ -1,0 +1,361 @@
+days:
+  - date: 2026-06-15
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_001
+      - channelKey: managementul_riscului
+        postKey: risc_001
+      - channelKey: macroeconomie
+        postKey: macro_001
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_001
+      - channelKey: resurse_educationale
+        postKey: resurse_001
+  - date: 2026-06-16
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_002
+      - channelKey: managementul_riscului
+        postKey: risc_002
+      - channelKey: macroeconomie
+        postKey: macro_002
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_002
+      - channelKey: resurse_educationale
+        postKey: resurse_002
+  - date: 2026-06-17
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_003
+      - channelKey: managementul_riscului
+        postKey: risc_003
+      - channelKey: macroeconomie
+        postKey: macro_003
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_003
+      - channelKey: resurse_educationale
+        postKey: resurse_003
+  - date: 2026-06-18
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_004
+      - channelKey: managementul_riscului
+        postKey: risc_004
+      - channelKey: macroeconomie
+        postKey: macro_004
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_004
+      - channelKey: resurse_educationale
+        postKey: resurse_004
+  - date: 2026-06-19
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_005
+      - channelKey: managementul_riscului
+        postKey: risc_005
+      - channelKey: macroeconomie
+        postKey: macro_005
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_005
+      - channelKey: resurse_educationale
+        postKey: resurse_005
+  - date: 2026-06-20
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_006
+      - channelKey: managementul_riscului
+        postKey: risc_006
+      - channelKey: macroeconomie
+        postKey: macro_006
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_006
+      - channelKey: resurse_educationale
+        postKey: resurse_006
+  - date: 2026-06-21
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_007
+      - channelKey: managementul_riscului
+        postKey: risc_007
+      - channelKey: macroeconomie
+        postKey: macro_007
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_007
+      - channelKey: resurse_educationale
+        postKey: resurse_007
+  - date: 2026-06-22
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_008
+      - channelKey: managementul_riscului
+        postKey: risc_008
+      - channelKey: macroeconomie
+        postKey: macro_008
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_008
+      - channelKey: resurse_educationale
+        postKey: resurse_008
+  - date: 2026-06-23
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_009
+      - channelKey: managementul_riscului
+        postKey: risc_009
+      - channelKey: macroeconomie
+        postKey: macro_009
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_009
+      - channelKey: resurse_educationale
+        postKey: resurse_009
+  - date: 2026-06-24
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_010
+      - channelKey: managementul_riscului
+        postKey: risc_010
+      - channelKey: macroeconomie
+        postKey: macro_010
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_010
+      - channelKey: resurse_educationale
+        postKey: resurse_010
+  - date: 2026-06-25
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_011
+      - channelKey: managementul_riscului
+        postKey: risc_011
+      - channelKey: macroeconomie
+        postKey: macro_011
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_011
+      - channelKey: resurse_educationale
+        postKey: resurse_011
+  - date: 2026-06-26
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_012
+      - channelKey: managementul_riscului
+        postKey: risc_012
+      - channelKey: macroeconomie
+        postKey: macro_012
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_012
+      - channelKey: resurse_educationale
+        postKey: resurse_012
+  - date: 2026-06-27
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_013
+      - channelKey: managementul_riscului
+        postKey: risc_013
+      - channelKey: macroeconomie
+        postKey: macro_013
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_013
+      - channelKey: resurse_educationale
+        postKey: resurse_013
+  - date: 2026-06-28
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_014
+      - channelKey: managementul_riscului
+        postKey: risc_014
+      - channelKey: macroeconomie
+        postKey: macro_014
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_014
+      - channelKey: resurse_educationale
+        postKey: resurse_014
+  - date: 2026-06-29
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_015
+      - channelKey: managementul_riscului
+        postKey: risc_015
+      - channelKey: macroeconomie
+        postKey: macro_015
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_015
+      - channelKey: resurse_educationale
+        postKey: resurse_015
+  - date: 2026-06-30
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_016
+      - channelKey: managementul_riscului
+        postKey: risc_016
+      - channelKey: macroeconomie
+        postKey: macro_016
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_016
+      - channelKey: resurse_educationale
+        postKey: resurse_016
+  - date: 2026-07-01
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_017
+      - channelKey: managementul_riscului
+        postKey: risc_017
+      - channelKey: macroeconomie
+        postKey: macro_017
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_017
+      - channelKey: resurse_educationale
+        postKey: resurse_017
+  - date: 2026-07-02
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_018
+      - channelKey: managementul_riscului
+        postKey: risc_018
+      - channelKey: macroeconomie
+        postKey: macro_018
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_018
+      - channelKey: resurse_educationale
+        postKey: resurse_018
+  - date: 2026-07-03
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_019
+      - channelKey: managementul_riscului
+        postKey: risc_019
+      - channelKey: macroeconomie
+        postKey: macro_019
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_019
+      - channelKey: resurse_educationale
+        postKey: resurse_019
+  - date: 2026-07-04
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_020
+      - channelKey: managementul_riscului
+        postKey: risc_020
+      - channelKey: macroeconomie
+        postKey: macro_020
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_020
+      - channelKey: resurse_educationale
+        postKey: resurse_020
+  - date: 2026-07-05
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_021
+      - channelKey: managementul_riscului
+        postKey: risc_021
+      - channelKey: macroeconomie
+        postKey: macro_021
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_021
+      - channelKey: resurse_educationale
+        postKey: resurse_021
+  - date: 2026-07-06
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_022
+      - channelKey: managementul_riscului
+        postKey: risc_022
+      - channelKey: macroeconomie
+        postKey: macro_022
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_022
+      - channelKey: resurse_educationale
+        postKey: resurse_022
+  - date: 2026-07-07
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_023
+      - channelKey: managementul_riscului
+        postKey: risc_023
+      - channelKey: macroeconomie
+        postKey: macro_023
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_023
+      - channelKey: resurse_educationale
+        postKey: resurse_023
+  - date: 2026-07-08
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_024
+      - channelKey: managementul_riscului
+        postKey: risc_024
+      - channelKey: macroeconomie
+        postKey: macro_024
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_024
+      - channelKey: resurse_educationale
+        postKey: resurse_024
+  - date: 2026-07-09
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_025
+      - channelKey: managementul_riscului
+        postKey: risc_025
+      - channelKey: macroeconomie
+        postKey: macro_025
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_025
+      - channelKey: resurse_educationale
+        postKey: resurse_025
+  - date: 2026-07-10
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_026
+      - channelKey: managementul_riscului
+        postKey: risc_026
+      - channelKey: macroeconomie
+        postKey: macro_026
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_026
+      - channelKey: resurse_educationale
+        postKey: resurse_026
+  - date: 2026-07-11
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_027
+      - channelKey: managementul_riscului
+        postKey: risc_027
+      - channelKey: macroeconomie
+        postKey: macro_027
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_027
+      - channelKey: resurse_educationale
+        postKey: resurse_027
+  - date: 2026-07-12
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_028
+      - channelKey: managementul_riscului
+        postKey: risc_028
+      - channelKey: macroeconomie
+        postKey: macro_028
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_028
+      - channelKey: resurse_educationale
+        postKey: resurse_028
+  - date: 2026-07-13
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_029
+      - channelKey: managementul_riscului
+        postKey: risc_029
+      - channelKey: macroeconomie
+        postKey: macro_029
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_029
+      - channelKey: resurse_educationale
+        postKey: resurse_029
+  - date: 2026-07-14
+    posts:
+      - channelKey: bazele_tradingului
+        postKey: bazele_030
+      - channelKey: managementul_riscului
+        postKey: risc_030
+      - channelKey: macroeconomie
+        postKey: macro_030
+      - channelKey: psihologie_si_disciplina
+        postKey: psiho_030
+      - channelKey: resurse_educationale
+        postKey: resurse_030

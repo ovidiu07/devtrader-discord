@@ -1,0 +1,13 @@
+services:
+  devtrader-discord-education:
+    build: .
+    command: npm run scheduler:start
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      DISCORD_BOT_TOKEN: ${DISCORD_BOT_TOKEN}
+      DISCORD_GUILD_ID: ${DISCORD_GUILD_ID}
+    volumes:
+      - ./state:/app/state
+      - ./logs:/app/logs

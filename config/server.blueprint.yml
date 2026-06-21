@@ -1,0 +1,271 @@
+server:
+  name: Learn to win
+  description: Comunitate românească pentru educație în trading, disciplină, managementul riscului și înțelegerea piețelor financiare.
+
+roles:
+  - key: administrator
+    name: Administrator
+    purpose: full server owner/admin role; not granted automatically by this tool
+    permissions: []
+
+  - key: moderator
+    name: Moderator
+    purpose: moderation, message management, community control
+    permissions:
+      - View Channels
+      - Send Messages
+      - Manage Messages
+      - Moderate Members
+      - Read Message History
+      - Add Reactions
+      - Connect
+      - Speak
+
+  - key: mentor
+    name: Mentor
+    purpose: trusted educational role
+    permissions:
+      - View Channels
+      - Send Messages
+      - Read Message History
+      - Add Reactions
+      - Connect
+      - Speak
+
+  - key: premium_member
+    name: Premium Member
+    purpose: future premium access
+    permissions:
+      - View Channels
+      - Send Messages
+      - Read Message History
+      - Add Reactions
+      - Connect
+      - Speak
+
+  - key: member
+    name: Membru
+    purpose: normal community member
+    permissions:
+      - View Channels
+      - Send Messages
+      - Read Message History
+      - Add Reactions
+      - Connect
+      - Speak
+
+  - key: beginner
+    name: Începător
+    purpose: beginner member label
+    permissions:
+      - View Channels
+      - Send Messages
+      - Read Message History
+      - Add Reactions
+
+  - key: muted
+    name: Muted
+    purpose: restricted member
+    permissions:
+      - View Channels
+      - Read Message History
+    deny:
+      - Send Messages
+      - Add Reactions
+      - Speak
+
+categories:
+  - key: start_here
+    name: START AICI
+    channels:
+      - key: bun_venit
+        name: bun-venit
+        type: text
+        readonly: true
+        topic: Primul loc în care ajungi în comunitate. Citește mesajul de bun venit și pașii de început.
+      - key: reguli
+        name: reguli
+        type: text
+        readonly: true
+        topic: Regulile comunității. Scopul este educația, disciplina și respectul reciproc.
+      - key: anunturi
+        name: anunturi
+        type: text
+        readonly: true
+        topic: Anunțuri importante despre comunitate, sesiuni, materiale și update-uri.
+      - key: cum_folosesti_comunitatea
+        name: cum-folosesti-comunitatea
+        type: text
+        readonly: true
+        topic: "Ghid rapid pentru membrii noi: unde postezi, ce citești prima dată și cum te organizezi."
+      - key: prezentare_membri
+        name: prezentare-membri
+        type: text
+        topic: "Prezintă-te pe scurt: nivelul tău, ce vrei să înveți și ce obiectiv ai în trading."
+
+  - key: educatie_trading
+    name: EDUCAȚIE TRADING
+    channels:
+      - key: bazele_tradingului
+        name: bazele-tradingului
+        type: text
+        topic: "Concepte de bază: acțiuni, indici, forex, crypto, ordine, spread, lichiditate și volatilitate."
+      - key: managementul_riscului
+        name: managementul-riscului
+        type: text
+        topic: Discuții despre risc, stop loss, poziționare, pierderi controlate și protecția capitalului.
+      - key: macroeconomie
+        name: macroeconomie
+        type: text
+        topic: CPI, PPI, dobânzi, Fed, BCE, BNR, șomaj, PIB și alte știri care pot mișca piețele.
+      - key: psihologie_si_disciplina
+        name: psihologie-si-disciplina
+        type: text
+        topic: Emoții, impulsivitate, FOMO, overtrading, răbdare, disciplină și consistență.
+      - key: resurse_educationale
+        name: resurse-educationale
+        type: text
+        topic: Materiale utile, ghiduri, explicații și resurse pentru studiu.
+
+  - key: piata_zilnica
+    name: PIAȚA ZILNICĂ
+    channels:
+      - key: stiri_importante
+        name: stiri-importante
+        type: text
+        topic: Știri importante ale zilei care pot influența piețele financiare.
+      - key: calendar_economic
+        name: calendar-economic
+        type: text
+        topic: "Evenimente economice importante: CPI, PPI, NFP, decizii de dobândă, conferințe și rapoarte macro."
+      - key: analiza_zilei
+        name: analiza-zilei
+        type: text
+        topic: Contextul zilei, zone importante, scenarii posibile și idei educaționale.
+      - key: discutii_grafice
+        name: discutii-grafice
+        type: text
+        topic: Postează grafice, niveluri, întrebări și observații. Fără promisiuni și fără semnale garantate.
+
+  - key: comunitate
+    name: COMUNITATE
+    channels:
+      - key: discutii_generale
+        name: discutii-generale
+        type: text
+        topic: Discuții libere despre trading, piețe, învățare și progres.
+      - key: intrebari_incepatori
+        name: intrebari-incepatori
+        type: text
+        topic: Întrebări de începător. Nicio întrebare nu este prea simplă dacă ajută la învățare.
+      - key: progres_si_jurnal
+        name: progres-si-jurnal
+        type: text
+        topic: Notează progresul, lecțiile, greșelile și ce ai învățat din sesiuni.
+      - key: sugestii
+        name: sugestii
+        type: text
+        topic: Sugestii pentru comunitate, materiale, canale, sesiuni și subiecte noi.
+
+  - key: premium
+    name: ZONA PREMIUM
+    premiumOnly: true
+    channels:
+      - key: analize_premium
+        name: analize-premium
+        type: text
+        topic: Analize educaționale mai detaliate pentru membrii premium.
+      - key: setup_uri_discutate
+        name: setup-uri-discutate
+        type: text
+        topic: Exemple de setup-uri discutate educațional. Nu reprezintă recomandări financiare.
+      - key: sesiuni_live
+        name: sesiuni-live
+        type: text
+        topic: Informații despre sesiunile live, recap-uri și materiale asociate.
+      - key: trading_room
+        name: Trading Room
+        type: voice
+        topic: Canal vocal pentru discuții live, sesiuni educaționale și review-uri de piață.
+
+  - key: moderare
+    name: MODERARE
+    moderatorOnly: true
+    channels:
+      - key: mod_chat
+        name: mod-chat
+        type: text
+        topic: Discuții interne pentru moderatori.
+      - key: rapoarte
+        name: rapoarte
+        type: text
+        topic: Rapoarte, probleme și situații care necesită atenția moderatorilor.
+      - key: loguri
+        name: loguri
+        type: text
+        topic: Loguri administrative și informații operaționale.
+
+messages:
+  - key: welcome
+    channelKey: bun_venit
+    mode: create-or-update
+    body: |
+      Bun venit în Learn to win 👋
+
+      Aceasta este o comunitate pentru oameni care vor să înțeleagă tradingul într-un mod responsabil, fără promisiuni false și fără ideea de îmbogățire rapidă.
+
+      Aici discutăm despre:
+      - bazele tradingului;
+      - managementul riscului;
+      - psihologie și disciplină;
+      - știri macroeconomice;
+      - grafice și contexte de piață;
+      - progres real, nu perfecțiune.
+
+      Înainte să postezi, citește #reguli și #cum-folosesti-comunitatea.
+
+      Important:
+      Tot ce se discută aici are scop educațional. Nimic nu reprezintă consultanță financiară, recomandare de investiții sau promisiune de profit. Fiecare persoană este responsabilă pentru propriile decizii.
+
+  - key: rules
+    channelKey: reguli
+    mode: create-or-update
+    body: |
+      Regulile comunității Learn to win
+
+      1. Respect înainte de orice.
+      Discutăm idei, nu atacăm persoane.
+
+      2. Fără promisiuni de profit.
+      Nu acceptăm mesaje de tip „sigur crește”, „profit garantat”, „intră acum”.
+
+      3. Fără consultanță financiară.
+      Analizele și discuțiile sunt educaționale. Fiecare membru ia propriile decizii.
+
+      4. Fără spam, reclame agresive sau linkuri dubioase.
+      Promovarea fără acord nu este permisă.
+
+      5. Explică raționamentul.
+      Dacă postezi un grafic sau o idee, încearcă să explici de ce te uiți la acea zonă.
+
+      6. Protejează-ți capitalul.
+      Încurajăm gândirea pe termen lung, managementul riscului și disciplina.
+
+      7. Nu posta informații personale sensibile.
+      Protejează-ți conturile, parolele, datele bancare și identitatea.
+
+      8. Nu transforma comunitatea într-un grup de semnale.
+      Scopul este să învățăm să gândim, nu să copiem intrări.
+
+      9. Moderatorii pot elimina conținutul nepotrivit.
+      Încălcările repetate pot duce la mute, kick sau ban.
+
+  - key: disclaimer
+    channelKey: discutii_grafice
+    mode: create-or-update
+    body: |
+      Conținut educațional
+
+      Informațiile din această comunitate sunt oferite exclusiv în scop educațional și informativ. Nu reprezintă consultanță financiară, recomandare de investiții, recomandare de tranzacționare sau promisiune de rezultat.
+
+      Tradingul implică risc. Poți pierde bani, inclusiv tot capitalul alocat. Înainte de orice decizie, fă propria analiză și gestionează riscul responsabil.

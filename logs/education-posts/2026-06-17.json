@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-17",
+  "records": [
+    {
+      "date": "2026-06-17",
+      "timezone": "Europe/Bucharest",
+      "channelKey": "bazele_tradingului",
+      "postKey": "bazele_003",
+      "discordChannelId": "1515443084165386320",
+      "discordMessageId": "1516685246593106062",
+      "postedAt": "2026-06-17T06:05:41.324Z",
+      "status": "posted"
+    },
+    {
+      "date": "2026-06-17",
+      "timezone": "Europe/Bucharest",
+      "channelKey": "managementul_riscului",
+      "postKey": "risc_003",
+      "discordChannelId": "1515443087273361560",
+      "discordMessageId": "1516685248589725808",
+      "postedAt": "2026-06-17T06:05:41.324Z",
+      "status": "posted"
+    },
+    {
+      "date": "2026-06-17",
+      "timezone": "Europe/Bucharest",
+      "channelKey": "macroeconomie",
+      "postKey": "macro_003",
+      "discordChannelId": "1515443092012924939",
+      "discordMessageId": "1516685249554153516",
+      "postedAt": "2026-06-17T06:05:41.324Z",
+      "status": "posted"
+    },
+    {
+      "date": "2026-06-17",
+      "timezone": "Europe/Bucharest",
+      "channelKey": "psihologie_si_disciplina",
+      "postKey": "psiho_003",
+      "discordChannelId": "1515443098371620874",
+      "discordMessageId": "1516685250971959427",
+      "postedAt": "2026-06-17T06:05:41.324Z",
+      "status": "posted"
+    },
+    {
+      "date": "2026-06-17",
+      "timezone": "Europe/Bucharest",
+      "channelKey": "resurse_educationale",
+      "postKey": "resurse_003",
+      "discordChannelId": "1515443117292261376",
+      "discordMessageId": "1516685252284649592",
+      "postedAt": "2026-06-17T06:05:41.324Z",
+      "status": "posted"
+    }
+  ]
+}

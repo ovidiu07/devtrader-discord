@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-15",
+  "records": [
+    {
+      "date": "2026-06-15",
+      "timezone": "Europe/Bucharest",
+      "channelKey": "bazele_tradingului",
+      "postKey": "p1",
+      "discordChannelId": "c1",
+      "discordMessageId": "m1",
+      "postedAt": "2026-06-15T05:00:00.000Z",
+      "status": "posted"
+    },
+    {
+      "date": "2026-06-15",
+      "timezone": "Europe/Bucharest",
+      "channelKey": "macroeconomie",
+      "postKey": "p2",
+      "discordChannelId": "c2",
+      "postedAt": "2026-06-15T05:00:00.000Z",
+      "status": "failed",
+      "error": "missing permission"
+    }
+  ]
+}
