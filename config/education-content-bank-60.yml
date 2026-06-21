@@ -1,0 +1,2701 @@
+posts:
+- key: bazele_001
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: structura HH-HL/LH-LL'
+  body: Structura nu înseamnă să numeri mecanic maxime și minime, ci să vezi unde piața apără agresiv prețul și unde cedează. Într-un trend sănătos, corecțiile nu ar trebui să invalideze ultimul punct logic de apărare.
+  practical: Marchează pe 1H ultimele trei swing-uri relevante și scrie unde trendul ar fi invalidat, nu doar unde pare că se întoarce.
+  question: Care este swing-ul care, dacă este spart, schimbă cu adevărat povestea pieței?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_002
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: BOS vs CHOCH'
+  body: 'Un BOS confirmă continuarea structurii dominante, în timp ce un CHOCH sugerează că presiunea poate începe să se schimbe. Diferența contează: un CHOCH izolat într-o zonă fără lichiditate luată poate fi doar zgomot.'
+  practical: 'Găsește două exemple: unul unde BOS continuă trendul și unul unde CHOCH apare după un sweep de lichiditate.'
+  question: În analiza ta, CHOCH-ul apare după un eveniment logic sau doar după o lumânare mare?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_003
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: lichiditate buy-side și sell-side'
+  body: Buy-side liquidity stă de obicei peste maxime evidente, iar sell-side liquidity sub minime evidente. Prețul caută adesea aceste zone nu pentru că sunt magice, ci pentru că acolo se concentrează ordine, stop-uri și breakout traders.
+  practical: Marchează cel mai evident maxim și minim al sesiunii și observă dacă prețul le atacă înainte de mișcarea reală.
+  question: 'Unde este lichiditatea mai evidentă acum: deasupra maximelor sau sub minime?'
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_004
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: equal highs și equal lows'
+  body: Equal highs și equal lows sunt zone unde mulți traderi văd același nivel. În SMC, ele pot funcționa ca magnet de lichiditate, dar nu devin automat semnal de intrare.
+  practical: Caută un EQL/EQH și verifică dacă după sweep apare displacement sau prețul continuă fără reacție.
+  question: Ce diferență vezi între o colectare de lichiditate și un breakout real?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_005
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: sweep-ul de lichiditate'
+  body: Un sweep este o depășire a unui nivel evident urmată de respingere sau schimbare de comportament. Sweep-ul valoros apare de preferat într-o zonă HTF relevantă, nu în mijlocul unui grafic haotic.
+  practical: Notează un exemplu în care prețul trece peste un maxim, revine sub el și apoi rupe structura pe LTF.
+  question: Ce confirmare ai cere după un sweep înainte să iei scenariul în serios?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_006
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: displacement-ul'
+  body: 'Displacement-ul este mișcarea impulsivă care arată dezechilibru real între cumpărători și vânzători. O lumânare mare nu este suficientă: contează dacă rupe structură, lasă FVG și apare după lichiditate luată.'
+  practical: 'Identifică o mișcare impulsivă și verifică dacă are trei elemente: sweep, rupere de structură, imbalance.'
+  question: Displacement-ul pe care îl vezi schimbă contextul sau doar impresionează vizual?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_007
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: Fair Value Gap'
+  body: Un FVG reprezintă o zonă de inefficiency unde prețul s-a mișcat prea rapid și nu a tranzacționat echilibrat. Calitatea lui crește dacă apare după lichiditate luată și după o schimbare clară de structură.
+  practical: Marchează FVG-ul dintr-un impuls și observă dacă retragerea respectă 50% din gap sau îl umple complet.
+  question: FVG-ul urmărit apare în direcția contextului sau împotriva lui?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_008
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: Order Block valid'
+  body: Un order block util nu este orice lumânare opusă impulsului. Contează să fie legat de mișcarea care a luat lichiditate, a creat displacement și a rupt structură.
+  practical: Alege trei order block-uri și păstrează doar pe cele care au generat o rupere clară de structură.
+  question: Ce criteriu te oprește să marchezi prea multe order block-uri?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_009
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: mitigation'
+  body: Mitigation înseamnă revenirea prețului într-o zonă unde ordinele instituționale ar putea fi reechilibrate. Nu orice revenire este oportunitate; dacă reacția lipsește, zona poate fi doar tranzitată.
+  practical: Urmărește o zonă de OB/FVG și notează dacă reacția apare rapid sau prețul se comprimă fără intenție.
+  question: Ce semn îți arată că zona este respectată, nu doar atinsă?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_010
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: premium și discount'
+  body: Într-un range relevant, zona de discount este sub 50%, iar premium este peste 50%. Pentru long-uri, discountul oferă de obicei locație mai bună; pentru short-uri, premiumul oferă o zonă mai logică.
+  practical: Trasează un dealing range între swing high și swing low și marchează 50%, premium și discount.
+  question: Ideea ta este poziționată în zona potrivită pentru direcția dorită?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_011
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: dealing range'
+  body: Dealing range-ul definește contextul în care interpretezi premium, discount, lichiditate și PD arrays. Greșeala comună este să alegi un range prea mic doar ca să justifici un setup.
+  practical: Alege range-ul generat de ultima mișcare care a rupt structură, apoi verifică unde se află prețul acum.
+  question: Range-ul tău este ales obiectiv sau l-ai ajustat ca să susțină ideea?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_012
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: inducement'
+  body: Inducement-ul este o zonă care atrage intrări premature înainte ca prețul să ajungă în zona mai bună. El apare deseori ca un mini suport/rezistență sau un FVG prea evident înainte de OB-ul principal.
+  practical: Caută un setup unde primul nivel tentant a fost spart înainte ca prețul să reacționeze din zona reală.
+  question: Ce nivel ar putea atrage traderii prea devreme în analiza actuală?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_013
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: breaker block'
+  body: Un breaker apare când o zonă care trebuia să susțină direcția eșuează și devine ulterior zonă de reacție inversă. Este util mai ales după sweep și schimbare de structură.
+  practical: Găsește o zonă de suport care a cedat, apoi observă dacă retestul ei a devenit rezistență.
+  question: Piața a invalidat cu adevărat zona veche sau doar a făcut un wick?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_014
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: liquidity void'
+  body: Liquidity void-ul este o mișcare rapidă cu tranzacționare subțire, lăsând zone pe care prețul le poate reechilibra ulterior. Nu fiecare void trebuie umplut imediat.
+  practical: Marchează o mișcare foarte rapidă și observă unde revine prețul înainte să continue sau să inverseze.
+  question: Void-ul este în direcția impulsului principal sau este parte dintr-o mișcare de știri?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_015
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: market maker model'
+  body: 'Modelul de acumulare, manipulare și distribuție ajută la citirea zilei: prețul poate construi lichiditate, o poate lua, apoi poate livra direcția reală. Este mai util ca hartă de comportament decât ca șablon rigid.'
+  practical: 'Împarte o zi în trei faze: consolidare, sweep, impuls. Vezi dacă ordinea are sens.'
+  question: 'În ce fază pare piața acum: acumulare, manipulare sau distribuție?'
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_016
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: killzone și sesiuni'
+  body: Sesiunile contează deoarece lichiditatea și volatilitatea nu sunt egale toată ziua. London și New York pot schimba ritmul, mai ales pe indici, forex și aur.
+  practical: Notează maximul/minimul Asiei, apoi observă cum reacționează Londra și New York față de acele niveluri.
+  question: În ce sesiune vezi cele mai curate mișcări pentru instrumentul tău?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_017
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: Asia range'
+  body: Asia range-ul poate construi lichiditatea pe care London sau New York o atacă. Un sweep al maximului/minimului Asiei nu este suficient; contează reacția după sweep.
+  practical: Marchează range-ul Asiei și urmărește prima depășire serioasă în sesiunea următoare.
+  question: După sweep, piața a livrat invers sau a continuat direcția breakout-ului?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_018
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: New York AM'
+  body: NY AM poate aduce direcția dominantă a zilei, mai ales când se aliniază cu știri sau deschiderea pieței americane. Pentru indici, reacția la 16:30 ora României poate schimba complet contextul.
+  practical: Observă primele 30-60 minute după deschiderea SUA și notează dacă se ia lichiditate înainte de direcție.
+  question: Te grăbești înainte de deschidere sau aștepți să se formeze intenția?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_019
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: open price și daily bias'
+  body: Prețul de deschidere al zilei poate ajuta la citirea biasului intraday. Dacă piața respinge sub open și recuperează agresiv, contextul poate deveni diferit față de prima impresie.
+  practical: Marchează daily open și observă unde se menține prețul în primele ore active.
+  question: Prețul acceptă deasupra sau dedesubtul deschiderii zilei?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_020
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: daily high/low'
+  body: Maximul și minimul zilei sunt niveluri cheie pentru lichiditate intraday. Multe zile construiesc un high/low fals înainte de mișcarea principală.
+  practical: Pe ultimele cinci zile, identifică dacă high/low-ul zilei s-a format înainte sau după un sweep.
+  question: Unde ar putea fi high-ul sau low-ul probabil al zilei dacă scenariul se confirmă?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_021
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: internal vs external liquidity'
+  body: Lichiditatea internă se află în interiorul range-ului, iar cea externă la extreme. Prețul poate lua mai întâi lichiditate internă înainte să livreze spre cea externă.
+  practical: Marchează lichiditatea din interiorul range-ului și lichiditatea de la extreme.
+  question: Ținta ta este lichiditate internă sau externă?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_022
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: PD arrays'
+  body: PD arrays sunt zone de interes precum FVG, OB, breaker, liquidity pool sau imbalance. Valoarea lor depinde de context, nu de numărul lor pe grafic.
+  practical: Alege un singur PD array relevant și explică de ce este superior altor zone apropiate.
+  question: Care este cel mai curat PD array din direcția biasului?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_023
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: confluența reală'
+  body: Confluența reală înseamnă aliniere între context HTF, lichiditate, displacement, locație premium/discount și timp. Dacă adaugi multe elemente slabe, nu obții un setup puternic.
+  practical: Scrie maximum patru criterii pentru o idee și refuză setup-ul dacă lipsesc două.
+  question: Confluența ta adaugă claritate sau doar justifică o dorință?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_024
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: confirmare pe LTF'
+  body: Confirmarea pe timeframe mic trebuie să rafineze intrarea, nu să contrazică direcția mare. Un CHOCH pe 1 minut este slab dacă pe 1H ești în mijlocul range-ului.
+  practical: Pornește de la 1H/15M, apoi caută confirmare pe 5M/1M doar în zona selectată.
+  question: LTF-ul confirmă planul HTF sau te face să inventezi un trade nou?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_025
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: entry model'
+  body: 'Un entry model simplu poate fi: sweep, displacement, FVG/OB, retragere, reacție. Dacă lipsesc pașii, intrarea devine anticipare.'
+  practical: Testează pe istoric acest model în 20 de exemple și notează câte respectă toți pașii.
+  question: Care pas lipsește cel mai des din intrările tale?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_026
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: invalidarea setup-ului'
+  body: Invalidarea trebuie să fie tehnică, nu emoțională. Pentru un long, invalidarea poate fi sub swing-ul care a generat displacement-ul, nu sub orice wick apropiat.
+  practical: Pentru trei setup-uri, marchează invalidarea logică și compar-o cu stop-ul pe care l-ai fi ales emoțional.
+  question: Stop-ul tău protejează ideea sau doar reduce frica de pierdere?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_027
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: targetarea lichidității'
+  body: Țintele logice sunt adesea zone de lichiditate, high/low-uri anterioare sau inefficiency-uri neechilibrate. Un target ales doar pentru R:R poate ignora realitatea graficului.
+  practical: Pentru un scenariu, marchează prima țintă internă și ținta externă de lichiditate.
+  question: Ținta ta este într-o zonă unde piața are motiv să ajungă?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_028
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: continuare vs reversal'
+  body: Un reversal bun cere de obicei lichiditate luată, pierderea structurii și acceptare în direcția opusă. Fără aceste elemente, este posibil să fie doar o corecție.
+  practical: Compară un reversal real cu o simplă retragere într-un trend.
+  question: Ce dovadă ai că piața schimbă direcția, nu doar respiră?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_029
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: range day'
+  body: Într-o zi de range, cumpărarea maximelor și vânzarea minimelor devin periculoase. SMC te ajută să vezi când lichiditatea de la extreme este luată fără continuare.
+  practical: Identifică o zi în care ambele extreme au fost atacate și prețul a rămas lateral.
+  question: Ce regulă te-ar ține departe de mijlocul range-ului?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_030
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: trend day'
+  body: Într-o zi de trend, retragerile pot fi superficiale și FVG-urile pot rămâne parțial neatinse. Așteptarea unei corecții perfecte poate însemna să ratezi complet ziua.
+  practical: Pe o zi cu trend clar, observă cât de adânci au fost retragerile față de impulsuri.
+  question: Cum adaptezi așteptările când piața livrează agresiv într-o direcție?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_031
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: news displacement'
+  body: 'Știrile pot crea displacement real, dar și mișcare dezordonată fără structură. Diferența apare după primele minute: piața acceptă noul preț sau inversează complet?'
+  practical: Analizează o publicare CPI/NFP și compară prima lumânare cu structura formată după 15-30 minute.
+  question: După știre, vezi acceptare sau doar volatilitate fără direcție?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_032
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: liquidity grab înainte de continuare'
+  body: Uneori prețul ia lichiditatea împotriva trendului doar pentru a continua direcția principală. Acest comportament poate păcăli traderii care confundă fiecare sweep cu reversal.
+  practical: Caută un exemplu unde sell-side liquidity este luată într-un trend bullish, apoi trendul continuă.
+  question: Sweep-ul merge împotriva trendului doar pentru combustibil sau schimbă structura?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_033
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: retest vs mitigation'
+  body: Retestul clasic verifică o zonă spartă; mitigation-ul revine într-o zonă de ordin/inefficiency. Ambele cer reacție, dar logica din spate este diferită.
+  practical: Marchează un retest și o mitigation pe același grafic și scrie diferența.
+  question: Zona urmărită este suport/rezistență clasică sau PD array SMC?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_034
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: wick-uri și corpuri'
+  body: Wick-urile arată respingere sau căutare de lichiditate, iar corpurile arată acceptare. Un wick peste un nivel urmat de închidere sub el transmite alt mesaj decât o închidere puternică deasupra.
+  practical: Compară trei străpungeri cu wick și trei străpungeri cu închidere clară.
+  question: Piața a respins nivelul sau a acceptat prețul dincolo de el?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_035
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: acceptare vs respingere'
+  body: Acceptarea apare când prețul rămâne și construiește structură într-o zonă nouă. Respingerea apare când depășirea este rapid anulată.
+  practical: După o spargere, așteaptă două-trei lumânări și notează dacă piața construiește sau revine.
+  question: Analiza ta se bazează pe acceptare reală sau pe prima reacție?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_036
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: compression înainte de lichiditate'
+  body: Compresia spre un nivel indică deseori că prețul se apropie controlat de lichiditate. Spargerea poate fi violentă deoarece stop-urile și breakout-urile se activează împreună.
+  practical: Caută un nivel unde lumânările devin tot mai mici înainte de depășire.
+  question: Compresia îți arată pregătire pentru continuare sau risc de sweep?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_037
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: timeframe alignment'
+  body: Alinierea timeframe-urilor nu înseamnă că toate trebuie să arate identic. Înseamnă ca zona HTF, structura MTF și trigger-ul LTF să spună aceeași poveste.
+  practical: Scrie biasul pe 4H, zona pe 1H, confirmarea pe 5M într-o singură propoziție.
+  question: Unde apare conflictul între timeframe-uri în analiza ta?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_038
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: top-down analysis'
+  body: Analiza top-down te împiedică să transformi zgomotul de pe timeframe mic în poveste principală. Începi cu direcția și lichiditatea mare, apoi cobori pentru execuție.
+  practical: 'Fă o analiză în trei pași: 4H context, 1H zone, 5M confirmare.'
+  question: Ce se schimbă când nu începi analiza pe timeframe mic?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_039
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: bias zilnic'
+  body: Biasul zilnic este o ipoteză, nu o promisiune. El trebuie actualizat dacă piața ia lichiditate importantă și schimbă structura.
+  practical: Scrie biasul înainte de sesiune și condiția exactă care îl anulează.
+  question: Ce eveniment de pe grafic te-ar face să renunți la bias?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_040
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: scenarii alternative'
+  body: Un trader matur are scenariu principal și scenariu alternativ. Asta reduce atașamentul și te ajută să vezi piața, nu doar direcția dorită.
+  practical: Pentru același instrument, scrie un scenariu bullish și unul bearish cu invalidări clare.
+  question: Care scenariu are condiții mai clare în acest moment?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_041
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: setup de continuare'
+  body: Setup-ul de continuare caută intrare după ce piața confirmă direcția și se retrage într-o zonă de valoare. Calitatea scade dacă intri direct în lichiditate externă.
+  practical: Găsește un trend și marchează prima retragere într-un FVG/OB după BOS.
+  question: Intrarea urmărește continuarea sau cumperi/vinzi prea aproape de țintă?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_042
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: setup de reversal'
+  body: 'Setup-ul de reversal cere mai multă dovadă decât continuarea: lichiditate externă luată, displacement opus, CHOCH/BOS și reacție din PD array. Fără asta, riști să lupți cu trendul.'
+  practical: Testează cinci reversal-uri istorice și notează ce semn a confirmat schimbarea.
+  question: Ai suficiente dovezi pentru reversal sau doar vrei să prinzi vârful/baza?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_043
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: manipulare la deschidere'
+  body: Deschiderile de sesiune pot crea mișcări false pentru a lua lichiditate. Nu orice prim impuls este direcția zilei.
+  practical: Observă primele 15 minute după London/NY open și vezi dacă high/low-ul inițial este spart ulterior.
+  question: Aștepți să se formeze range-ul inițial sau reacționezi la prima lumânare?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_044
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: FVG consequent encroachment'
+  body: Nivelul de 50% al unui FVG, numit consequent encroachment, poate acționa ca zonă fină de reacție. Totuși, contează doar dacă gap-ul aparține unui impuls relevant.
+  practical: Marchează 50% din FVG și observă dacă reacția apare acolo sau după umplere completă.
+  question: FVG-ul tău are CE respectat sau piața îl ignoră?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_045
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: order flow'
+  body: 'Order flow-ul descrie secvența de livrare a prețului: ce lichiditate ia, ce structură rupe și ce zone respectă. Este mai important decât un singur semnal izolat.'
+  practical: Scrie ultimele cinci evenimente ale pieței în ordine cronologică.
+  question: Ordinea evenimentelor susține clar direcția urmărită?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_046
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: imbalances consecutive'
+  body: Mai multe imbalances consecutive arată livrare agresivă, dar pot crea și risc de retragere profundă ulterior. Nu urmări prețul târziu doar pentru că impulsul arată puternic.
+  practical: Găsește un impuls cu cel puțin două FVG-uri și observă care a fost respectat la retragere.
+  question: Ești la începutul impulsului sau alergi după el?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_047
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: failed auction'
+  body: Un failed auction apare când prețul atacă o zonă evidentă, dar nu reușește să accepte dincolo de ea. În SMC, poate semnala că lichiditatea a fost luată și piața se pregătește să livreze invers.
+  practical: Caută un wick peste maxim urmat de închidere sub nivel și displacement opus.
+  question: Eșecul de acceptare este suficient de clar sau nivelul încă este presat?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_048
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: nested structure'
+  body: 'Structura este fractală: un pullback pe 1H poate fi trend bearish pe 5M. Problema apare când tratezi structura mică drept direcție mare.'
+  practical: Analizează aceeași mișcare pe 1H și 5M și numește ce reprezintă pe fiecare timeframe.
+  question: Structura mică este trigger sau îți schimbă nejustificat biasul mare?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_049
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: liquidity engineering'
+  body: Piața poate construi lichiditate prin maxime/minime repetate, trendline-uri evidente sau consolidări. Cu cât nivelul este mai vizibil, cu atât mai mulți participanți îl folosesc pentru decizii.
+  practical: Marchează un trendline evident și observă ce se întâmplă când este spart.
+  question: Ce nivel pare prea evident pentru a fi ignorat de piață?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_050
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: trendline liquidity'
+  body: Trendline-urile pot crea lichiditate pentru că mulți traderi plasează stop-uri în jurul lor. În SMC, nu linia contează, ci reacția după ce lichiditatea este luată.
+  practical: Găsește o linie de trend clară și urmărește dacă spargerea produce continuare sau sweep.
+  question: Folosești trendline-ul ca semnal sau ca hartă de lichiditate?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_051
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: liquidity pool după consolidare'
+  body: O consolidare strânsă acumulează ordine de ambele părți. Mișcarea inițială după consolidare poate fi direcția reală sau doar colectarea lichidității.
+  practical: Marchează high/low-ul unei consolidări și așteaptă reacția după prima spargere.
+  question: Prima spargere are acceptare sau revine rapid în range?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_052
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: daily draw on liquidity'
+  body: Draw on liquidity este zona spre care piața are probabilitate să livreze, pe baza structurii și lichidității evidente. Nu este predicție fixă, ci orientare pentru scenarii.
+  practical: 'Identifică pentru ziua curentă cel mai logic draw: high anterior, low anterior, FVG HTF sau EQH/EQL.'
+  question: Care este magnetul principal al prețului în analiza ta?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_053
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: SMT divergence'
+  body: SMT apare când două active corelate nu confirmă același high/low. Pe indici, poate sugera slăbiciune sau forță relativă, dar trebuie folosit ca filtru, nu ca semnal unic.
+  practical: Compară DAX cu US indices sau NQ cu ES și vezi dacă unul ia high-ul iar celălalt nu.
+  question: Divergența arată lipsă de confirmare sau doar diferență normală de volatilitate?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_054
+  category: bazele_tradingului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: relative strength'
+  body: Forța relativă arată care activ conduce mișcarea. Dacă NQ recuperează mai rapid decât ES sau DAX rămâne slab față de Europa, contextul oferă indicii despre sentiment.
+  practical: Compară două instrumente similare în aceeași sesiune și notează care respectă mai bine structura bullish/bearish.
+  question: Ce activ conduce sentimentul astăzi?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_055
+  category: bazele_tradingului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: entry după confirmare'
+  body: Intrarea după confirmare sacrifică uneori preț perfect, dar reduce anticiparea. Pentru începători, claritatea este mai valoroasă decât prinderea exactă a wick-ului.
+  practical: Alege un setup și compară intrarea anticipată cu intrarea după displacement și retragere.
+  question: Ce ai câștiga dacă ai accepta să intri mai târziu, dar mai clar?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_056
+  category: bazele_tradingului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: no trade zone'
+  body: O zonă de no trade este locul unde prețul este între lichidități, fără premium/discount clar sau fără structură curată. A ști unde nu tranzacționezi este parte din edge.
+  practical: Marchează pe grafic o zonă unde nu ai voie să cauți intrări și explică de ce.
+  question: Care este zona de pe grafic unde orice idee ar fi forțată?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_057
+  category: bazele_tradingului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: setup checklist'
+  body: 'Un checklist bun nu trebuie să aibă 30 de puncte. Pentru SMC, patru întrebări pot fi suficiente: unde e lichiditatea, care e biasul, ce confirmă, unde e invalidarea.'
+  practical: Construiește un checklist cu maximum șase criterii și folosește-l pe 10 grafice istorice.
+  question: Ce criteriu este absolut obligatoriu pentru tine?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_058
+  category: bazele_tradingului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: review după sesiune'
+  body: 'Review-ul după sesiune transformă graficul în lecție. Cele mai utile întrebări sunt: ce lichiditate a fost luată, ce structură s-a schimbat și unde era zona de valoare.'
+  practical: Fă screenshot înainte și după sesiune, apoi notează diferența dintre plan și livrarea reală.
+  question: Ce ai văzut mai clar după ce sesiunea s-a terminat?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_059
+  category: bazele_tradingului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: calitatea setup-ului'
+  body: Calitatea setup-ului crește când ai locație bună, timp potrivit, confirmare clară și risc logic. Scade când intrarea este în mijlocul range-ului sau după mișcare extinsă.
+  practical: Notează fiecare idee de la 1 la 5 pentru locație, confirmare, risc și target.
+  question: Care scor minim ar trebui să aibă o idee ca să merite atenție?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: bazele_060
+  category: bazele_tradingului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: simplificarea graficului'
+  body: Prea multe zone pe grafic reduc claritatea. Un trader bun știe să elimine nivelurile secundare și să păstreze doar zonele care schimbă decizia.
+  practical: 'Șterge toate marcajele și redesenează doar trei zone: lichiditate, zonă de interes, invalidare.'
+  question: Ce zonă ai păstrat pentru că este reală, nu pentru că îți place?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: risc_001
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: risc fix per idee'
+  body: Riscul fix îți permite să compari calitatea deciziilor fără să fie distorsionate de mărimea poziției. Pentru începători, 0.25%-1% per idee este mai ușor de controlat decât ajustarea impulsivă după emoție.
+  practical: Calculează 0.25%, 0.5% și 1% pentru un cont ipotetic și scrie ce variantă ți-ar permite să rămâi calm după trei pierderi.
+  question: Ce procent îți permite să gândești clar după o pierdere?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_002
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: position sizing corect'
+  body: 'Mărimea poziției se calculează din riscul acceptat și distanța până la invalidare. Formula simplă este: sumă riscată împărțită la distanța până la stop, ajustată la valoarea punctului/pip-ului.'
+  practical: Ia un exemplu cu stop de 20 puncte și unul cu stop de 50 puncte, păstrând aceeași sumă riscată.
+  question: Cum se schimbă poziția când invalidarea este mai departe?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_003
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: stop logic vs stop confortabil'
+  body: Un stop logic stă dincolo de punctul unde ideea nu mai are sens. Un stop confortabil stă unde pierderea pare mică, dar poate fi lovit de zgomot normal.
+  practical: Marchează invalidarea tehnică înainte să calculezi dacă pierderea îți convine.
+  question: Stop-ul tău protejează setup-ul sau doar emoția?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_004
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: max daily loss'
+  body: Limita zilnică de pierdere este o frână de comportament, nu doar o regulă matematică. Când este atinsă, scopul devine protejarea minții și oprirea deteriorării deciziilor.
+  practical: Definește o limită zilnică în R, de exemplu -2R sau -3R, și scrie acțiunea obligatorie după atingere.
+  question: Ce te-ar face să respecți oprirea chiar dacă vezi un setup aparent bun?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_005
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: max weekly loss'
+  body: Limita săptămânală te protejează de spirală după mai multe zile slabe. O săptămână dificilă nu trebuie transformată într-o problemă de cont prin mărirea riscului.
+  practical: Simulează o săptămână cu trei zile negative și stabilește când reduci riscul sau treci pe observație.
+  question: Care este punctul în care ar trebui să oprești execuțiile pentru restul săptămânii?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_006
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: R-multiple'
+  body: R-multiple separă performanța de bani și îți arată calitatea procesului. Dacă riști 1R, rezultatele pot fi comparate indiferent de instrument sau mărimea contului.
+  practical: 'Transformă ultimele 10 exemple din jurnal în R: -1R, +0.5R, +2R etc.'
+  question: Îți este mai clar progresul când îl măsori în R?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_007
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: expectancy'
+  body: 'Expectancy arată media așteptată pe trade: rata de câștig, mărimea câștigului și mărimea pierderii lucrează împreună. O strategie cu win rate mai mic poate fi profitabilă dacă R-ul mediu este bun.'
+  practical: 'Construiește două scenarii: 40% win rate cu +2R mediu și 60% win rate cu +0.8R mediu.'
+  question: Ce combinație între win rate și R:R se potrivește stilului tău?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_008
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: risk-reward realist'
+  body: Un R:R mare pe hârtie nu valorează mult dacă targetul nu este într-o zonă logică. Ținta trebuie să corespundă structurii și lichidității, nu dorinței de a avea 1:5.
+  practical: Pentru o idee, marchează targetul tehnic înainte să calculezi R:R.
+  question: Targetul tău este logic sau doar arată bine în jurnal?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_009
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: drawdown matematic'
+  body: Drawdown-ul devine greu de recuperat pe măsură ce crește. O pierdere de 10% cere aproximativ 11.1% recuperare, iar una de 50% cere 100%, deci protecția capitalului este prioritară.
+  practical: Compară recuperarea necesară după -5%, -10%, -20% și -50%.
+  question: Ce drawdown maxim ai accepta fără să îți schimbi comportamentul?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_010
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: serii de pierderi'
+  body: Seriile negative sunt normale chiar și într-un proces bun. Riscul trebuie setat astfel încât 5-10 pierderi consecutive să fie suportabile financiar și psihologic.
+  practical: Simulează 7 pierderi consecutive la 0.5%, 1% și 2%.
+  question: La ce nivel de risc o serie negativă devine periculoasă pentru disciplina ta?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_011
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: reducerea riscului după abatere'
+  body: Dacă ai încălcat planul, problema nu este doar rezultatul, ci pierderea controlului. Reducerea riscului sau trecerea pe demo pentru câteva sesiuni poate reface disciplina.
+  practical: 'Scrie o regulă: după o abatere majoră, următoarele X sesiuni au risc redus sau zero execuții.'
+  question: Ce abatere ar trebui să activeze automat această regulă?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_012
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: nu adăuga la pierdere'
+  body: Adăugarea la o poziție pierzătoare fără un plan prestabilit poate transforma o pierdere controlată într-una disproporționată. Averaging down este periculos când vine din speranță.
+  practical: Simulează cum se dublează expunerea dacă adaugi aceeași mărime după -0.5R.
+  question: Adaugi pentru că planul prevede sau pentru că nu accepți invalidarea?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_013
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: scaling in planificat'
+  body: Scaling in poate avea sens doar dacă este planificat, riscul total rămâne limitat și structura confirmă continuarea. Nu trebuie folosit ca metodă de reparare a unei intrări slabe.
+  practical: Definește dinainte două puncte de adăugare și riscul total maxim cumulat.
+  question: Cum te asiguri că adăugarea nu depășește riscul inițial acceptat?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_014
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: parțiale'
+  body: Închiderea parțială poate reduce presiunea, dar poate și tăia prea devreme edge-ul dacă este făcută din frică. Regula trebuie testată, nu aleasă emoțional în timpul trade-ului.
+  practical: Compară pe 20 exemple rezultatul cu full TP versus parțial la 1R și rest la target.
+  question: Parțialele îți îmbunătățesc statistica sau doar confortul?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_015
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: break-even'
+  body: Mutarea la break-even prea devreme poate transforma setup-uri bune în rezultate neutre. BE trebuie legat de structură sau de atingerea unei zone intermediare, nu de frică.
+  practical: Pe 10 exemple, notează dacă BE-ul ar fi protejat capitalul sau ar fi scos trade-ul înainte de target.
+  question: Când are sens tehnic să muți stop-ul la BE?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_016
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: trailing stop'
+  body: Trailing stop-ul urmărește protejarea profitului pe măsură ce piața livrează. Dacă este prea agresiv, poate opri prematur un trend normal; dacă este prea larg, poate lăsa prea mult profit înapoi.
+  practical: Testează trailing după swing-uri LTF versus trailing la fiecare FVG respectat.
+  question: Ce structură folosești pentru trailing, nu doar ce sumă vrei să protejezi?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_017
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: risk înainte de știri'
+  body: Știrile mari pot mări spread-ul, slippage-ul și viteza mișcării. Pentru începători, reducerea riscului sau observația în jurul CPI, NFP și FOMC este o decizie matură.
+  practical: Marchează în calendar știrile cu impact ridicat și definește o fereastră de no-trade înainte/după ele.
+  question: Ce eveniment macro te afectează cel mai mult ca disciplină?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_018
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: costuri de tranzacționare'
+  body: Spread-ul, comisionul și slippage-ul pot transforma un setup aparent bun într-unul slab, mai ales pe scalping. R:R-ul real trebuie calculat după costuri.
+  practical: Calculează R-ul efectiv dacă spread-ul consumă 10-20% din stop.
+  question: Instrumentul tău are costuri potrivite pentru timeframe-ul folosit?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_019
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: slippage'
+  body: Slippage-ul apare când execuția se face la alt preț decât cel așteptat. Este mai probabil în știri, deschideri de sesiune, instrumente volatile sau lichiditate subțire.
+  practical: Notează în jurnal diferența dintre prețul dorit și prețul executat pentru 20 de exemple.
+  question: Când ai observat cel mai mare slippage?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_020
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: spread variabil'
+  body: Spread-ul variabil poate crește exact când piața devine atractivă vizual. Dacă stop-ul este foarte strâns, spread-ul poate afecta disproporționat riscul.
+  practical: Verifică spread-ul în perioade calme, la deschidere și înainte de știri.
+  question: Cât din stop este consumat de spread în medie?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_021
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: volatilitate și stop'
+  body: Când volatilitatea crește, stop-ul tehnic este adesea mai larg. Pentru același risc total, poziția trebuie redusă, nu păstrată la fel.
+  practical: Compară dimensiunea lumânărilor într-o zi calmă și una volatilă și ajustează poziția ipotetică.
+  question: Reduci mărimea când stop-ul logic devine mai mare?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_022
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: ATR ca filtru'
+  body: ATR nu oferă direcție, dar poate arăta dacă piața este mai volatilă decât de obicei. Este util pentru a evita stop-uri prea strânse în zile agresive.
+  practical: Compară ATR-ul actual cu media ultimelor zile și observă dacă setup-urile au nevoie de spațiu mai mare.
+  question: Volatilitatea curentă susține stilul tău sau îl face prea riscant?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_023
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: risc pe sesiune'
+  body: Unele sesiuni sunt mai volatile și mai rapide decât altele. Poți seta risc diferit pentru London, NY AM sau perioadele de mijloc ale zilei, dar regula trebuie scrisă înainte.
+  practical: Analizează istoricul tău pe sesiuni și vezi unde apar cele mai multe abateri.
+  question: În ce sesiune meriți risc normal și în ce sesiune ar trebui să reduci?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_024
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: max trades per day'
+  body: Limita de trade-uri previne overtradingul mascat în analiză. Dacă ai voie maximum 2-3 idei, devii mai selectiv cu calitatea setup-ului.
+  practical: Setează o limită zilnică și obligă-te să argumentezi fiecare idee înainte de execuție.
+  question: Câte trade-uri pe zi îți mențin claritatea?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_025
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: cooldown după trade'
+  body: După o execuție, emoția poate distorsiona următoarea decizie. Un cooldown de 10-20 minute reduce impulsul de a reacționa imediat.
+  practical: 'Scrie o regulă: după fiecare rezultat, nu analizezi alt setup până nu completezi jurnalul scurt.'
+  question: Ce simți imediat după un câștig sau o pierdere?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_026
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: risc după câștig mare'
+  body: Un câștig mare poate crea impresia că ai voie să forțezi. De multe ori, riscul crește după profit, nu după pierdere, pentru că apare încrederea excesivă.
+  practical: 'Definește regula: după +X R într-o zi, opresc sau reduc riscul.'
+  question: Ai tendința să protejezi profitul sau să îl folosești ca permisiune pentru risc?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_027
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: risc după pierdere mare'
+  body: După o pierdere mare, obiectivul nu este recuperarea imediată, ci revenirea la control. Următorul trade făcut din presiune are risc psihologic mai mare decât pare matematic.
+  practical: Scrie ce faci în primele 30 de minute după o pierdere care te afectează.
+  question: Ce acțiune te readuce la proces după o pierdere mare?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_028
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: capital de învățare'
+  body: Capitalul de la început trebuie văzut ca resursă de educație, nu ca motor de venit. Dacă îl expui agresiv, pierzi timpul necesar pentru a acumula date despre proces.
+  practical: Definește câte luni vrei să supraviețuiască contul chiar și cu rezultate mixte.
+  question: Riscarea actuală îți oferă timp să înveți?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_029
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: demo vs live'
+  body: Demo este util pentru proces și execuție tehnică, dar live adaugă emoție reală. Trecerea la live trebuie făcută cu risc mic, nu cu așteptări de profit imediat.
+  practical: 'Stabilește criterii pentru trecerea de la demo la live: număr de sesiuni, respectarea regulilor, jurnal complet.'
+  question: Ce trebuie să demonstrezi înainte să crești expunerea?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_030
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: risc pe instrument'
+  body: DAX, NQ, aurul sau acțiunile volatile nu au același comportament. Riscul trebuie adaptat la viteza, spread-ul și volatilitatea fiecărui instrument.
+  practical: Compară mișcarea medie și costurile pentru două instrumente pe care le urmărești.
+  question: Tratezi toate instrumentele la fel sau le adaptezi?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_031
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: corelare între poziții'
+  body: Două poziții corelate pot însemna un singur pariu mărit. Long NQ și long DAX în același context risk-on pot dubla expunerea la sentimentul pieței.
+  practical: 'Notează dacă două trade-uri depind de același factor: dolar, randamente, sentiment, știri.'
+  question: Ai diversificare reală sau aceeași idee în mai multe forme?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_032
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: exposure total'
+  body: Expunerea totală contează mai mult decât riscul individual când ai mai multe poziții deschise. Trei trade-uri de 1R pot crea o zi de -3R dacă sunt corelate.
+  practical: Calculează riscul cumulat înainte să deschizi a doua sau a treia poziție.
+  question: Care este riscul maxim total acceptat simultan?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_033
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: regula de no-trade'
+  body: 'Regulile de no-trade sunt la fel de importante ca regulile de entry. Exemple: după limită zilnică, în știri majore, oboseală ridicată, lipsă de setup clar.'
+  practical: Scrie cinci condiții în care nu ai voie să execuți, indiferent cât de atractiv pare graficul.
+  question: Ce condiție de no-trade ai încălcat cel mai des?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_034
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: checklist de risc'
+  body: 'Un checklist de risc trebuie completat înainte de intrare: risc în R, invalidare, target logic, știri, costuri, starea mentală. Dacă lipsește ceva, execuția se amână.'
+  practical: Creează o fișă de 6 întrebări pe care o completezi înainte de orice trade.
+  question: Ce întrebare din checklist te-ar salva cel mai des?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_035
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: jurnal de risc planificat vs real'
+  body: Diferența dintre riscul planificat și cel real arată disciplina de execuție. Dacă riscul real este frecvent mai mare, problema este comportamentul, nu strategia.
+  practical: 'Adaugă în jurnal coloanele: risc planificat, risc executat, motiv diferență.'
+  question: Cât de des execuți exact riscul planificat?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_036
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: risc și calitatea setup-ului'
+  body: Risc mai mare pe setup-uri 'mai bune' poate părea logic, dar pentru începători duce ușor la subiectivitate. Mai întâi ai nevoie de date solide, nu de încredere selectivă.
+  practical: Păstrează risc fix pe 50 de exemple și evaluează calitatea separat.
+  question: Ai suficiente date ca să justifici risc variabil?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_037
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: tiered risk'
+  body: 'Tiered risk înseamnă să ai niveluri: risc mic pentru studiu, normal pentru setup A+, zero pentru piață neclară. Funcționează doar dacă definești clar ce este A+.'
+  practical: Definește criteriile pentru risc 0, risc redus și risc normal.
+  question: Ce criterii trebuie bifate ca să meriți risc normal?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_038
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: risc și lichiditate de piață'
+  body: Lichiditatea slabă poate crește mișcările haotice și execuțiile slabe. În ore moarte sau instrumente subțiri, aceeași strategie poate performa diferit.
+  practical: Compară execuțiile din ore active cu cele din ore lente.
+  question: Când simți că piața nu are suficientă lichiditate pentru stilul tău?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_039
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: gap risk'
+  body: Gap risk apare când prețul sare peste niveluri, mai ales peste noapte sau după știri. Stop-ul nu garantează întotdeauna execuție exactă la prețul dorit.
+  practical: Pentru instrumentul urmărit, verifică dacă apar gap-uri frecvente între sesiuni.
+  question: Ții poziții în perioade unde gap-ul poate depăși riscul planificat?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_040
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: overnight risk'
+  body: Pozițiile ținute peste noapte sunt expuse la știri, gap-uri și lichiditate diferită. Intraday tradingul reduce acest risc, dar cere disciplină la închidere.
+  practical: 'Scrie o regulă clară: când ai voie și când nu ai voie să ții peste noapte.'
+  question: Ținerea peste noapte face parte din strategie sau din speranță?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_041
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: weekend risk'
+  body: Weekendul poate aduce evenimente geopolitice sau știri care redeschid piața cu gap. Pentru traderii intraday, evitarea expunerii peste weekend este deseori mai curată.
+  practical: Notează ce instrumente pot fi afectate de știri în weekend.
+  question: Ai o regulă de închidere înainte de weekend?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_042
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: risc pe știri geopolitice'
+  body: Știrile geopolitice pot fi greu de modelat pentru că evoluează neprogramat. Riscul trebuie redus când titlurile schimbă rapid sentimentul și lichiditatea.
+  practical: Alege un eveniment geopolitic și observă dacă piața a avut mișcări curate sau spike-uri contradictorii.
+  question: Când știrea este prea incertă pentru execuție?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_043
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: risc în fază de range'
+  body: Range-ul produce multe semnale false și stop-uri prinse la extreme. Riscul poate fi redus sau setup-urile filtrate doar la extreme, nu în mijloc.
+  practical: Marchează mijlocul range-ului și interzice intrările acolo în exercițiul tău.
+  question: Cum recunoști că piața nu oferă edge suficient?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_044
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: risc în trend puternic'
+  body: În trend puternic, riscul vine din intrări prea târzii și stop-uri plasate în zone evidente. Nu orice retragere mică justifică intrare dacă prețul este aproape de lichiditate externă.
+  practical: Analizează dacă intrarea este înainte sau după extensia principală.
+  question: Ești poziționat la valoare sau alergi după mișcare?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_045
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: risc de bias direcțional'
+  body: Când ești prea convins de direcție, ignori invalidarea și informațiile contrare. Riscul crește deoarece începi să interpretezi piața selectiv.
+  practical: Pentru fiecare analiză, scrie ce ar demonstra că greșești.
+  question: Ce informație opusă ai ignorat recent?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_046
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: risc de sistem netestat'
+  body: O regulă intuitivă poate părea bună pe câteva exemple, dar fără testare nu știi distribuția rezultatelor. Risc real se pune doar pe procese măsurate.
+  practical: Testează o regulă pe minimum 30 exemple istorice înainte să o tratezi ca edge.
+  question: Ce regulă folosești fără suficiente date?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_047
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: backtesting și risc'
+  body: Backtestingul nu este doar despre win rate; trebuie să arate drawdown, serii negative, R mediu și condiții de piață unde setup-ul slăbește.
+  practical: 'Pentru un setup, notează pe 50 exemple: rezultat R, sesiune, context, greșeli.'
+  question: Ce statistică te-ar face să reduci riscul?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_048
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: forward testing'
+  body: Forward testingul verifică dacă poți respecta regulile în timp real. Multe setup-uri arată clar după fapt, dar sunt mai greu de executat live.
+  practical: Rulează 20 de sesiuni demo cu reguli stricte și fără modificări în timpul testului.
+  question: Poți respecta sistemul când nu știi încă rezultatul?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_049
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: risc și obiective lunare'
+  body: Obiectivele financiare agresive pot împinge riscul peste nivelul sănătos. Procesul trebuie construit pe decizii repetabile, nu pe presiunea unei sume lunare.
+  practical: 'Înlocuiește targetul de bani cu targeturi de proces: respectare risc, jurnal complet, zero revenge.'
+  question: Ce obiectiv de proces ar reduce presiunea?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_050
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: risc și prop firm'
+  body: 'Conturile de tip funding au reguli specifice: daily loss, max loss, trailing drawdown, restricții de știri. Strategia trebuie adaptată acestor limite, nu invers.'
+  practical: Scrie limitele contului și transformă-le în reguli zilnice concrete.
+  question: Care regulă de funding îți poate invalida stilul actual?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_051
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: risc în acțiuni volatile'
+  body: Acțiunile cu preț mic și catalizatori mari pot avea mișcări rapide, halt-uri și spread-uri extinse. Position sizing-ul trebuie să includă riscul de execuție imperfectă.
+  practical: Pentru o acțiune volatilă, verifică volumul, spread-ul, float-ul și istoricul de halt-uri.
+  question: Riscul real este doar stop-ul sau și lichiditatea acțiunii?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_052
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: risc de halt'
+  body: Halt-ul poate bloca ieșirea și poate redeschide la preț mult diferit. La acțiuni cu catalyst, riscul de halt trebuie inclus înainte de intrare.
+  practical: Analizează exemple de halt-uri și observă gap-ul de redeschidere.
+  question: Ai voie să riști normal pe o acțiune predispusă la halt?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_053
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: risc de știri false'
+  body: Titlurile neverificate pot produce spike-uri care se inversează rapid. Tradingul pe zvonuri fără confirmare crește riscul de whipsaw.
+  practical: Alege o știre rapidă și urmărește dacă reacția s-a menținut după 15 minute.
+  question: Ai sursă validă sau reacționezi la zgomot?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_054
+  category: managementul_riscului
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: risc și levier'
+  body: Levierul nu este problemă dacă riscul este controlat, dar devine periculos când mărimea poziției crește fără legătură cu invalidarea. Levierul amplifică atât greșelile, cât și emoțiile.
+  practical: Calculează cât din cont se pierde dacă piața se mișcă 0.5%, 1% sau 2% împotriva poziției.
+  question: Înțelegi expunerea totală, nu doar marja folosită?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_055
+  category: managementul_riscului
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: margin call'
+  body: Margin call-ul apare când capitalul nu mai susține expunerea. Dacă ajungi aproape de acest punct, riscul a fost deja gestionat greșit mult înainte.
+  practical: Simulează ce se întâmplă cu marja când poziția este prea mare pentru stop-ul tehnic.
+  question: Ce regulă previne apropierea de margin call?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_056
+  category: managementul_riscului
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: risc de platformă'
+  body: Problemele tehnice, internetul sau întârzierile platformei sunt parte din risc operațional. Un plan complet include ce faci dacă nu poți modifica sau închide poziția.
+  practical: 'Scrie un protocol: conexiune backup, ordin stop plasat imediat, număr broker/platformă, capturi.'
+  question: Ce ai face dacă platforma se blochează în poziție?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_057
+  category: managementul_riscului
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: risk review săptămânal'
+  body: Review-ul de risc arată dacă ai respectat limitele, nu doar dacă ai câștigat. O săptămână profitabilă cu risc încălcat este un avertisment, nu o victorie curată.
+  practical: La final de săptămână, notează cele mai mari trei riscuri asumate și dacă au fost planificate.
+  question: Ai fost profitabil prin proces sau prin noroc riscant?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_058
+  category: managementul_riscului
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: plan de risc pentru 60 zile'
+  body: Un plan pe 60 de zile trebuie să prioritizeze supraviețuirea, datele și disciplina. Creșterea riscului are sens doar după dovezi clare de respectare a procesului.
+  practical: 'Definește două etape: primele 30 zile risc minim și jurnal, următoarele 30 zile ajustare doar dacă regulile au fost respectate.'
+  question: Ce dovadă concretă ai cere înainte să crești riscul?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_059
+  category: managementul_riscului
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: risc pe setup A/B/C'
+  body: Clasificarea setup-urilor în A, B și C ajută la separarea calității de impuls. Pentru început, setup-urile C pot fi doar studiate, nu executate, până când datele arată edge real.
+  practical: Definește criterii clare pentru A, B și C și verifică 20 exemple istorice.
+  question: Ce diferență practică există între un setup A și unul doar interesant?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: risc_060
+  category: managementul_riscului
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: risc și timpul în poziție'
+  body: Cu cât stai mai mult într-o poziție, cu atât crește expunerea la informații noi, știri și schimbări de lichiditate. Timpul trebuie să facă parte din planul de risc, nu să fie decis după speranță.
+  practical: 'Pentru fiecare idee, stabilește condiția de timp: dacă după X lumânări nu livrează, reevaluez.'
+  question: Cât timp are voie setup-ul să stea fără să confirme?
+  disclaimer: Conținut educațional. Tradingul implică risc, iar fiecare decizie trebuie luată responsabil.
+- key: macro_001
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: CPI headline vs core'
+  body: CPI headline include energie și alimente, iar Core CPI le exclude pentru a vedea presiunea de bază. Pentru traderi, surpriza față de estimări contează mai mult decât eticheta 'bun' sau 'rău'.
+  practical: La următorul CPI, notează previous, forecast, actual și reacția pe dolar, randamente și NQ.
+  question: 'Care cifră a condus reacția: headline sau core?'
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_002
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: PCE și Fed'
+  body: PCE este măsura de inflație urmărită atent de Fed, iar Core PCE poate influența așteptările de dobândă. Reacția pieței depinde de diferența dintre date și ce era deja priced in.
+  practical: Compară Core PCE cu probabilitățile de dobândă înainte și după publicare.
+  question: Datele au schimbat așteptările Fed sau doar au confirmat ce se știa?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_003
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: NFP și salarii'
+  body: NFP arată locurile de muncă noi, dar Average Hourly Earnings arată presiunea salarială. Uneori salariile pot domina reacția chiar dacă NFP arată bine.
+  practical: La NFP, notează NFP, unemployment rate și wage growth, apoi vezi care a mișcat randamentele.
+  question: Ce componentă a raportului a contat cel mai mult?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_004
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: unemployment rate'
+  body: Rata șomajului schimbă interpretarea pieței muncii. Creșterea șomajului poate susține ideea de Fed mai dovish, dar doar dacă nu este contrazisă de salarii sau participare.
+  practical: Compară șomajul cu NFP și participarea forței de muncă.
+  question: Mesajul pieței muncii este clar sau mixt?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_005
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: jobless claims'
+  body: Jobless claims sunt date săptămânale și pot arăta din timp slăbirea pieței muncii. O singură publicare contează mai puțin decât trendul pe mai multe săptămâni.
+  practical: Urmărește patru publicări consecutive și notează dacă trendul crește sau scade.
+  question: Claims confirmă sau contrazic narativul NFP?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_006
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: FOMC decision'
+  body: Decizia de dobândă este doar prima parte; dot plot-ul, statement-ul și conferința pot schimba complet reacția. Piața reacționează la viitor, nu doar la decizia curentă.
+  practical: Notează decizia, proiecțiile și tonul conferinței înainte să tragi concluzia.
+  question: 'Ce a schimbat piața: rata, proiecțiile sau mesajul?'
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_007
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: dot plot'
+  body: Dot plot-ul arată unde văd oficialii Fed dobânzile în viitor. O schimbare de mediană poate mișca dolarul, randamentele și indicii chiar dacă rata curentă rămâne neschimbată.
+  practical: Compară dot plot-ul nou cu cel anterior și observă reacția US10Y.
+  question: Piața a citit dot plot-ul ca hawkish sau dovish?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_008
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: Fed speakers'
+  body: Discursurile Fed pot ajusta așteptările între ședințe. Contează dacă mesajele sunt coordonate sau divergente între membri.
+  practical: 'Alege trei declarații Fed dintr-o săptămână și notează cuvintele-cheie: inflation, labor, restrictive, cuts.'
+  question: Mesajele Fed construiesc un narativ clar sau confuz?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_009
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: Treasury 2Y'
+  body: Randamentul la 2 ani este foarte sensibil la așteptările de dobândă. Dacă 2Y urcă rapid, acțiunile de creștere și NQ pot simți presiune.
+  practical: Compară reacția NQ cu US2Y într-o zi cu date macro.
+  question: NQ ignoră randamentele sau reacționează vizibil?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_010
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: Treasury 10Y'
+  body: US10Y influențează evaluările, costul capitalului și aurul. O creștere a randamentului real poate apăsa activele sensibile la dobândă.
+  practical: Urmărește US10Y, dolarul și aurul în aceeași fereastră de timp.
+  question: Care activ reacționează primul la schimbarea randamentelor?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_011
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: yield curve'
+  body: Curba randamentelor arată diferența dintre maturități, precum 2Y și 10Y. Re-steepening sau inversion pot transmite mesaje despre creștere, inflație și risc de recesiune.
+  practical: Notează spread-ul 2Y-10Y într-o săptămână cu știri importante.
+  question: Curba transmite stres economic sau normalizare?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_012
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: dolarul DXY'
+  body: DXY oferă context pentru forex, aur și active de risc. Un dolar puternic poate apăsa aurul și uneori indicii, dar relația depinde de motivul aprecierii.
+  practical: Compară DXY cu EURUSD, XAUUSD și NQ într-o zi volatilă.
+  question: Dolarul se întărește din dobânzi sau din risk-off?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_013
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: EURUSD și diferențialul Fed-BCE'
+  body: EURUSD reacționează la diferența dintre așteptările Fed și BCE. Nu analiza euro izolat; întreabă-te care bancă centrală devine relativ mai hawkish.
+  practical: Notează ce se schimbă în așteptările de dobândă pentru Fed versus BCE.
+  question: Mișcarea EURUSD vine din euro, dolar sau ambele?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_014
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: BCE și inflația euro'
+  body: BCE urmărește inflația, salariile și creșterea din zona euro. Pentru DAX și EUR, contează dacă mesajul reduce sau crește costul capitalului regional.
+  practical: După o decizie BCE, urmărește EURUSD, randamentele germane și DAX.
+  question: BCE susține sentimentul european sau îl apasă?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_015
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: BoE și GBP'
+  body: BoE este influențată de inflația persistentă și salariile din UK. GBP poate reacționa puternic dacă piața schimbă așteptările despre următoarele decizii.
+  practical: Compară CPI UK cu reacția GBPUSD și randamentele britanice.
+  question: Piața vede BoE mai hawkish sau mai dovish după date?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_016
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: BOJ și yen'
+  body: BOJ poate influența yenul și sentimentul global prin politica sa de dobândă și intervenții. Mișcările yenului pot afecta risk sentiment, mai ales când carry trades se inversează.
+  practical: Urmărește USDJPY lângă randamentele SUA în ziua BOJ.
+  question: Yenul reacționează la BOJ sau la US yields?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_017
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: PMI manufacturing'
+  body: PMI manufacturier oferă semnale despre industrie și ciclul economic. Sub 50 indică de obicei contracție, peste 50 expansiune, dar trendul contează mai mult decât o singură cifră.
+  practical: Compară PMI actual cu forecast și previous, apoi observă reacția indicilor.
+  question: Datele arată accelerare sau încetinire?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_018
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: PMI services'
+  body: Serviciile pot domina economia modernă și inflația salarială. Un PMI services puternic poate susține ideea de dobânzi ridicate mai mult timp.
+  practical: Compară services PMI cu manufacturing PMI și vezi care domină reacția.
+  question: Sectorul servicii schimbă interpretarea macro?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_019
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: ISM'
+  body: ISM este urmărit atent pentru SUA, mai ales componentele prices paid și employment. Raportul poate mișca dolarul și randamentele chiar dacă headline-ul nu surprinde mult.
+  practical: Notează headline, prices și employment din ISM.
+  question: Ce componentă a raportului contează pentru inflație și Fed?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_020
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: retail sales'
+  body: Retail sales arată forța consumatorului. Date peste așteptări pot sugera economie rezistentă, dar pot crește și teama de dobânzi mai restrictive.
+  practical: Urmărește reacția dolarului și indicilor după retail sales.
+  question: Piața citește consumul puternic ca bullish sau hawkish?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_021
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: GDP'
+  body: PIB-ul măsoară creșterea economică, dar piețele pot reacționa diferit în funcție de inflație și Fed. Creștere puternică nu este automat bullish dacă amplifică presiunea pe dobânzi.
+  practical: Compară GDP cu componentele de consum și inflație din raport.
+  question: Cifra susține risk-on sau teama de rate mai mari?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_022
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: consumer confidence'
+  body: Încrederea consumatorilor poate anticipa consumul, dar reacția pieței depinde de context. O încredere prea puternică poate păstra presiunea inflaționistă.
+  practical: Notează dacă datele de sentiment se aliniază cu retail sales.
+  question: Consumatorul pare să încetinească sau să reziste?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_023
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: inflation expectations'
+  body: Așteptările de inflație pot influența băncile centrale chiar înainte ca inflația efectivă să se schimbe. Dacă așteptările cresc, Fed poate deveni mai precaută.
+  practical: Urmărește datele de inflation expectations și reacția US2Y.
+  question: Piața tratează așteptările ca risc real?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_024
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: oil și inflație'
+  body: Petrolul influențează costurile de transport, energie și headline inflation. O creștere persistentă a petrolului poate complica mesajul băncilor centrale.
+  practical: Compară WTI/Brent cu breakeven inflation și randamentele.
+  question: Mișcarea petrolului este ofertă, cerere sau geopolitică?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_025
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: EIA inventories'
+  body: Stocurile EIA pot mișca petrolul intraday, mai ales când surpriza este mare. Traderii trebuie să compare actual cu forecast și previous, nu doar direcția prețului.
+  practical: La EIA, notează crude inventories, gasoline și distillates.
+  question: Surpriza din stocuri confirmă direcția petrolului?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_026
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: OPEC'
+  body: Deciziile OPEC pot schimba așteptările de ofertă. Piața reacționează nu doar la anunț, ci la credibilitatea implementării și contextul cererii globale.
+  practical: După o știre OPEC, urmărește dacă petrolul menține reacția după prima oră.
+  question: Piața crede anunțul sau îl fade-uiește?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_027
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: geopolitică și risk-off'
+  body: Evenimentele geopolitice pot crea cerere pentru active defensive și volatilitate în petrol, aur, dolar și indici. Reacția durabilă depinde de escaladare și impact economic.
+  practical: Notează ce active reacționează primele la un headline geopolitic.
+  question: Este reacție de panică scurtă sau schimbare de regim?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_028
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: aur și randamente reale'
+  body: Aurul este sensibil la dolar și randamente reale. Când randamentele reale scad, aurul poate primi suport, dar risk-off-ul poate complica relația.
+  practical: Compară aurul cu DXY și US10Y real sau proxy prin randamente nominale.
+  question: Aurul reacționează mai mult la frică sau la dobânzi?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_029
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: NQ și rate sensitivity'
+  body: Nasdaq este sensibil la randamente deoarece multe companii de creștere sunt evaluate pe cashflow viitor. Randamente mai mari pot comprima multiplii, mai ales dacă vin din Fed hawkish.
+  practical: Urmărește NQ și US10Y în primele 30 minute după date macro.
+  question: NQ se mișcă invers cu randamentele sau ignoră contextul?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_030
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: DAX și Europa'
+  body: DAX reacționează la sentiment global, euro, energie și date europene. De multe ori urmărește SUA, dar poate avea slăbiciune/forță relativă proprie.
+  practical: Compară DAX cu Euro Stoxx și S&P futures într-o sesiune europeană.
+  question: DAX conduce Europa sau doar urmează SUA?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_031
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: risk-on/risk-off'
+  body: Risk-on apare când capitalul caută randament; risk-off când caută protecție. Confirmarea vine din mai multe active, nu doar dintr-un indice verde sau roșu.
+  practical: Verifică simultan indici, dolar, aur, yen și randamente.
+  question: Câte active confirmă sentimentul observat?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_032
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: breadth'
+  body: Market breadth arată câte acțiuni participă la mișcare. Un indice poate urca pe câteva companii mari, dar breadth slab poate avertiza că participarea este limitată.
+  practical: Compară avans/declin sau equal-weight index cu indicele principal.
+  question: Mișcarea indicelui este larg susținută sau concentrată?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_033
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: earnings season'
+  body: Sezonul de raportări poate schimba sentimentul sectorial și indicii. Contează diferența dintre rezultate, așteptări și guidance, nu doar profitul raportat.
+  practical: Alege o companie mare și urmărește reacția sectorului, nu doar acțiunea.
+  question: Guidance-ul confirmă optimismul sau îl reduce?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_034
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: guidance'
+  body: Guidance-ul spune ce așteaptă compania pentru viitor, iar piețele îl pot prețui mai puternic decât rezultatul trecut. De aceea, reacția poate părea contraintuitivă.
+  practical: Compară EPS/revenue cu guidance și reacția prețului.
+  question: Piața a reacționat la trecut sau la viitor?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_035
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: sector rotation'
+  body: 'Rotația sectorială arată unde se mută capitalul: tech, defensiv, energie, financiar. Pentru traderi, indică dacă sentimentul este speculativ sau precaut.'
+  practical: Urmărește liderii și laggard-ii sectoriali într-o zi risk-on/risk-off.
+  question: Ce sector confirmă narativul zilei?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_036
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: small caps'
+  body: Small caps sunt sensibile la dobânzi, credit și apetit pentru risc. Dacă Russell 2000 nu confirmă rally-ul, poate indica participare slabă.
+  practical: Compară IWM/Russell cu NQ și S&P într-o zi de rally.
+  question: Small caps confirmă optimismul sau rămân în urmă?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_037
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: credit spreads'
+  body: Credit spreads arată percepția riscului în piața de credit. Când spread-urile se lărgesc, sentimentul de risc poate deveni mai fragil.
+  practical: Urmărește dacă indicii urcă în timp ce creditul se deteriorează.
+  question: Creditul confirmă sau contrazice risk-on-ul?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_038
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: VIX'
+  body: VIX măsoară așteptările de volatilitate pe S&P. Un VIX în creștere în timp ce indicii urcă poate semnala tensiune sub suprafață.
+  practical: Compară VIX cu S&P și NQ în aceeași sesiune.
+  question: Volatilitatea confirmă calmul sau avertizează?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_039
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: liquidity conditions'
+  body: Condițiile de lichiditate influențează apetitul pentru risc. Ratele, bilanțurile băncilor centrale și funding stress pot schimba fundalul pieței.
+  practical: Notează dacă mișcările de risc apar într-un context de lichiditate relaxată sau restrictivă.
+  question: Lichiditatea susține activele de risc sau le apasă?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_040
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: macro regime'
+  body: Regimul macro poate fi inflation scare, growth scare, soft landing sau recession fear. Același CPI poate avea impact diferit în fiecare regim.
+  practical: Într-o săptămână, descrie regimul dominant în trei cuvinte.
+  question: Ce regim pare să prețuiască piața acum?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_041
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: priced in'
+  body: Priced in înseamnă că piața se aștepta deja la informație. De aceea, o știre 'bună' poate produce reacție mică dacă era anticipată.
+  practical: Compară forecast, positioning și reacția efectivă după o știre.
+  question: Cât din știre era deja inclus în preț?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_042
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: surprise factor'
+  body: Surpriza față de estimări produce volatilitate. Cu cât diferența dintre actual și forecast este mai mare, cu atât crește probabilitatea unei repricing rapide.
+  practical: La o publicare, calculează simplu diferența actual minus forecast.
+  question: Surpriza este suficient de mare ca să schimbe narativul?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_043
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: revision factor'
+  body: Revizuirile pot schimba complet interpretarea. O cifră actuală bună poate fi slăbită de o revizuire negativă puternică a lunii precedente.
+  practical: Caută previous revised și notează dacă schimbă povestea raportului.
+  question: Revizuirea susține sau anulează headline-ul?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_044
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: headline risk'
+  body: Headline risk apare când titlurile schimbă rapid sentimentul înainte ca detaliile să fie clare. Traderul trebuie să distingă între reacție impulsivă și informație confirmată.
+  practical: Alege un headline major și urmărește dacă piața revine după clarificări.
+  question: Titlul este suficient pentru decizie sau ai nevoie de detalii?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_045
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: calendar economic ca hartă de risc'
+  body: Calendarul economic nu este generator de trade-uri, ci hartă de volatilitate. El îți spune când riscul de mișcări bruște crește și când interpretarea trebuie făcută cu răbdare.
+  practical: Înainte de sesiune, marchează orele cu high impact și instrumentele afectate.
+  question: Ce intervale ar trebui evitate sau doar observate?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_046
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: corelații schimbătoare'
+  body: Corelațiile macro nu sunt fixe. Dolarul, aurul, randamentele și indicii pot schimba relația când narativul trece de la inflație la creștere sau risc geopolitic.
+  practical: Verifică o corelație obișnuită pe ultimele cinci zile și notează excepțiile.
+  question: Ce faci când corelația pe care te bazai nu mai funcționează?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_047
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: macro vs price action'
+  body: Macro explică fundalul, price action arată reacția. Un trader disciplinat nu intră doar pentru că știrea pare bullish sau bearish; așteaptă confirmare în preț.
+  practical: După o știre, scrie interpretarea macro și apoi ce confirmă graficul.
+  question: Graficul susține narativul sau îl respinge?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_048
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: date mixte'
+  body: Datele mixte cer răbdare, deoarece piața poate oscila între interpretări. Când CPI e bun dar job market e puternic, reacția poate fi confuză.
+  practical: Alege o zi cu două date contradictorii și notează care a dominat după o oră.
+  question: Cum eviți să alegi doar cifra care confirmă biasul?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_049
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: Asia macro'
+  body: Datele din China, Japonia sau Australia pot influența Asia, commodities și risk sentiment global. Pentru DAX/NQ, impactul poate apărea indirect prin futures.
+  practical: Urmărește reacția futures europene după date importante din Asia.
+  question: Datele asiatice au schimbat tonul înainte de Europa?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_050
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: China demand'
+  body: Datele Chinei pot influența petrol, metale, lux, auto și sentiment global. Slăbiciunea cererii chineze poate apăsa sectoare ciclice chiar dacă SUA arată bine.
+  practical: Compară datele China retail/industrial cu reacția commodities și DAX.
+  question: China susține sau slăbește narativul global?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_051
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: Europa energie'
+  body: Prețurile energiei pot influența inflația europeană și competitivitatea industriei. Pentru DAX, gazul și petrolul pot conta în zile cu stres energetic.
+  practical: Urmărește DAX lângă prețurile energiei într-o zi cu știri pe gaz/petrol.
+  question: Energia este un factor relevant sau doar zgomot azi?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_052
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: fiscal policy'
+  body: Politica fiscală poate influența creșterea, inflația și randamentele. Stimulus-ul poate susține economia, dar poate ridica întrebări despre deficit și emisiuni de obligațiuni.
+  practical: Notează o măsură fiscală și reacția randamentelor.
+  question: Piața vede politica fiscală drept suport sau risc?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_053
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: bond auctions'
+  body: Licitațiile de obligațiuni pot mișca randamentele dacă cererea este slabă sau puternică. Tail, bid-to-cover și indirect bidders pot oferi indicii despre apetitul pentru datorie.
+  practical: Urmărește US10Y după o licitație importantă.
+  question: Cererea pentru obligațiuni confirmă sau apasă sentimentul?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_054
+  category: macroeconomie
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: real yields'
+  body: Randamentele reale ajustează randamentele nominale cu inflația așteptată. Ele sunt importante pentru aur, tech și evaluări.
+  practical: Compară aurul cu direcția randamentelor reale sau un proxy apropiat.
+  question: Aurul reacționează mai logic la real yields decât la nominal yields?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_055
+  category: macroeconomie
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: financial conditions'
+  body: Financial conditions combină rate, credit, dolar, equities și volatilitate. Când condițiile se înăspresc, activele de risc pot deveni mai vulnerabile.
+  practical: Descrie într-o propoziție dacă condițiile par mai restrictive sau mai relaxate.
+  question: Ce componentă apasă cel mai mult condițiile financiare?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_056
+  category: macroeconomie
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: macro playbook săptămânal'
+  body: 'Un playbook macro săptămânal îți dă orientare: evenimente, scenarii, active sensibile și riscuri. Scopul este să fii pregătit, nu să prezici fiecare mișcare.'
+  practical: Duminică sau luni, scrie top 3 evenimente, scenariul hawkish/dovish și instrumentele afectate.
+  question: Care este evenimentul care poate schimba cel mai mult săptămâna?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_057
+  category: macroeconomie
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: macro pentru DAX'
+  body: Pentru DAX, urmărește simultan datele Europei, EURUSD, energia, randamentele germane și sentimentul din futures SUA. DAX poate porni local, dar de multe ori confirmarea vine din context global.
+  practical: 'Construiește o fișă DAX cu cinci factori: Europa, SUA, euro, energie, futures.'
+  question: Care factor explică cel mai bine mișcarea DAX de azi?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_058
+  category: macroeconomie
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: macro pentru NQ'
+  body: Pentru NQ, cei mai importanți factori intraday sunt US yields, dolarul, sentimentul tech, știrile pe megacap și datele Fed-sensitive. Un setup tehnic bun poate eșua dacă randamentele accelerează împotriva lui.
+  practical: Înainte de NQ, verifică US10Y, US2Y, DXY și calendarul SUA.
+  question: Contextul macro ajută sau contrazice setup-ul tehnic?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_059
+  category: macroeconomie
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: macro pentru aur'
+  body: Aurul poate fi mișcat de dolar, randamente reale, inflație și frică geopolitică. Când acești factori se contrazic, price action-ul devine decisiv.
+  practical: Pentru XAUUSD, notează zilnic DXY, US10Y și headline-urile de risc.
+  question: Ce factor pare dominant pentru aur în sesiunea curentă?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: macro_060
+  category: macroeconomie
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: macro recap de vineri'
+  body: Recapitularea macro de vineri te ajută să vezi ce temă a dominat săptămâna și ce a fost doar zgomot. Această analiză reduce riscul de a începe luni cu o poveste veche.
+  practical: Scrie trei teme macro care au mutat piețele și trei evenimente pentru săptămâna următoare.
+  question: Ce narativ trebuie actualizat înainte de luni?
+  disclaimer: Conținut educațional. Știrile macro sunt context, nu semnale de tranzacționare.
+- key: psiho_001
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: FOMO la breakout'
+  body: FOMO apare când vezi prețul plecând fără tine și simți că trebuie să sari în mișcare. În realitate, multe intrări târzii apar exact lângă lichiditatea unde profesioniștii reduc risc.
+  practical: 'Scrie înainte de sesiune regula: nu intru după impuls dacă nu am retragere sau confirmare planificată.'
+  question: Ce simți în corp când vezi o lumânare mare fără tine?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_002
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: revenge trading'
+  body: Revenge trading înseamnă să cauți alinare emoțională prin următoarea intrare. Piața nu îți datorează recuperare, iar frustrarea scade calitatea percepției.
+  practical: După o pierdere, completează jurnalul înainte de orice nouă analiză.
+  question: Ce acțiune concretă te oprește din recuperare forțată?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_003
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: overtrading'
+  body: Overtradingul apare când activitatea înlocuiește calitatea. Traderul simte că muncește, dar de fapt reduce selectivitatea și crește expunerea la setup-uri slabe.
+  practical: Limitează-te la maximum două idei A pe zi și notează toate ideile refuzate.
+  question: Câte trade-uri au fost cu adevărat necesare în ultima ta zi activă?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_004
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: frica de a pierde'
+  body: Frica de pierdere poate duce la stop-uri mutate prea repede, ieșiri premature sau evitarea setup-urilor valide. Soluția nu este curajul orb, ci risc suficient de mic și reguli clare.
+  practical: Redu riscul într-un exercițiu până când poți executa planul fără tensiune majoră.
+  question: Ce risc te ajută să accepți o pierdere planificată?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_005
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: frica de a greși'
+  body: Frica de a greși te face să cauți certitudine într-un mediu probabilistic. În trading, obiectivul nu este să ai dreptate mereu, ci să pierzi controlat când ideea nu funcționează.
+  practical: Notează o greșeală și separă consecința financiară de lecția de proces.
+  question: Ce ai învățat din ultima greșeală reală?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_006
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: încrederea excesivă'
+  body: După câteva rezultate bune, creierul poate confunda seria favorabilă cu superioritate. Atunci apar poziții mai mari, reguli relaxate și intrări justificate superficial.
+  practical: După o zi bună, revizuiește dacă ai respectat riscul la fel ca într-o zi normală.
+  question: Ce regulă ai tendința să relaxezi după profit?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_007
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: bias direcțional'
+  body: Biasul devine periculos când îl transformi în identitate. Dacă vrei să fii bullish cu orice preț, vei ignora semnele bearish și vei numi invalidarea 'manipulare'.
+  practical: Pentru fiecare analiză, scrie ce eveniment ar invalida biasul.
+  question: Ce informație opusă accepți cel mai greu?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_008
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: atașamentul de analiză'
+  body: Cu cât muncești mai mult la o analiză, cu atât poate fi mai greu să renunți la ea. Dar piața nu recompensează efortul, ci adaptarea la informații noi.
+  practical: 'Setează o condiție clară: dacă X se întâmplă, analiza este anulată fără negociere.'
+  question: Când ai apărat o analiză doar pentru că era a ta?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_009
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: răbdarea activă'
+  body: Răbdarea activă nu înseamnă să nu faci nimic, ci să urmărești condițiile definite. Traderul disciplinat observă, notează și așteaptă confirmarea în zona potrivită.
+  practical: Alege o zonă și scrie exact ce trebuie să vezi înainte de orice decizie.
+  question: Ce anume aștepți concret, nu generic?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_010
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: disciplina după pierdere'
+  body: Disciplina reală se vede după pierdere. Dacă următoarea decizie respectă același proces, pierderea nu a devenit problemă comportamentală.
+  practical: 'Definește un protocol de 10 minute după pierdere: respirație, jurnal, pauză, reevaluare.'
+  question: Ce faci ca să nu transformi -1R în -3R?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_011
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: disciplina după câștig'
+  body: Câștigul poate fi la fel de periculos ca pierderea dacă îți dă permisiunea să improvizezi. Profitul nu validează automat procesul.
+  practical: După un câștig, verifică dacă setup-ul a fost bun sau doar rezultatul a fost favorabil.
+  question: Ai fost disciplinat sau doar ai avut rezultat bun?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_012
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: acceptarea incertitudinii'
+  body: Tradingul este joc de probabilități, nu de certitudini. Când accepți incertitudinea, nu mai cauți confirmări infinite și nu mai iei pierderea personal.
+  practical: 'Scrie pentru un setup: poate funcționa și poate eșua, iar ambele sunt normale.'
+  question: Cum se schimbă execuția când nu mai cauți certitudine?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_013
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: proces peste rezultat'
+  body: Rezultatul unui trade este zgomotos; procesul pe 50-100 de decizii este mai relevant. Un trade câștigător luat prost este periculos pentru că întărește comportamentul greșit.
+  practical: 'Evaluează fiecare trade cu două scoruri: rezultat și respectare proces.'
+  question: Ce trade câștigător a fost de fapt o greșeală?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_014
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: jurnal emoțional'
+  body: 'Jurnalul emoțional îți arată tipare care nu apar în P&L: grabă, frustrare, ezitare, entuziasm, oboseală. Fără aceste date, repeți aceleași reacții.'
+  practical: 'Adaugă coloane: emoție înainte, emoție în timpul trade-ului, emoție după.'
+  question: Ce emoție apare cel mai des înainte de abateri?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_015
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: rutina de pre-market'
+  body: Rutina de pre-market reduce deciziile impulsive. Când repeți aceiași pași, mintea intră în modul de analiză, nu în modul de reacție.
+  practical: 'Construiește o rutină de 7 minute: macro, HTF, lichiditate, zone, risc, stare mentală.'
+  question: Care pas din rutină îți oferă cea mai mare claritate?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_016
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: checklist mental'
+  body: Checklistul mental este bariera dintre idee și execuție. Dacă nu poți răspunde clar la context, confirmare, invalidare și risc, nu ai setup, ai impuls.
+  practical: Înainte de orice execuție, răspunde în scris la patru întrebări obligatorii.
+  question: Ce întrebare te-ar opri cel mai des?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_017
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: oboseala'
+  body: Oboseala scade calitatea percepției și mărește impulsivitatea. Uneori piața nu este problema; starea ta este incompatibilă cu decizii rapide.
+  practical: Evaluează energia de la 1 la 5 înainte de sesiune și interzice execuția sub un prag ales.
+  question: Ce semn îți arată că nu mai vezi clar graficul?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_018
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: plictiseala'
+  body: Plictiseala produce trade-uri inventate. Când piața nu oferă setup, mintea caută stimulare și transformă niveluri mediocre în oportunități.
+  practical: Notează de fiecare dată când vrei să intri doar pentru că 'nu s-a întâmplat nimic'.
+  question: Cum diferențiezi răbdarea de plictiseală?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_019
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: presiunea de a performa'
+  body: Presiunea financiară poate transforma tradingul într-o nevoie urgentă de rezultat. Această stare deteriorează disciplina, pentru că fiecare trade pare important pentru viața ta.
+  practical: Înlocuiește obiectivul de bani cu obiective controlabile pentru 60 de zile.
+  question: Ce obiectiv de proces poți controla complet?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_020
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: comparația cu alții'
+  body: Comparația cu traderi mai avansați poate crea risc emoțional. Nu vezi drawdown-ul, contextul, capitalul sau anii de practică ai altcuiva.
+  practical: Scrie trei metrici personale de progres care nu depind de alți oameni.
+  question: Cu cine te compari și ce informație îți lipsește despre acea persoană?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_021
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: validare socială'
+  body: Dorința de a posta trade-uri bune sau de a părea profesionist poate împinge la decizii demonstrative. Tradingul cere discreție, nu spectacol.
+  practical: În jurnal, marchează dacă ai luat ideea pentru proces sau pentru validare externă.
+  question: Ai vrut să faci bani sau să demonstrezi ceva?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_022
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: ego-ul traderului'
+  body: Ego-ul apare când vrei să ai dreptate mai mult decât vrei să gestionezi riscul. Piața pedepsește rigiditatea, nu lipsa de inteligență.
+  practical: 'Scrie propoziția: ''Dacă piața invalidează, ies fără negociere.'''
+  question: Unde confunzi invalidarea cu atac la identitatea ta?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_023
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: nevoia de control'
+  body: Traderii încearcă să controleze piața prin predicții, dar pot controla doar analiza, riscul și reacția. Claritatea vine din separarea acestor două lumi.
+  practical: 'Fă două coloane: ce controlez și ce nu controlez în sesiunea de azi.'
+  question: Ce lucru încerci să controlezi deși nu depinde de tine?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_024
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: încrederea construită corect'
+  body: Încrederea reală vine din repetarea procesului, nu dintr-un rezultat mare. Ea crește când vezi că poți respecta regulile în contexte diferite.
+  practical: Notează 10 sesiuni în care obiectivul este doar respectarea planului.
+  question: Ce dovadă ai că încrederea ta este bazată pe proces?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_025
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: ezitarea'
+  body: 'Ezitarea poate însemna două lucruri: setup neclar sau risc prea mare. În loc să te forțezi, identifică ce informație lipsește.'
+  practical: 'Când eziți, notează cauza: context, confirmare, risc, stare mentală.'
+  question: Ezitarea te protejează sau te blochează?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_026
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: impulsivitatea'
+  body: 'Impulsivitatea scurtează distanța dintre emoție și click. Un sistem bun introduce fricțiune: checklist, timer, jurnal, limită de trade-uri.'
+  practical: Adaugă o regulă de 60 de secunde înainte de orice intrare.
+  question: Ce decizie s-ar fi schimbat dacă așteptai un minut?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_027
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: toleranța la risc'
+  body: Toleranța reală la risc se vede în comportament, nu în ce spui că accepți. Dacă după -1R încalci planul, riscul este prea mare pentru nivelul actual.
+  practical: Evaluează calmul după fiecare pierdere și ajustează riscul până rămâi disciplinat.
+  question: Ce pierdere poți accepta fără să te schimbi?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_028
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: starea înainte de sesiune'
+  body: 'Starea mentală înainte de sesiune influențează tot: atenție, răbdare, interpretare, execuție. Nu începe tradingul dacă intri deja frustrat sau grăbit.'
+  practical: 'Completează un check-in: somn, energie, stres, focus, emoție dominantă.'
+  question: Ce stare ar trebui să activeze no-trade?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_029
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: post-trade review'
+  body: Review-ul imediat după trade prinde detalii pe care memoria le modifică mai târziu. Notează motivul intrării, emoția și dacă planul a fost respectat.
+  practical: Completează un mini-review în primele cinci minute după închidere.
+  question: Ce ai observat imediat ce altfel ai uita?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_030
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: review fără rușine'
+  body: Rușinea blochează învățarea pentru că te face să ascunzi greșelile. Un jurnal bun trebuie să fie sincer, nu frumos.
+  practical: Alege cea mai slabă decizie a săptămânii și descrie-o factual, fără insultă personală.
+  question: Ce greșeală eviți să privești direct?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_031
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: mindset probabilistic'
+  body: 'Mindsetul probabilistic spune: pot face totul corect și totuși pierde. Această idee reduce atașamentul și crește consistența.'
+  practical: 'Scrie pentru fiecare trade probabilitatea, nu certitudinea: ''acesta este un scenariu, nu o promisiune''.'
+  question: Cum reacționezi când un trade corect pierde?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_032
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: serii statistice'
+  body: Creierul judecă rapid după ultimele rezultate, dar tradingul cere serii mari. Trei pierderi nu distrug un sistem și trei câștiguri nu îl validează.
+  practical: Analizează deciziile pe grupuri de 20, nu individual.
+  question: Cât de repede tragi concluzii despre tine?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_033
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: autocontrol la știri'
+  body: Știrile creează adrenalină și senzația că oportunitatea dispare. Pentru mulți traderi, cel mai bun edge la știri este să aștepte după prima reacție.
+  practical: Setează o regulă de observație pentru primele 5-15 minute după high impact news.
+  question: Ce te atrage cel mai mult la volatilitatea de știri?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_034
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: frustrarea din no-trade'
+  body: Zilele fără trade pot părea pierdute, dar ele sunt dovadă de selecție. Un trader care nu știe să stea deoparte va plăti pentru activitate inutilă.
+  practical: La finalul unei zile fără trade, scrie ce riscuri ai evitat.
+  question: Poți considera o zi fără trade o zi reușită?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_035
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: închiderea platformei'
+  body: Uneori cea mai bună decizie psihologică este să închizi platforma. Când limita este atinsă sau claritatea scade, accesul continuu la grafic devine tentație.
+  practical: Definește trei situații în care platforma se închide obligatoriu.
+  question: Ce moment îți arată că nu mai ești obiectiv?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_036
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: regula pauzei'
+  body: Pauza întrerupe lanțul emoțional dintre rezultat și următoarea decizie. Nu este slăbiciune, ci risk management psihologic.
+  practical: Aplică pauză de 15 minute după orice rezultat care îți crește pulsul sau frustrarea.
+  question: Ce semn fizic îți spune că ai nevoie de pauză?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_037
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: self-talk'
+  body: Felul în care îți vorbești după greșeli influențează următoarele decizii. Critica agresivă crește stresul, iar analiza factuală crește învățarea.
+  practical: 'Rescrie o autocritică dură în limbaj factual: ce s-a întâmplat, de ce, ce schimb.'
+  question: Cum sună vocea ta interioară după o pierdere?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_038
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: regretul'
+  body: Regretul după oportunități ratate poate declanșa următoarea intrare proastă. Trebuie să separi setup ratat conform planului de setup ratat din lipsă de disciplină.
+  practical: 'Notează un trade ratat și întreabă: era în plan sau doar îl văd clar după fapt?'
+  question: Regreți că ai respectat planul sau că nu l-ai avut clar?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_039
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: învățare deliberată'
+  body: Învățarea deliberată înseamnă să lucrezi pe o slăbiciune concretă, nu să consumi conținut la întâmplare. Fiecare săptămână trebuie să aibă o temă de îmbunătățire.
+  practical: 'Alege o singură abilitate pentru 7 zile: răbdare, invalidare, journal, FVG.'
+  question: Ce abilitate merită izolată săptămâna aceasta?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_040
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: claritatea prin simplitate'
+  body: Complexitatea poate ascunde lipsa de edge. Dacă analiza are prea multe excepții, zone și justificări, mintea devine confuză în execuție.
+  practical: 'Redu analiza la trei elemente: context, nivel, invalidare.'
+  question: Ce poți elimina din grafic fără să pierzi calitate?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_041
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: consistența'
+  body: Consistența nu înseamnă profit zilnic, ci comportament repetabil. Dacă regulile se schimbă după fiecare rezultat, nu poți evalua procesul.
+  practical: Alege o regulă și respect-o timp de 20 de sesiuni fără modificări.
+  question: Ce regulă ai schimbat prea des?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_042
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: perfectionism'
+  body: Perfecționismul poate bloca acțiunea sau review-ul. Nu ai nevoie de analiză perfectă, ci de proces suficient de clar, risc mic și feedback constant.
+  practical: Setează un timp maxim pentru analiză și apoi scrie doar concluzia esențială.
+  question: Unde cauți perfecțiune ca să eviți disconfortul?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_043
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: răbdarea cu progresul'
+  body: Tradingul cere acumulare lentă de experiență. Dacă forțezi viteza progresului, de obicei mărești riscul și scazi calitatea deciziilor.
+  practical: Definește progresul pe 60 de zile prin acțiuni, nu bani.
+  question: Ce semn mic ar arăta că devii mai disciplinat?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_044
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: identitatea de trader'
+  body: Identitatea sănătoasă nu este 'sunt profitabil mereu', ci 'sunt persoana care respectă procesul'. Această identitate rezistă și în pierderi.
+  practical: Scrie trei propoziții despre traderul disciplinat pe care vrei să îl construiești.
+  question: Ce identitate susțin acțiunile tale zilnice?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_045
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: managementul dopaminei'
+  body: Graficele rapide, notificările și P&L-ul live pot crea dependență de stimulare. Reducerea stimulilor ajută la decizii mai calme.
+  practical: Ascunde P&L-ul live într-o sesiune de studiu și urmărește doar R și structură.
+  question: Ce stimul te face să reacționezi impulsiv?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_046
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: P&L blindness'
+  body: Când te uiți continuu la bani, uiți setup-ul. P&L-ul live poate transforma managementul tehnic în management emoțional.
+  practical: În timpul unui trade ipotetic, urmărește doar nivelurile tehnice, nu suma.
+  question: Cum se schimbă decizia când vezi banii fluctuați?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_047
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: planul de revenire'
+  body: Un plan de revenire după abatere trebuie scris înainte de criză. El poate include pauză, risc redus, review și sesiuni demo.
+  practical: 'Creează protocolul: ce fac după overtrading, revenge sau încălcarea max loss.'
+  question: Ce abatere are nevoie de cel mai clar plan de revenire?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_048
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: încredere după drawdown'
+  body: Drawdown-ul testează dacă ai încredere în date sau doar în ultimele rezultate. Revenirea cere reducerea presiunii, nu dublarea riscului.
+  practical: După o serie slabă, revizuiește setup-urile și execută doar cu risc redus până revine disciplina.
+  question: Ce dovadă îți spune că problema este piața, nu comportamentul?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_049
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: disciplina în comunitate'
+  body: Într-o comunitate, presiunea de grup poate influența deciziile. Ideile altora trebuie filtrate prin propriul plan, nu preluate automat.
+  practical: Când vezi o idee pe Discord, completează propriul checklist înainte să o consideri validă.
+  question: Urmărești procesul tău sau emoția grupului?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_050
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: întrebări bune'
+  body: Calitatea întrebărilor schimbă calitatea învățării. 'Intrăm long?' este mai slab decât 'ce confirmare ar valida scenariul bullish?'.
+  practical: Rescrie trei întrebări impulsive în întrebări de proces.
+  question: Ce întrebare te-ar face un trader mai bun?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_051
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: răbdarea în educație'
+  body: La început, tentația este să cauți setup-uri avansate înainte să stăpânești structura, lichiditatea și riscul. Ordinea corectă reduce confuzia.
+  practical: Alege un singur concept SMC și studiază-l pe 30 exemple înainte să treci mai departe.
+  question: Ce concept de bază merită repetat mai mult?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_052
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: weekend review psihologic'
+  body: Review-ul psihologic de weekend arată ce emoții au influențat deciziile. Nu urmărești vinovăție, ci tipare repetabile care pot fi corectate.
+  practical: Scrie top 3 emoții ale săptămânii și deciziile asociate lor.
+  question: Ce tipar emoțional vrei să reduci săptămâna viitoare?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_053
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: proces 60 zile'
+  body: 'Un ciclu de 60 zile trebuie să construiască obiceiuri: rutină, jurnal, risc, review și selecție. Nu urmări transformare rapidă, ci dovezi zilnice de disciplină.'
+  practical: Definește 5 metrici zilnice și marchează-le timp de 60 de zile.
+  question: Ce obicei, dacă îl repeți 60 zile, îți schimbă tradingul?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_054
+  category: psihologie_si_disciplina
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: acceptarea noii informații'
+  body: Piața poate oferi informații care contrazic planul inițial. Flexibilitatea matură nu înseamnă să schimbi scenariul la fiecare lumânare, ci să accepți invalidarea când criteriile clare sunt atinse.
+  practical: Scrie dinainte ce informație nouă te-ar face să schimbi scenariul.
+  question: Când devine adaptare și când devine lipsă de disciplină?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_055
+  category: psihologie_si_disciplina
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: decizii sub presiune'
+  body: Sub presiune, creierul caută scurtături și ignoră pași importanți. De aceea regulile trebuie să fie simple, vizibile și repetate înainte de sesiune.
+  practical: Pune checklistul de risc lângă platformă și citește-l înainte de orice idee.
+  question: Ce pas uiți primul când presiunea crește?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_056
+  category: psihologie_si_disciplina
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: recuperarea după greșeală'
+  body: O greșeală nu trebuie urmată de încă una. Capacitatea de a opri lanțul după prima abatere este o abilitate psihologică esențială.
+  practical: După prima abatere, oprește sesiunea sau treci pe replay, fără excepție.
+  question: Cât de repede poți întrerupe lanțul greșelilor?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_057
+  category: psihologie_si_disciplina
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: focus pe un instrument'
+  body: Prea multe instrumente cresc zgomotul mental. La început, focusul pe 1-2 instrumente ajută să înveți ritmul, sesiunile și reacțiile specifice.
+  practical: Alege un instrument principal pentru 10 sesiuni și notează doar comportamentul lui.
+  question: Ce observi mai bine când reduci numărul de grafice?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_058
+  category: psihologie_si_disciplina
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: toleranța la oportunități ratate'
+  body: Oportunitățile ratate fac parte din trading. Dacă alergi după ele, transformi o decizie bună de a aștepta într-o intrare slabă.
+  practical: 'Notează fiecare mișcare ratată și clasifică: era în plan sau nu era în plan.'
+  question: Cât de greu îți este să spui 'nu era trade-ul meu'?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_059
+  category: psihologie_si_disciplina
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: ritualul de închidere'
+  body: Închiderea sesiunii este importantă pentru separarea pieței de viața personală. Fără ritual, rămâi mental prins în grafice și cauți justificări după program.
+  practical: La final, scrie 3 observații, 1 lecție și închide platforma complet.
+  question: Ce te ajută să lași sesiunea în urmă?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: psiho_060
+  category: psihologie_si_disciplina
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: atenția selectivă'
+  body: Când ai un bias, observi mai ușor informația care îl confirmă. Atenția selectivă este periculoasă deoarece pare analiză, dar este filtrare emoțională.
+  practical: Forțează-te să scrii un argument opus pentru fiecare scenariu principal.
+  question: Ce semnal opus ai ignorat pentru că nu se potrivea cu ideea ta?
+  disclaimer: Conținut educațional. Nu reprezintă consultanță financiară.
+- key: resurse_001
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: template analiză top-down'
+  body: Un template top-down standardizează analiza și reduce improvizația. Include context HTF, lichiditate, dealing range, zona de interes, confirmare LTF, invalidare și target logic.
+  practical: Completează același template pe trei instrumente fără să modifici ordinea pașilor.
+  question: Care secțiune din template îți clarifică cel mai mult decizia?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_002
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: fișa de setup A+'
+  body: Fișa de setup A+ definește ce înseamnă calitate înainte să apară emoția. Ea trebuie să includă criterii obiective, nu formulări vagi precum 'arată bine'.
+  practical: Scrie 6 criterii obligatorii pentru setup-ul tău A+.
+  question: Ce criteriu transformă o idee normală într-una de calitate?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_003
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: jurnal în R'
+  body: Jurnalul în R permite compararea performanței fără influența mărimii contului. Este mai curat pentru învățare decât notarea doar în bani.
+  practical: 'Adaugă coloanele: planned R, realized R, max favorable excursion, max adverse excursion.'
+  question: Ce observi când analizezi R, nu suma?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_004
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: bibliotecă de screenshot-uri'
+  body: O bibliotecă de screenshot-uri devine manualul tău personal. Cele mai bune exemple sunt cele annotate înainte și după sesiune, nu doar trade-urile câștigătoare.
+  practical: Salvează câte un screenshot înainte, în timpul și după setup.
+  question: Ce tip de screenshot îți lipsește cel mai mult?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_005
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: tag-uri în jurnal'
+  body: 'Tag-urile transformă jurnalul într-o bază de date. Exemple utile: sweep, FVG, OB, NY AM, CPI, revenge, no trade, late entry.'
+  practical: Definește 15 tag-uri și folosește-le constant timp de 30 zile.
+  question: Ce tag te-ar ajuta să găsești cel mai repede greșelile repetate?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_006
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: fișa de risc'
+  body: 'Fișa de risc trebuie completată înainte de intrare: risc per trade, max daily loss, invalidare, costuri, știri, expunere totală. Ea previne deciziile făcute după entuziasm.'
+  practical: Creează o fișă cu bife și câmpuri scurte, nu cu texte lungi.
+  question: Ce câmp te-ar opri din cele mai multe intrări slabe?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_007
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: calendar macro săptămânal'
+  body: Calendarul macro săptămânal este resursă de orientare. Notează evenimentele cu impact mare, ora României, instrumentele sensibile și scenariile posibile.
+  practical: Luni, scrie top 5 evenimente și marchează intervalele no-trade.
+  question: Ce eveniment ar putea schimba cel mai mult volatilitatea săptămânii?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_008
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: checklist de știri'
+  body: Un checklist de știri te ajută să nu reacționezi la headline fără context. Include forecast, actual, previous, revision, prima reacție și reacția după 15 minute.
+  practical: Aplică checklistul la următorul CPI, NFP sau FOMC.
+  question: Ce ai înțeles după 15 minute ce nu era clar în prima lumânare?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_009
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: model replay'
+  body: Replay-ul îți permite să exersezi fără presiune reală. Cel mai util este să oprești graficul înainte de confirmare și să scrii scenariul, nu să derulezi direct la rezultat.
+  practical: Fă 10 sesiuni replay și notează decizia înainte să vezi continuarea.
+  question: Ce ai anticipat greșit când nu știai viitorul?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_010
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: exercițiu sweep'
+  body: 'Exercițiul sweep dezvoltă ochiul pentru lichiditate. Nu nota doar nivelul luat, ci și ce se întâmplă după: acceptare, respingere, displacement, range.'
+  practical: 'Găsește 20 de sweep-uri și clasifică-le: reversal, continuare, fake fără reacție.'
+  question: Ce tip de sweep apare cel mai des pe instrumentul tău?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_011
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: exercițiu FVG'
+  body: Studiul FVG trebuie să se concentreze pe calitate, nu pe număr. Un FVG bun are context, displacement și poziție logică în premium/discount.
+  practical: Colectează 30 FVG-uri și notează dacă au fost respectate, umplute sau ignorate.
+  question: Ce caracteristică au FVG-urile care funcționează cel mai bine?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_012
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: exercițiu OB'
+  body: Pentru order block-uri, notează cauza, nu doar lumânarea. Întreabă dacă zona a generat displacement și rupere de structură sau doar arată frumos.
+  practical: Selectează 20 OB-uri și elimină-le pe cele fără BOS/CHOCH relevant.
+  question: Ce OB-uri ai marcat prea generos?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_013
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: fișă premium/discount'
+  body: Fișa premium/discount te obligă să nu cauți long în premium sau short în discount fără motiv solid. Locația este un filtru major de calitate.
+  practical: Pentru fiecare analiză, marchează dealing range-ul și poziția actuală a prețului.
+  question: Setup-ul tău pornește din valoare sau dintr-o zonă scumpă?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_014
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: hartă de lichiditate'
+  body: Harta de lichiditate arată unde ar putea merge prețul înainte de confirmare. Include EQH/EQL, high/low anterior, Asia range, daily high/low și trendline liquidity.
+  practical: Desenează harta înainte de sesiune și compar-o cu mișcarea reală la final.
+  question: Care lichiditate a fost atrasă prima?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_015
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: fișă sesiuni'
+  body: O fișă de sesiuni îți arată când instrumentul tău se mișcă cel mai clar. Notează Asia, London, NY AM, NY PM, ora României și tipul de mișcare.
+  practical: Timp de 10 zile, notează sesiunea în care apare setup-ul cel mai curat.
+  question: În ce interval ai cel mai bun raport claritate/risc?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_016
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: review de weekend'
+  body: Review-ul de weekend trebuie să producă o singură lecție aplicabilă, nu doar multe observații. Alege pattern-ul cel mai repetat și transformă-l în regulă pentru săptămâna următoare.
+  practical: Revizuiește 5 screenshot-uri și extrage o regulă concretă.
+  question: Ce regulă vrei să testezi săptămâna viitoare?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_017
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: fișa de greșeli'
+  body: O fișă de greșeli normalizează analiza erorilor. Include tip greșeală, declanșator, cost în R, regulă preventivă și status de îmbunătățire.
+  practical: Completează fișa pentru ultimele trei abateri din jurnal.
+  question: Care greșeală are cel mai mare cost cumulat?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_018
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: watchlist educațional'
+  body: Watchlist-ul educațional nu este listă de semnale, ci listă de instrumente pe care le studiezi pentru comportament. Prea multe simboluri reduc adâncimea observației.
+  practical: Alege maximum 3 instrumente și definește ce vrei să înveți de la fiecare.
+  question: Ce instrument îți oferă cele mai clare exemple pentru nivelul tău?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_019
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: plan de 60 zile'
+  body: 'Un plan de 60 zile trebuie împărțit în faze: observație, replay, reguli, forward testing, review. Scopul este acumularea de date, nu transformarea imediată în profit.'
+  practical: Definește câte 10 zile pentru fiecare abilitate principală.
+  question: Ce abilitate vrei să măsori la finalul celor 60 de zile?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_020
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: rubrică de notare setup'
+  body: O rubrică de notare face setup-urile comparabile. Poți nota locația, lichiditatea, confirmarea, risc/target, timing și stare mentală de la 1 la 5.
+  practical: Scor minim 20/30 pentru analiză serioasă, sub acest scor doar observație.
+  question: Ce setup-uri par bune vizual, dar pică la scor?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_021
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: template post Discord'
+  body: Un template pentru comunitate trebuie să educe, nu să dea direcții oarbe. Include context, niveluri, scenariu bullish, scenariu bearish, confirmare, invalidare și lecția zilei.
+  practical: Scrie o analiză DAX în 7 rânduri folosind același format.
+  question: Ce secțiune ajută cel mai mult începătorii?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_022
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: întrebări pentru comunitate'
+  body: Întrebările bune cresc calitatea discuției. În loc de 'long sau short?', întreabă 'ce lichiditate este mai probabil să fie atacată și ce ar invalida ideea?'.
+  practical: Pregătește 5 întrebări de proces pentru canalul analiza-zilei.
+  question: Ce întrebare schimbă conversația din predicție în educație?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_023
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: exercițiu no-trade'
+  body: Exercițiul no-trade învață selecția. Traderul notează motivele pentru care nu intră și observă câte pierderi evită prin refuzul setup-urilor mediocre.
+  practical: Alege o zi în care ai voie doar să marchezi setup-uri refuzate.
+  question: Ce ai evitat prin răbdare?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_024
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: fișa macro pentru trader'
+  body: 'Fișa macro pentru trader trebuie să conecteze datele cu activele: CPI → randamente/dolar/NQ, petrol → inflație, BCE → EUR/DAX, Fed → global risk.'
+  practical: Construiește o matrice cu eveniment, activ afectat, reacție hawkish/dovish.
+  question: Ce relație macro îți clarifică cel mai mult graficele?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_025
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: matrice instrumente'
+  body: Matricea instrumentelor arată ce factori domină fiecare piață. DAX, NQ, EURUSD, XAUUSD și petrolul nu reacționează la aceleași informații.
+  practical: Pentru fiecare instrument, scrie top 3 drivere macro și top 3 riscuri tehnice.
+  question: Ce instrument este cel mai compatibil cu stilul tău?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_026
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: bibliotecă de pattern-uri'
+  body: O bibliotecă de pattern-uri trebuie să conțină exemple bune, exemple eșuate și exemple neclare. Doar exemplele perfecte creează așteptări nerealiste.
+  practical: Pentru fiecare pattern, salvează 5 câștigătoare, 5 pierzătoare și 5 no-trade.
+  question: Ce înveți din exemplele eșuate?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_027
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: fișă de backtesting'
+  body: Fișa de backtesting trebuie să includă contextul, nu doar intrare/ieșire. Notează sesiune, lichiditate luată, PD array, confirmare, R și motivul invalidării.
+  practical: Testează un singur setup pe 50 exemple fără să schimbi regulile.
+  question: Ce condiție apare în exemplele profitabile?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_028
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: fișă de forward testing'
+  body: Forward testingul verifică execuția în timp real. Include timpul de decizie, emoția, respectarea checklistului și diferența dintre plan și execuție.
+  practical: Rulează 20 zile cu risc demo sau minim și notează abaterile.
+  question: Ce regulă este greu de respectat live?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_029
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: tracker de obiceiuri'
+  body: 'Un tracker de obiceiuri măsoară disciplina zilnică: rutină, calendar, analiză top-down, jurnal, review, pauză. Bifele simple pot arăta progres real.'
+  practical: Creează un tabel cu 6 obiceiuri și 60 coloane pentru zile.
+  question: Ce obicei are cea mai mare rată de lipsă?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_030
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: fișă de emoții'
+  body: Fișa de emoții conectează starea mentală cu deciziile. Emoțiile nu sunt problema; problema este când devin comandă pentru execuție.
+  practical: Notează emoția dominantă și decizia asociată pentru fiecare setup.
+  question: Ce emoție produce cele mai multe abateri?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_031
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: protocol de pauză'
+  body: 'Protocolul de pauză definește când și cum te oprești. Include trigger: -2R, două greșeli, oboseală, știri haotice, impuls de revenge.'
+  practical: Scrie protocolul în trei pași și ține-l vizibil lângă platformă.
+  question: Ce trigger trebuie să activeze pauza fără negociere?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_032
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: protocol după max loss'
+  body: După max loss, nu mai ai obiectiv de trading, ci de protejare a procesului. Protocolul trebuie să elimine accesul la decizii impulsive.
+  practical: 'Definește: platforma se închide, jurnal complet, review a doua zi, risc redus următoarea sesiune.'
+  question: Ce ai face concret în primele 5 minute după max loss?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_033
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: fișă de lecții zilnice'
+  body: O lecție zilnică trebuie să fie specifică, nu generică. 'Am fost impulsiv' devine util doar dacă scrii momentul, triggerul și regula preventivă.
+  practical: 'La finalul zilei, scrie o lecție în format: situație, reacție, corecție.'
+  question: Ce lecție poți aplica mâine?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_034
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: glosar SMC'
+  body: Un glosar SMC ajută începătorii să nu confunde termeni. Pentru fiecare termen, include definiție, condiții de validare și greșeli comune.
+  practical: Scrie definiții pentru BOS, CHOCH, FVG, OB, sweep, inducement.
+  question: Ce termen folosești încă prea vag?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_035
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: fișă de exemple pentru FVG'
+  body: O fișă dedicată FVG trebuie să arate unde gap-ul este valid și unde este doar un spațiu pe grafic. Include context, impuls, poziție și reacție.
+  practical: Colectează 10 exemple de FVG valid și 10 invalidate.
+  question: Ce diferență vezi între ele?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_036
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: fișă pentru lichiditate'
+  body: Fișa de lichiditate te învață să vezi nivelurile evidente pentru toți participanții. Include high/low, EQH/EQL, trendline liquidity și Asia range.
+  practical: Înainte de sesiune, marchează maximum cinci pool-uri de lichiditate.
+  question: Care nivel este cel mai evident și deci cel mai vulnerabil?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_037
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: worksheet BOS/CHOCH'
+  body: Un worksheet BOS/CHOCH clarifică diferența dintre continuare și schimbare. Include capturi unde CHOCH e real și capturi unde este doar zgomot LTF.
+  practical: Etichetează 20 exemple cu BOS, CHOCH sau noise.
+  question: Ce criteriu separă CHOCH real de zgomot?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_038
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: worksheet premium/discount'
+  body: Worksheet-ul premium/discount antrenează locația. Fără locație bună, chiar și confirmarea LTF poate avea probabilitate mai slabă.
+  practical: Pe 20 grafice, marchează range-ul și clasifică intrările ca premium, discount sau equilibrium.
+  question: Unde apar cele mai multe setup-uri de calitate?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_039
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: worksheet inducement'
+  body: Inducement-ul este greu pentru începători pentru că arată ca setup valid. Worksheet-ul trebuie să compare nivelul tentant cu zona mai profundă de valoare.
+  practical: Găsește 15 exemple în care primul nivel a fost luat înainte de reacția reală.
+  question: Ce te-ar fi făcut să aștepți zona mai bună?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_040
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: fișă de management trade'
+  body: 'Managementul trade-ului trebuie planificat: unde iei parțial, când muți stop-ul, ce faci dacă prețul stagnează, unde ieși complet.'
+  practical: Completează fișa înainte de intrare pentru un setup istoric.
+  question: Care decizie de management este cel mai des improvizată?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_041
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: fișă de invalidare'
+  body: Invalidarea scrisă previne speranța. Ea trebuie să descrie evenimentul tehnic exact care anulează ideea, nu doar un preț arbitrar.
+  practical: Pentru fiecare scenariu, scrie 'ideea este invalidă dacă...'.
+  question: Invalidarea ta este suficient de clară pentru a nu negocia?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_042
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: fișă de target'
+  body: Țintele trebuie conectate la lichiditate și structură. O fișă de target previne alegerea arbitrară a profitului doar pentru că arată bine ca R:R.
+  practical: Marchează TP1 la lichiditate internă și TP2 la lichiditate externă când are sens.
+  question: Targetul tău are motiv structural?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_043
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: fișă de setup eșuat'
+  body: Setup-urile eșuate sunt cele mai valoroase pentru rafinare. Ele arată dacă problema a fost contextul, intrarea, riscul, timingul sau lipsa confirmării.
+  practical: Pentru 10 pierderi, clasifică motivul eșecului într-o singură categorie principală.
+  question: Care categorie apare cel mai des?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_044
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: ghid pentru începători'
+  body: Un ghid bun pentru începători trebuie să înceapă cu structură, risc și jurnal, nu cu setup-uri complexe. Fără aceste baze, SMC devine doar desenat pe grafic.
+  practical: Scrie ordinea de studiu pentru primele 30 zile ale unui membru nou.
+  question: Ce concept trebuie predat înainte de FVG?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_045
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: calendar de conținut educațional'
+  body: Un calendar educațional bun alternează concept, greșeală, exercițiu, reflecție, studiu practic și recap. Repetiția structurată ajută comunitatea să învețe progresiv.
+  practical: Planifică o săptămână cu 6 tipuri diferite de postări pe aceeași temă.
+  question: Ce temă merită repetată în mai multe formate?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_046
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: fișă pentru mentor'
+  body: 'Fișa pentru mentor te ajută să răspunzi consecvent în comunitate. Include: întreabă contextul, cere invalidarea, verifică riscul, nu da semnal direct, explică procesul.'
+  practical: Pregătește 5 răspunsuri standard pentru membri care întreabă 'intrăm?'.
+  question: Cum transformi o întrebare de semnal într-o lecție?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_047
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: rubrică de feedback'
+  body: 'Feedback-ul bun este specific: ce a fost clar, ce lipsește, ce trebuie verificat și ce exercițiu urmează. Evită feedback-ul vag precum ''bun'' sau ''greșit''.'
+  practical: 'Analizează o postare de membru folosind: context, lichiditate, confirmare, risc, claritate.'
+  question: Ce tip de feedback ajută fără să descurajeze?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_048
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: fișă de progres lunar'
+  body: Progresul lunar trebuie măsurat prin comportamente repetabile, nu doar P&L. Include respectare risc, jurnal complet, setup-uri refuzate, review-uri, emoții.
+  practical: La final de lună, acordă scor 1-5 pentru fiecare comportament-cheie.
+  question: Ce metrică arată cel mai bine maturizarea ta?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_049
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: sistem de lecții scurte'
+  body: 'Lecțiile scurte funcționează bine în Discord dacă au structură: idee, exemplu, exercițiu, întrebare. Membrii învață mai bine când pot aplica imediat.'
+  practical: Transformă un concept SMC într-o postare de maximum 120 de cuvinte plus exercițiu.
+  question: Ce lecție poate fi aplicată în 10 minute?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_050
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: mini-quiz trading'
+  body: Mini-quiz-urile verifică înțelegerea fără presiune. Întrebările trebuie să ceară raționament, nu memorarea termenilor.
+  practical: Creează 5 întrebări cu variante despre sweep, BOS, FVG și invalidare.
+  question: Ce întrebare ar arăta dacă membrul chiar înțelege conceptul?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_051
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: studiu de caz săptămânal'
+  body: Un studiu de caz săptămânal adună toate conceptele într-un exemplu real. Arată contextul inițial, scenariile, ce a făcut piața și ce lecție rămâne.
+  practical: Alege o zi pe DAX/NQ și documentează-o cu 3 screenshot-uri.
+  question: Ce lecție generală scoți din acest caz?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_052
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: fișă de reguli personale'
+  body: Regulile personale trebuie să fie puține, clare și verificabile. Dacă regula nu poate fi bifată obiectiv, va fi greu de respectat sub presiune.
+  practical: Scrie 10 reguli și elimină-le până rămân 5 esențiale.
+  question: Care regulă are cel mai mare impact asupra rezultatelor tale?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_053
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: hartă de învățare SMC'
+  body: O hartă de învățare SMC ar trebui să progreseze de la structură la lichiditate, apoi la PD arrays, timing, entry model și risk. Ordinea contează pentru claritate.
+  practical: Desenează o hartă cu 6 niveluri și ce exercițiu aparține fiecăruia.
+  question: La ce nivel ești blocat acum?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_054
+  category: resurse_educationale
+  weekdayType: case_study
+  difficulty: beginner
+  title: '🔎 Studiu practic: resurse pentru sesiunea live'
+  body: 'Pentru sesiuni live cu comunitatea, pregătește înainte: calendar macro, niveluri HTF, lichidități, scenarii și reguli de no-trade. Asta previne improvizația publică.'
+  practical: Cu 15 minute înainte de sesiune, completează fișa live.
+  question: Ce informație trebuie pregătită înainte să vorbești cu membrii?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_055
+  category: resurse_educationale
+  weekdayType: recap
+  difficulty: beginner
+  title: '📌 Recapitularea săptămânii: fișă de recap comunitate'
+  body: Recap-ul comunității trebuie să educe și după ce piața s-a mișcat. Include ce am urmărit, ce s-a confirmat, ce s-a invalidat și ce lecție rămâne.
+  practical: La final de zi, postează un recap în 5 puncte fără a transforma totul în semnal.
+  question: Ce lecție ar trebui să rămână membrilor după sesiune?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_056
+  category: resurse_educationale
+  weekdayType: preparation
+  difficulty: beginner
+  title: '🗓️ Pregătirea săptămânii: plan de conținut 60 zile'
+  body: Un plan de conținut pe 60 zile trebuie să repete conceptele în profunzime, nu doar să adauge termeni noi. Fiecare temă trebuie să aibă concept, exercițiu și recap.
+  practical: 'Împarte 60 zile în 5 module: baze, risc, macro, psihologie, studii de caz.'
+  question: Ce modul are nevoie de cele mai multe exerciții practice?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_057
+  category: resurse_educationale
+  weekdayType: concept
+  difficulty: beginner
+  title: '📘 Conceptul zilei: arhivă de lecții'
+  body: Arhiva de lecții ajută membrii noi să recupereze structurat. Organizează lecțiile pe module, dificultate și exerciții, nu doar cronologic.
+  practical: 'Creează categorii: SMC basics, risk, macro, psychology, journal templates.'
+  question: Ce lecție ar trebui să fie prima în arhivă?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_058
+  category: resurse_educationale
+  weekdayType: mistake
+  difficulty: beginner
+  title: '⚠️ Greșeala zilei: fișă de audit personal'
+  body: Auditul personal lunar arată dacă procesul se îmbunătățește. Include cele mai repetate greșeli, cele mai clare setup-uri și regula pe care o vei schimba.
+  practical: 'Completează auditul cu date, nu impresii: număr abateri, R pierdut prin greșeli, setup-uri refuzate.'
+  question: Ce schimbare are cel mai mare potențial luna viitoare?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_059
+  category: resurse_educationale
+  weekdayType: exercise
+  difficulty: beginner
+  title: '🧩 Exercițiul zilei: sistem de notițe'
+  body: Un sistem de notițe bun separă concepte, exemple, greșeli și reguli. Altfel, informația devine grămadă de idei fără aplicare.
+  practical: 'Creează patru foldere sau pagini: concepte, exemple, jurnal, reguli.'
+  question: Unde se pierde cel mai multă informație în procesul tău?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
+- key: resurse_060
+  category: resurse_educationale
+  weekdayType: reflection
+  difficulty: beginner
+  title: '💭 Întrebarea zilei: lecția zilei cu aplicație'
+  body: Fiecare lecție trebuie să se termine cu o acțiune concretă. Fără aplicație, educația rămâne consum pasiv și nu schimbă comportamentul pe grafic.
+  practical: Pentru orice concept învățat, scrie un exercițiu de 10 minute.
+  question: Ce acțiune dovedește că ai înțeles lecția?
+  disclaimer: Exercițiu educațional pentru studiu și disciplină.
