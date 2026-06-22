@@ -141,6 +141,40 @@
       "articleHashes": [],
       "articleCount": 0,
       "postedAt": "2026-06-19T06:30:51.329Z"
+    },
+    {
+      "date": "2026-06-22",
+      "reportType": "stiri-importante",
+      "status": "posted",
+      "discordChannelId": "1515443122396725371",
+      "discordMessageIds": [
+        "1518498911868817428",
+        "1518498914377138207",
+        "1518498918667784353"
+      ],
+      "postedAt": "2026-06-22T06:12:34.813Z"
+    },
+    {
+      "date": "2026-06-22",
+      "reportType": "calendar-economic",
+      "status": "posted",
+      "discordChannelId": "1515443126582382662",
+      "discordMessageIds": [
+        "1518498927958032415"
+      ],
+      "postedAt": "2026-06-22T06:12:37.233Z"
+    },
+    {
+      "date": "2026-06-22",
+      "reportType": "reuters-markets",
+      "status": "posted",
+      "discordChannelId": "1515443122396725371",
+      "discordMessageIds": [
+        "1518498963047710822"
+      ],
+      "articleHashes": [],
+      "articleCount": 0,
+      "postedAt": "2026-06-22T06:12:45.356Z"
     }
   ]
 }
